@@ -267,23 +267,101 @@
 
   nav.tabs {
     position: sticky; top: 0; z-index: 5;
-    background: var(--paper); border-bottom: 1px solid var(--line);
+    background: var(--paper); box-shadow: inset 0 -1px 0 var(--line);
   }
-  nav.tabs .wrap { display: flex; gap: .25rem; overflow-x: auto; align-items: center; }
+  nav.tabs .wrap {
+    display: flex; gap: .25rem; align-items: stretch;
+    overflow-x: auto; overflow-y: hidden;   /* 'visible' on one axis computes to 'auto' — that was the stray vertical scrollbar */
+    scrollbar-width: none;
+  }
+  nav.tabs .wrap::-webkit-scrollbar { display: none; }
   nav.tabs a {
     display: block; padding: .8rem .9rem; text-decoration: none; color: var(--ink-2);
     font-weight: 700; font-size: .95rem; white-space: nowrap;
-    border-bottom: 3px solid transparent; margin-bottom: -1px;
+    border-bottom: 3px solid transparent;
   }
-  nav.tabs a small { font-size: .82em; font-weight: 400; color: var(--ink-3); }
   nav.tabs a:hover { color: var(--ink); }
   nav.tabs a.active { color: var(--ink); border-bottom-color: var(--ink); }
 
+  @media print {
+    nav.tabs, .sheet, .searchbtn, .jump, .learnt, .progress, .countdown,
+    .deckbar, .card-stage, .cardctl, .kbd, .mini, .score, .genders,
+    section#karten, section#quiz, .part-head .chip { display: none !important; }
+    :root { --paper: #fff; --paper-2: #fff; --ink: #000; --ink-2: #222; --ink-3: #555; --line: #bbb; }
+    body { background: #fff; }
+    .wrap { max-width: none; padding: 0; }
+    .lesson { break-inside: avoid; page-break-inside: avoid; }
+    .lesson-head { break-after: avoid; page-break-after: avoid; }
+    .hw li .ans { display: block !important; }
+    a[href^="#"] { text-decoration: none; color: inherit; }
+    .theory, .more, .fixes, .ruled, .hw { break-inside: avoid; page-break-inside: avoid; }
+  }
+
+  /* ---------- Fortschritt (progress) ---------- */
+  .learnt {
+    grid-column: 2; justify-self: start; margin-top: .2rem;
+    background: transparent; border: 1px solid var(--line); border-radius: 999px;
+    color: var(--ink-3); cursor: pointer; font: inherit; font-size: .78rem; font-weight: 700;
+    padding: .18rem .6rem;
+  }
+  .learnt:hover { border-color: var(--ink-3); color: var(--ink); }
+  .learnt[aria-pressed="true"] { background: var(--right-bg); border-color: var(--right); color: var(--right); }
+  .progress { display: flex; align-items: center; gap: .7rem; margin-top: 1rem; flex-wrap: wrap; }
+  .progress .bar { flex: 1; min-width: 8rem; height: 7px; border-radius: 999px; background: var(--line); overflow: hidden; }
+  .progress .bar i { display: block; height: 100%; width: 0; background: var(--right); transition: width .3s ease; }
+  @media (prefers-reduced-motion: reduce) { .progress .bar i { transition: none; } }
+  .progress .n { font-size: .85rem; font-weight: 700; color: var(--ink-2); font-variant-numeric: tabular-nums; }
+  .countdown {
+    display: inline-flex; align-items: baseline; gap: .4rem; margin-top: .9rem;
+    background: var(--das-bg); color: var(--das); border-radius: 999px;
+    padding: .3rem .85rem; font-size: .85rem; font-weight: 700;
+  }
+  .countdown b { font-size: 1.05rem; font-variant-numeric: tabular-nums; }
+
+  /* ---------- Suche (search overlay) ---------- */
+  .searchbtn {
+    background: var(--paper-2); border: 1px solid var(--line); border-radius: 6px;
+    color: var(--ink-2); cursor: pointer; font: inherit; font-weight: 700;
+    font-size: .85rem; line-height: 1; padding: .45rem .6rem; white-space: nowrap;
+  }
+  .searchbtn:hover { border-color: var(--ink-3); color: var(--ink); }
+  .searchbtn kbd { font-size: .78em; opacity: .7; margin-left: .35rem; }
+  .sheet[hidden] { display: none !important; }
+  .sheet {
+    position: fixed; inset: 0; z-index: 40; background: rgba(0,0,0,.45);
+    display: flex; align-items: flex-start; justify-content: center; padding: 6vh 1rem 1rem;
+  }
+  .sheet-box {
+    background: var(--paper); border: 1px solid var(--line); border-radius: 12px;
+    box-shadow: var(--shadow); width: min(42rem, 100%); max-height: 82vh;
+    display: flex; flex-direction: column; overflow: hidden;
+  }
+  .sheet-top { display: flex; gap: .5rem; align-items: center; padding: .8rem; border-bottom: 1px solid var(--line); }
+  .sheet-top input {
+    flex: 1; min-width: 0; font: inherit; font-size: 1.05rem; color: var(--ink);
+    background: var(--paper-2); border: 1px solid var(--line); border-radius: 8px; padding: .55rem .8rem;
+  }
+  .sheet-top input:focus-visible { outline: 2px solid var(--focus); outline-offset: 1px; }
+  .sheet-res { overflow-y: auto; padding: .4rem; }
+  .sheet-res .hit {
+    display: block; width: 100%; text-align: left; background: none; border: 0; border-radius: 8px;
+    color: inherit; cursor: pointer; font: inherit; padding: .55rem .7rem;
+  }
+  .sheet-res .hit:hover, .sheet-res .hit[aria-selected="true"] { background: var(--paper-2); }
+  .sheet-res .hit b { color: var(--ink); }
+  .sheet-res .hit .src { display: block; font-size: .8rem; color: var(--ink-3); margin-top: .1rem; }
+  .sheet-res mark { background: var(--das-bg); color: var(--ink); border-radius: 3px; padding: 0 .1em; }
+  .sheet-none { padding: 1.4rem .8rem; color: var(--ink-3); text-align: center; }
+  .sheet-foot { border-top: 1px solid var(--line); padding: .5rem .8rem; font-size: .8rem; color: var(--ink-3); }
+  .flash { animation: flash 1.6s ease-out 1; }
+  @keyframes flash { 0%, 40% { background: var(--das-bg); } 100% { background: transparent; } }
+  @media (prefers-reduced-motion: reduce) { .flash { animation: none; } }
+
   /* ---------- Lektion jumper (sticky, always reachable) ---------- */
-  .jump { margin-left: auto; display: flex; align-items: center; gap: .3rem; padding-left: .7rem; }
+  .jump { margin-left: auto; align-self: center; display: flex; align-items: center; gap: .3rem; padding-left: .7rem; }
   .jump select {
     font-size: .85rem; font-weight: 700; padding: .35rem .45rem;
-    max-width: 13rem; text-overflow: ellipsis;
+    max-width: 14rem; min-width: 0; text-overflow: ellipsis;
   }
   .jump .step {
     background: var(--paper-2); border: 1px solid var(--line); border-radius: 6px;
@@ -294,9 +372,8 @@
   .jump .step:disabled { opacity: .3; cursor: default; }
   .jump select:focus-visible, .jump .step:focus-visible { outline: 2px solid var(--focus); outline-offset: 2px; }
   @media (max-width: 46rem) {
-    nav.tabs .wrap { flex-wrap: wrap; overflow-x: visible; }
+    nav.tabs .wrap { flex-wrap: wrap; overflow: visible; }
     nav.tabs a { padding: .75rem .5rem; font-size: .9rem; }
-    nav.tabs a small { display: none; }   /* keep the three tabs on one line */
     .jump { width: 100%; margin: 0 0 .55rem; padding-left: 0; }
     /* min-width:0 lets the select shrink past its longest option instead of
        shoving the next-lesson button off the edge of a phone screen */
@@ -344,6 +421,11 @@
 
   .stack { display: grid; gap: 1rem; }
   .two { display: grid; gap: 1rem; }
+  /* German compounds run long (dreizehntausendzweihundertsechsunddreissig).
+     Grid items default to min-width:auto and refuse to shrink under one, which
+     pushed the whole page sideways on a phone. Let them shrink, and let the word wrap. */
+  .stack > *, .two > *, .pics > *, .ruled > *, .dlg > *, .clock > *, .numgrid > * { min-width: 0; }
+  body { overflow-wrap: break-word; }
   @media (min-width: 640px) { .two { grid-template-columns: 1fr 1fr; } }
 
   table.grid {
@@ -379,9 +461,11 @@
   /* ---------- flashcards ---------- */
   .deckbar { display: flex; flex-wrap: wrap; gap: .6rem; align-items: center; margin-bottom: 1rem; }
   .deckbar label { font-size: .9rem; color: var(--ink-2); font-weight: 700; }
+  .deckbar select { min-width: 0; }   /* flex items default to min-width:auto and refuse to shrink */
   select {
     font: inherit; color: var(--ink); background: var(--paper-2); border: 1px solid var(--line);
     border-radius: 6px; padding: .45rem .7rem;
+    max-width: 100%;            /* a long option must not widen the page */
   }
   .btn {
     background: var(--paper-2); border: 1px solid var(--line); border-radius: 6px;
@@ -471,14 +555,16 @@
       <span class="chip das">das <small>neutral · neuter</small></span>
       <span class="chip pl">die <small>Plural · plural</small></span>
     </div>
+    <div class="countdown" id="countdown" hidden></div>
   </div>
 </header>
 
 <nav class="tabs" aria-label="Sections">
   <div class="wrap">
-    <a href="#notizen">Notizen <small>(Notes)</small></a>
-    <a href="#karten">Karteikarten <small>(Flashcards)</small></a>
+    <a href="#notizen">Notizen</a>
+    <a href="#karten">Karteikarten</a>
     <a href="#quiz">Quiz</a>
+    <button class="searchbtn" id="search-open" type="button" title="Im ganzen Heft suchen (search the whole notebook)">Suchen<kbd>/</kbd></button>
     <div class="jump">
       <button class="step" id="lesson-prev" type="button" title="Vorherige Lektion (previous lesson)" aria-label="Vorherige Lektion (previous lesson)">&lsaquo;</button>
       <select id="goto" title="Zu einer Lektion springen (jump to a lesson)" aria-label="Zu einer Lektion springen (jump to a lesson)"></select>
@@ -487,12 +573,30 @@
   </div>
 </nav>
 
+<div class="sheet" id="search-sheet" hidden>
+  <div class="sheet-box" role="dialog" aria-modal="true" aria-label="Im Heft suchen (search the notebook)">
+    <div class="sheet-top">
+      <input id="search-input" type="search" autocomplete="off" spellcheck="false"
+             placeholder="Wort, Regel oder Lektion suchen \u2026 (search a word, rule or lesson)"
+             aria-label="Suchbegriff (search term)">
+      <button class="btn quiet" id="search-close" type="button">Schlie&szlig;en (close)</button>
+    </div>
+    <div class="sheet-res" id="search-res" role="listbox" aria-label="Treffer (results)"></div>
+    <div class="sheet-foot"><kbd>&uarr;</kbd> <kbd>&darr;</kbd> ausw&auml;hlen &middot; <kbd>Enter</kbd> springen &middot; <kbd>Esc</kbd> schlie&szlig;en</div>
+  </div>
+</div>
+
 <!-- ============================================================ NOTES -->
 <section class="part" id="notizen">
   <div class="wrap">
     <div class="part-head">
       <h2>Notizen <span class="en-h">(Notes)</span></h2>
       <p>Clean copies of each lesson. Under each one, a list of what was changed from the handwritten page.</p>
+      <div class="progress" id="progress" hidden>
+        <span class="n" id="progress-n">0 / 0</span>
+        <span class="bar"><i id="progress-bar"></i></span>
+        <button class="btn quiet" id="progress-reset" type="button">Zur&uuml;cksetzen (reset)</button>
+      </div>
       <div class="genders" style="margin-top:.9rem">
         <a class="chip das" href="#begriffe">§ Grundbegriffe (basic terms)</a>
         <a class="chip pl" href="#l1">1 Begrüßungen (greetings)</a>
@@ -6893,6 +6997,13 @@
 
       <div class="mini" data-topic="l37"></div>
     </article>
+    <div class="callout" style="border-style:dashed">
+      <strong>Lektion 38 fehlt. <span style="font-weight:400">(Lesson 38 is missing.)</span></strong>
+      No photograph of this page exists, so it could not be typed up. The numbering jumps straight from
+      <a href="#l37">37 (Trennbare Verben)</a> to <a href="#l39">39 (Imperativs&auml;tze)</a>. If the page turns
+      up, it belongs here.
+    </div>
+
     <article class="lesson" id="l39">
       <div class="lesson-head">
         <span class="lesson-num">39</span>
@@ -10254,6 +10365,208 @@
     box.querySelector('h4 a').addEventListener('click', () => { topicSel.value = topic; buildQuiz(false); });
   }
   document.querySelectorAll('.mini[data-topic]').forEach(renderMini);
+
+
+
+  // ---------- Fortschritt: mark a lesson learnt, remembered on this device ----------
+  (function () {
+    const KEY = 'heft-a1-gelernt';
+    const arts = Array.from(document.querySelectorAll('article.lesson'));
+    const box = document.getElementById('progress');
+    const nEl = document.getElementById('progress-n');
+    const barEl = document.getElementById('progress-bar');
+    if (!arts.length || !box) return;
+
+    // storage can throw outright (private windows, blocked site data), so every touch is guarded
+    const load = () => { try { return new Set(JSON.parse(localStorage.getItem(KEY) || '[]')); } catch (e) { return new Set(); } };
+    const save = (set) => { try { localStorage.setItem(KEY, JSON.stringify([...set])); } catch (e) {} };
+    let done = load();
+
+    const chipFor = (id) => document.querySelector('.part-head a.chip[href="#' + id + '"]');
+    const paint = () => {
+      arts.forEach(a => {
+        const on = done.has(a.id);
+        const b = a.querySelector('.learnt');
+        if (b) {
+          b.setAttribute('aria-pressed', on ? 'true' : 'false');
+          b.textContent = on ? '✓ gelernt (learnt)' : 'als gelernt markieren (mark learnt)';
+        }
+        const chip = chipFor(a.id);
+        if (chip) chip.style.opacity = on ? '.55' : '';
+      });
+      const n = arts.filter(a => done.has(a.id)).length;
+      nEl.textContent = n + ' / ' + arts.length + ' gelernt';
+      barEl.style.width = (arts.length ? (n / arts.length) * 100 : 0) + '%';
+      box.hidden = false;
+    };
+
+    arts.forEach(a => {
+      const head = a.querySelector('.lesson-head');
+      if (!head) return;
+      const b = document.createElement('button');
+      b.type = 'button'; b.className = 'learnt'; b.setAttribute('aria-pressed', 'false');
+      b.addEventListener('click', () => {
+        if (done.has(a.id)) done.delete(a.id); else done.add(a.id);
+        save(done); paint();
+      });
+      head.appendChild(b);
+    });
+
+    document.getElementById('progress-reset').addEventListener('click', () => {
+      done = new Set(); save(done); paint();
+    });
+    paint();
+  })();
+
+  // ---------- Countdown to the exam named in the footer ----------
+  (function () {
+    const el = document.getElementById('countdown');
+    if (!el) return;
+    const now = new Date();
+    // 26 September, this year if it is still ahead, otherwise next year
+    let target = new Date(now.getFullYear(), 8, 26);
+    if (target < new Date(now.getFullYear(), now.getMonth(), now.getDate())) target = new Date(now.getFullYear() + 1, 8, 26);
+    const days = Math.round((target - new Date(now.getFullYear(), now.getMonth(), now.getDate())) / 86400000);
+    const de = days === 0 ? 'Heute ist die Prüfung!' : (days === 1 ? 'Noch 1 Tag bis zur Prüfung' : 'Noch ' + days + ' Tage bis zur Prüfung');
+    el.innerHTML = '<b>' + (days === 0 ? 'ÖSD A1' : days) + '</b> ' +
+      (days === 0 ? 'heute · today' : (days === 1 ? 'Tag bis zur ÖSD A1 Prüfung · day to go' : 'Tage bis zur ÖSD A1 Prüfung · days to go'));
+    el.title = de + ' (26. September)';
+    el.hidden = false;
+  })();
+
+  // ---------- Suche: one index over lessons, vocabulary and rules ----------
+  (function () {
+    const sheet = document.getElementById('search-sheet');
+    const input = document.getElementById('search-input');
+    const resBox = document.getElementById('search-res');
+    const openBtn = document.getElementById('search-open');
+    if (!sheet || !input) return;
+
+    // length-preserving, so a match offset in the folded string is also valid
+    // in the original — that is what keeps the <mark> aligned
+    const fold = (t) => t.toLowerCase()
+      .replace(/ä/g, 'a').replace(/ö/g, 'o').replace(/ü/g, 'u').replace(/ß/g, 's');
+    // second pass for someone typing German on an English keyboard: kaese, oel, gruss
+    const spell = (t) => t.toLowerCase()
+      .replace(/ä/g, 'ae').replace(/ö/g, 'oe').replace(/ü/g, 'ue').replace(/ß/g, 'ss');
+
+    // build once, lazily, from the page itself
+    let INDEX = null;
+    const build = () => {
+      if (INDEX) return INDEX;
+      INDEX = [];
+      document.querySelectorAll('article.lesson').forEach(art => {
+        const numEl = art.querySelector('.lesson-num');
+        const num = numEl ? numEl.textContent.trim() : '';
+        const h3 = art.querySelector('h3');
+        let title = '';
+        if (h3) { const c = h3.cloneNode(true); c.querySelectorAll('.en-h').forEach(e => e.remove()); title = c.textContent.trim(); }
+        const label = (isNaN(parseInt(num, 10)) ? num : 'Lektion ' + num) + ' · ' + title;
+        INDEX.push({ kind: 'lesson', text: title + ' ' + (h3 ? h3.textContent : ''), label: label, sub: 'Lektion', id: art.id, el: null });
+        // every German/English pair in the lesson becomes a hit
+        art.querySelectorAll('li.pair').forEach(li => {
+          const de = li.querySelector('.de'), en = li.querySelector('.en');
+          if (!de) return;
+          const d = de.textContent.replace(/\s+/g, ' ').trim();
+          let e = en ? en.cloneNode(true) : null;
+          if (e) e.querySelectorAll('small').forEach(x => x.remove());
+          const eTxt = e ? e.textContent.replace(/\s+/g, ' ').trim() : '';
+          if (!d) return;
+          INDEX.push({ kind: 'vocab', text: d + ' ' + eTxt, label: d, sub: eTxt + '  —  ' + label, id: art.id, el: li });
+        });
+        // the theory headings and the corrections are the "rules" layer
+        art.querySelectorAll('.theory .lbl, .fixes li, .more li strong').forEach(el => {
+          const t = el.textContent.replace(/\s+/g, ' ').trim();
+          if (t.length < 4) return;
+          INDEX.push({ kind: 'rule', text: t, label: t.slice(0, 110), sub: 'Regel  —  ' + label, id: art.id, el: el.closest('.th, li') || el });
+        });
+      });
+      INDEX.forEach(r => { r.f = fold(r.text); r.f2 = spell(r.text); });
+      return INDEX;
+    };
+
+    const RANK = { lesson: 0, vocab: 1, rule: 2 };
+    let hits = [], cur = 0;
+
+    const mark = (txt, q) => {
+      const i = fold(txt).indexOf(q);
+      if (i < 0 || !q) return txt.replace(/[<&]/g, c => c === '<' ? '&lt;' : '&amp;');
+      const esc = (x) => x.replace(/[<&]/g, c => c === '<' ? '&lt;' : '&amp;');
+      return esc(txt.slice(0, i)) + '<mark>' + esc(txt.slice(i, i + q.length)) + '</mark>' + esc(txt.slice(i + q.length));
+    };
+
+    const render = () => {
+      resBox.innerHTML = '';
+      if (!hits.length) {
+        resBox.innerHTML = '<div class="sheet-none">Keine Treffer. <span style="opacity:.7">(no matches)</span></div>';
+        return;
+      }
+      hits.forEach((h, i) => {
+        const b = document.createElement('button');
+        b.type = 'button'; b.className = 'hit'; b.setAttribute('role', 'option');
+        b.setAttribute('aria-selected', i === cur ? 'true' : 'false');
+        b.innerHTML = '<b>' + mark(h.label, h.q) + '</b><span class="src">' + h.sub.replace(/[<&]/g, c => c === '<' ? '&lt;' : '&amp;') + '</span>';
+        b.addEventListener('click', () => go(i));
+        resBox.appendChild(b);
+      });
+      const sel = resBox.children[cur];
+      if (sel && sel.scrollIntoView) sel.scrollIntoView({ block: 'nearest' });
+    };
+
+    const search = () => {
+      const raw = input.value.trim();
+      cur = 0;
+      if (raw.length < 2) { hits = []; render(); return; }
+      const list = build();
+      const q = fold(raw);
+      let found = list.filter(r => r.f.indexOf(q) > -1).map(r => Object.assign({ q: q }, r));
+      if (!found.length) {                       // fall back to the ae/oe/ue spelling
+        const q2 = spell(raw);
+        found = list.filter(r => r.f2.indexOf(q2) > -1).map(r => Object.assign({ q: '' }, r));
+      }
+      hits = found
+        .map(r => Object.assign({ s: (r.q && r.f.indexOf(r.q) === 0 ? 0 : 1) + RANK[r.kind] * 2 }, r))
+        .sort((a, b) => a.s - b.s || a.label.length - b.label.length)
+        .slice(0, 60);
+      render();
+    };
+
+    const close = () => { sheet.hidden = true; if (openBtn) openBtn.focus(); };
+    const open = () => {
+      sheet.hidden = false;
+      input.value = ''; hits = []; render();
+      input.focus();
+    };
+    const go = (i) => {
+      const h = hits[i];
+      if (!h) return;
+      close();
+      const target = h.el && h.el.isConnected ? h.el : document.getElementById(h.id);
+      if (!target) return;
+      const anchor = document.getElementById(h.id);
+      if (anchor) { try { history.replaceState(null, '', '#' + h.id); } catch (e) {} }
+      target.scrollIntoView({ behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth', block: 'center' });
+      if (h.el) { h.el.classList.remove('flash'); void h.el.offsetWidth; h.el.classList.add('flash');
+                  setTimeout(() => h.el.classList.remove('flash'), 2000); }
+    };
+
+    if (openBtn) openBtn.addEventListener('click', open);
+    document.getElementById('search-close').addEventListener('click', close);
+    sheet.addEventListener('mousedown', (e) => { if (e.target === sheet) close(); });
+    input.addEventListener('input', search);
+    input.addEventListener('keydown', (e) => {
+      if (e.key === 'ArrowDown') { e.preventDefault(); if (hits.length) { cur = (cur + 1) % hits.length; render(); } }
+      else if (e.key === 'ArrowUp') { e.preventDefault(); if (hits.length) { cur = (cur - 1 + hits.length) % hits.length; render(); } }
+      else if (e.key === 'Enter') { e.preventDefault(); go(cur); }
+      else if (e.key === 'Escape') { e.preventDefault(); close(); }
+    });
+    addEventListener('keydown', (e) => {
+      const tag = (e.target.tagName || '').toLowerCase();
+      if (tag === 'input' || tag === 'select' || tag === 'textarea') return;
+      if (e.key === '/' && sheet.hidden) { e.preventDefault(); open(); }
+      else if (e.key === 'Escape' && !sheet.hidden) { close(); }
+    });
+  })();
 
   // ---------- jump to lesson ----------
   (function () {
