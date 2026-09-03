@@ -18,6 +18,13 @@ self-marking flashcards, and a quiz.
 
 Every lesson also ends with a six-question mini-quiz drawn from that lesson's pool.
 
+## Getting around
+
+The sticky bar carries a lesson picker — grouped 1–18 / 19–49 / reference, with `‹` `›`
+to step through in order. It tracks whichever lesson is on screen as you scroll, and its
+options are built from the document at load, so it can never drift from the content.
+Typing a number while it has focus jumps straight there.
+
 ## Conventions
 
 - Articles are colour-coded by gender throughout — <span>der</span> blue, <span>die</span> green,

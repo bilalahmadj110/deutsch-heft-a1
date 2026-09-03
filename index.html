@@ -128,7 +128,7 @@
   .chip.pl  { background: var(--pl-bg);  color: var(--pl); }
   a.chip { text-decoration: none; }
   a.chip:hover { color: var(--ink); }
-  .lesson { scroll-margin-top: 4rem; }
+  .lesson, section.part { scroll-margin-top: var(--navh, 4rem); }
   table.grid td.hl { background: var(--der-bg); }
   .verbs { display: grid; gap: 1rem; }
   @media (min-width: 520px) { .verbs { grid-template-columns: 1fr 1fr; } }
@@ -269,14 +269,39 @@
     position: sticky; top: 0; z-index: 5;
     background: var(--paper); border-bottom: 1px solid var(--line);
   }
-  nav.tabs .wrap { display: flex; gap: .25rem; overflow-x: auto; }
+  nav.tabs .wrap { display: flex; gap: .25rem; overflow-x: auto; align-items: center; }
   nav.tabs a {
     display: block; padding: .8rem .9rem; text-decoration: none; color: var(--ink-2);
     font-weight: 700; font-size: .95rem; white-space: nowrap;
     border-bottom: 3px solid transparent; margin-bottom: -1px;
   }
+  nav.tabs a small { font-size: .82em; font-weight: 400; color: var(--ink-3); }
   nav.tabs a:hover { color: var(--ink); }
   nav.tabs a.active { color: var(--ink); border-bottom-color: var(--ink); }
+
+  /* ---------- Lektion jumper (sticky, always reachable) ---------- */
+  .jump { margin-left: auto; display: flex; align-items: center; gap: .3rem; padding-left: .7rem; }
+  .jump select {
+    font-size: .85rem; font-weight: 700; padding: .35rem .45rem;
+    max-width: 13rem; text-overflow: ellipsis;
+  }
+  .jump .step {
+    background: var(--paper-2); border: 1px solid var(--line); border-radius: 6px;
+    color: var(--ink-2); cursor: pointer; font: inherit; font-weight: 700;
+    line-height: 1; padding: .45rem .5rem;
+  }
+  .jump .step:hover:not(:disabled) { border-color: var(--ink-3); color: var(--ink); }
+  .jump .step:disabled { opacity: .3; cursor: default; }
+  .jump select:focus-visible, .jump .step:focus-visible { outline: 2px solid var(--focus); outline-offset: 2px; }
+  @media (max-width: 46rem) {
+    nav.tabs .wrap { flex-wrap: wrap; overflow-x: visible; }
+    nav.tabs a { padding: .75rem .5rem; font-size: .9rem; }
+    nav.tabs a small { display: none; }   /* keep the three tabs on one line */
+    .jump { width: 100%; margin: 0 0 .55rem; padding-left: 0; }
+    /* min-width:0 lets the select shrink past its longest option instead of
+       shoving the next-lesson button off the edge of a phone screen */
+    .jump select { flex: 1; min-width: 0; max-width: none; }
+  }
 
   section.part { padding: 3rem 0 1rem; }
   section.part + section.part { border-top: 1px solid var(--line); }
@@ -451,9 +476,14 @@
 
 <nav class="tabs" aria-label="Sections">
   <div class="wrap">
-    <a href="#notizen">Notizen (Notes)</a>
-    <a href="#karten">Karteikarten (Flashcards)</a>
+    <a href="#notizen">Notizen <small>(Notes)</small></a>
+    <a href="#karten">Karteikarten <small>(Flashcards)</small></a>
     <a href="#quiz">Quiz</a>
+    <div class="jump">
+      <button class="step" id="lesson-prev" type="button" title="Vorherige Lektion (previous lesson)" aria-label="Vorherige Lektion (previous lesson)">&lsaquo;</button>
+      <select id="goto" title="Zu einer Lektion springen (jump to a lesson)" aria-label="Zu einer Lektion springen (jump to a lesson)"></select>
+      <button class="step" id="lesson-next" type="button" title="N&auml;chste Lektion (next lesson)" aria-label="N&auml;chste Lektion (next lesson)">&rsaquo;</button>
+    </div>
   </div>
 </nav>
 
@@ -10224,6 +10254,84 @@
     box.querySelector('h4 a').addEventListener('click', () => { topicSel.value = topic; buildQuiz(false); });
   }
   document.querySelectorAll('.mini[data-topic]').forEach(renderMini);
+
+  // ---------- jump to lesson ----------
+  (function () {
+    const sel = document.getElementById('goto');
+    const prevBtn = document.getElementById('lesson-prev');
+    const nextBtn = document.getElementById('lesson-next');
+    const nav = document.querySelector('nav.tabs');
+    if (!sel || !nav) return;
+
+    // read the lessons off the page rather than hard-coding a list
+    const arts = Array.from(document.querySelectorAll('article.lesson'));
+    const meta = arts.map(a => {
+      const h3 = a.querySelector('h3');
+      let title = '';
+      if (h3) { const c = h3.cloneNode(true); c.querySelectorAll('.en-h').forEach(e => e.remove()); title = c.textContent.trim(); }
+      const numEl = a.querySelector('.lesson-num');
+      const num = numEl ? numEl.textContent.trim() : '';
+      return { id: a.id, num, title, n: parseInt(num, 10) };
+    });
+
+    [['Grundlagen (foundations) \u00b7 \u00a7 und Lektion 1\u201318', m => m.id === 'begriffe' || (m.n >= 1 && m.n <= 18)],
+     ['Aus dem Heft (from the notebook) \u00b7 Lektion 19\u201349', m => m.n >= 19],
+     ['Referenz (reference)', m => isNaN(m.n) && m.id !== 'begriffe']].forEach(([label, test]) => {
+      const items = meta.filter(test);
+      if (!items.length) return;
+      const g = document.createElement('optgroup');
+      g.label = label;
+      items.forEach(m => {
+        const o = document.createElement('option');
+        o.value = m.id;
+        o.textContent = m.num + ' \u00b7 ' + m.title;
+        g.appendChild(o);
+      });
+      sel.appendChild(g);
+    });
+
+    const order = Array.from(sel.options).map(o => o.value);
+    const reduce = window.matchMedia && matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+    // anchors must clear the sticky bar, which is taller once it wraps on a phone
+    const setNavOffset = () => document.documentElement.style.setProperty('--navh', Math.max(nav.offsetHeight + 14, 64) + 'px');
+    setNavOffset();
+    addEventListener('resize', setNavOffset);
+
+    let syncing = 0;
+    const mark = (id) => {
+      if (sel.value !== id) sel.value = id;
+      const i = order.indexOf(id);
+      prevBtn.disabled = i <= 0;
+      nextBtn.disabled = i < 0 || i >= order.length - 1;
+    };
+    const goTo = (id) => {
+      const el = document.getElementById(id);
+      if (!el) return;
+      mark(id);
+      clearTimeout(syncing);
+      syncing = setTimeout(() => { syncing = 0; }, 800);   // don't let the scroll-past rewrite the picker
+      el.scrollIntoView({ behavior: reduce ? 'auto' : 'smooth', block: 'start' });
+      try { history.replaceState(null, '', '#' + id); } catch (e) {}
+    };
+    const stepBy = (d) => { const i = order.indexOf(sel.value); if (i > -1 && order[i + d]) goTo(order[i + d]); };
+
+    sel.addEventListener('change', () => goTo(sel.value));
+    prevBtn.addEventListener('click', () => stepBy(-1));
+    nextBtn.addEventListener('click', () => stepBy(1));
+    mark(order[0]);
+
+    // keep the picker showing whichever lesson you have actually scrolled to
+    if ('IntersectionObserver' in window) {
+      const io = new IntersectionObserver((entries) => {
+        if (syncing) return;
+        const top = entries.filter(e => e.isIntersecting)
+          .sort((a, b) => a.boundingClientRect.top - b.boundingClientRect.top)[0];
+        if (top) mark(top.target.id);
+      }, { rootMargin: '-12% 0px -74% 0px' });
+      arts.forEach(a => io.observe(a));
+    }
+  })();
 
   // ---------- nav highlight ----------
   const links = document.querySelectorAll('nav.tabs a');
