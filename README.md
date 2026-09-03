@@ -13,6 +13,8 @@ self-marking flashcards, and a quiz.
 | **Notizen** | Lektion 1–49, each with vocabulary, a sentence-structure theory block, "Mehr dazu" notes and a **Korrekturen** list naming every mistake on the original page |
 | **100 Verben** | the notebook's own 100-verb list, with the `er/sie/es` form and stem changes filled in |
 | **Übungsblatt** | the typed case-translation sheet, with answers |
+| **Fehlerregister** | all 316 corrections in the notebook re-sorted by the *mistake* rather than the lesson — fourteen patterns with real counts, so the handful you actually repeat becomes visible |
+| **Prüfungstraining** | the four ÖSD A1 parts mapped onto the lessons that prepare each, with a speaking-test model answer and a practice block |
 | **Karteikarten** | flashcards for every noun, filterable by deck or by gender, keyboard-driven |
 | **Quiz** | ~400 self-marking questions, per-lesson or all at once, with "repeat the wrong ones" |
 
