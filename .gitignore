@@ -1,3 +1,4 @@
-.audio-list.txt
+# german-audio/ ships with the repo as mp3; the wav masters do not
 .DS_Store
-german-audio/
+german-audio/*.wav
+german-audio/parts/*.wav

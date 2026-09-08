@@ -1,0 +1,4744 @@
+number,text,filename
+1,ab,0001.mp3
+2,abbiegen,0002.mp3
+3,aber,0003.mp3
+4,abfahren,0004.mp3
+5,abholen,0005.mp3
+6,achtundsechzig,0006.mp3
+7,Achtundsechzig?,0007.mp3
+8,Achtung,0008.mp3
+9,Achtung!,0009.mp3
+10,Afrika,0010.mp3
+11,Ah!,0011.mp3
+12,Ahmad,0012.mp3
+13,Ahnung,0013.mp3
+14,Akkusativ,0014.mp3
+15,als,0015.mp3
+16,alt,0016.mp3
+17,am,0017.mp3
+18,Amerika,0018.mp3
+19,an,0019.mp3
+20,Analystin,0020.mp3
+21,anderthalb,0021.mp3
+22,anfangen,0022.mp3
+23,Angebot,0023.mp3
+24,angenehm,0024.mp3
+25,ankommen,0025.mp3
+26,Anrede,0026.mp3
+27,anrufen,0027.mp3
+28,Antwortblatt,0028.mp3
+29,antworten,0029.mp3
+30,Anzeige,0030.mp3
+31,anziehen,0031.mp3
+32,arbeiten,0032.mp3
+33,arbeitet,0033.mp3
+34,Asien,0034.mp3
+35,at,0035.mp3
+36,auf,0036.mp3
+37,Aufgabe,0037.mp3
+38,Aufgabenbewältigung,0038.mp3
+39,aufstehen,0039.mp3
+40,aufwachen,0040.mp3
+41,aus,0041.mp3
+42,ausschalten,0042.mp3
+43,aussteigen,0043.mp3
+44,ausziehen,0044.mp3
+45,Auto,0045.mp3
+46,AY,0046.mp3
+47,B-A-U-E-R,0047.mp3
+48,bahn.de,0048.mp3
+49,Bahnhof,0049.mp3
+50,Bahnsteig,0050.mp3
+51,bald,0051.mp3
+52,Bauer,0052.mp3
+53,bei,0053.mp3
+54,Beispiel,0054.mp3
+55,bekommen,0055.mp3
+56,Berlin,0056.mp3
+57,Beruf,0057.mp3
+58,Berufserfahrung,0058.mp3
+59,besetzt,0059.mp3
+60,besichtigen,0060.mp3
+61,besichtigt,0061.mp3
+62,Bestanden,0062.mp3
+63,bestellen,0063.mp3
+64,besuchen,0064.mp3
+65,betreten,0065.mp3
+66,bezahlen,0066.mp3
+67,Bildbeschreibung,0067.mp3
+68,Bildnummer,0068.mp3
+69,billig,0069.mp3
+70,bin,0070.mp3
+71,bis,0071.mp3
+72,bist,0072.mp3
+73,bitte,0073.mp3
+74,Bitte!,0074.mp3
+75,bitten,0075.mp3
+76,Brasilien,0076.mp3
+77,brauchen,0077.mp3
+78,bringen,0078.mp3
+79,Buchstabe,0079.mp3
+80,Bär,0080.mp3
+81,Bücher,0081.mp3
+82,CHF,0082.mp3
+83,Damen,0083.mp3
+84,danach,0084.mp3
+85,Danke,0085.mp3
+86,Danke!,0086.mp3
+87,danken,0087.mp3
+88,dann,0088.mp3
+89,Das,0089.mp3
+90,decken,0090.mp3
+91,dem,0091.mp3
+92,den,0092.mp3
+93,denn,0093.mp3
+94,der,0094.mp3
+95,der-Wörter,0095.mp3
+96,Deutsch,0096.mp3
+97,Deutsche,0097.mp3
+98,Deutschland,0098.mp3
+99,dich,0099.mp3
+100,dick,0100.mp3
+101,die,0101.mp3
+102,dir,0102.mp3
+103,doof,0103.mp3
+104,Doppel-N,0104.mp3
+105,drei,0105.mp3
+106,dreissig,0106.mp3
+107,dreizehn,0107.mp3
+108,Dreizehntausendzweihundertsechsunddreißig!,0108.mp3
+109,dreizehnte,0109.mp3
+110,dreißig,0110.mp3
+111,drucken,0111.mp3
+112,drücken,0112.mp3
+113,du,0113.mp3
+114,dünn,0114.mp3
+115,dürfen,0115.mp3
+116,EE,0116.mp3
+117,EG,0117.mp3
+118,ein,0118.mp3
+119,ein-Wörter,0119.mp3
+120,eine,0120.mp3
+121,eineinhalb,0121.mp3
+122,einen,0122.mp3
+123,einhundert,0123.mp3
+124,einkaufen,0124.mp3
+125,Einkaufskorb,0125.mp3
+126,einladen,0126.mp3
+127,eins,0127.mp3
+128,einschalten,0128.mp3
+129,einschlafen,0129.mp3
+130,einsteigen,0130.mp3
+131,einundvierzig,0131.mp3
+132,einundzwanzig,0132.mp3
+133,einziehen,0133.mp3
+134,en,0134.mp3
+135,entdecken,0135.mp3
+136,Entschuldigung!,0136.mp3
+137,er,0137.mp3
+138,Er!,0138.mp3
+139,Erfahrung,0139.mp3
+140,erklären,0140.mp3
+141,erklärt,0141.mp3
+142,erkältet,0142.mp3
+143,ermäßigt,0143.mp3
+144,es,0144.mp3
+145,Es!,0145.mp3
+146,Eszett,0146.mp3
+147,eure,0147.mp3
+148,Euro,0148.mp3
+149,Europa,0149.mp3
+150,fahren,0150.mp3
+151,Fahrkarte,0151.mp3
+152,falsch,0152.mp3
+153,Familie,0153.mp3
+154,fernsehen,0154.mp3
+155,Film,0155.mp3
+156,finden,0156.mp3
+157,fliegt,0157.mp3
+158,Fluss,0158.mp3
+159,Formular,0159.mp3
+160,FOW,0160.mp3
+161,Franken,0161.mp3
+162,Frau,0162.mp3
+163,frei,0163.mp3
+164,Fuß,0164.mp3
+165,Fußball,0165.mp3
+166,fühle,0166.mp3
+167,fünf,0167.mp3
+168,fünfundfünfzig,0168.mp3
+169,für,0169.mp3
+170,ge,0170.mp3
+171,gearbeitet,0171.mp3
+172,geben,0172.mp3
+173,geboren,0173.mp3
+174,gebrochen,0174.mp3
+175,Geburtsdatum,0175.mp3
+176,Geburtsort,0176.mp3
+177,Geburtstag,0177.mp3
+178,gefallen,0178.mp3
+179,gegessen,0179.mp3
+180,gehen,0180.mp3
+181,geht,0181.mp3
+182,geht's,0182.mp3
+183,gehören,0183.mp3
+184,gelb,0184.mp3
+185,gelingen,0185.mp3
+186,gerade,0186.mp3
+187,geradeaus,0187.mp3
+188,geredet,0188.mp3
+189,gern,0189.mp3
+190,gerne,0190.mp3
+191,Gesamtzertifikat,0191.mp3
+192,geschlossen,0192.mp3
+193,gestern,0193.mp3
+194,geöffnet,0194.mp3
+195,gibt,0195.mp3
+196,Gleis,0196.mp3
+197,Glück,0197.mp3
+198,glücklich,0198.mp3
+199,Grad,0199.mp3
+200,Graz,0200.mp3
+201,groß,0201.mp3
+202,Gruß,0202.mp3
+203,gut,0203.mp3
+204,Gut!,0204.mp3
+205,Gute,0205.mp3
+206,gültig,0206.mp3
+207,habe,0207.mp3
+208,haben,0208.mp3
+209,halb,0209.mp3
+210,Hallo,0210.mp3
+211,Hallo!,0211.mp3
+212,Halsschmerzen,0212.mp3
+213,Haltestelle,0213.mp3
+214,Handy,0214.mp3
+215,hast,0215.mp3
+216,hatte,0216.mp3
+217,Hause,0217.mp3
+218,heiraten,0218.mp3
+219,heiß,0219.mp3
+220,heiße,0220.mp3
+221,heißen,0221.mp3
+222,heißt,0222.mp3
+223,helfen,0223.mp3
+224,Herr,0224.mp3
+225,Herren,0225.mp3
+226,heute,0226.mp3
+227,Hier,0227.mp3
+228,Hilfsverb,0228.mp3
+229,holiday,0229.mp3
+230,hören,0230.mp3
+231,ich,0231.mp3
+232,ig,0232.mp3
+233,ihn,0233.mp3
+234,Ihnen,0234.mp3
+235,Ihr,0235.mp3
+236,Ihre,0236.mp3
+237,im,0237.mp3
+238,immer,0238.mp3
+239,impossible,0239.mp3
+240,in,0240.mp3
+241,isch,0241.mp3
+242,isst,0242.mp3
+243,ist,0243.mp3
+244,ja,0244.mp3
+245,Jahr,0245.mp3
+246,Jahre,0246.mp3
+247,Januar,0247.mp3
+248,Jetzt,0248.mp3
+249,Joghurt,0249.mp3
+250,jung,0250.mp3
+251,Jänner,0251.mp3
+252,kalt,0252.mp3
+253,kann,0253.mp3
+254,Kardinalzahlen,0254.mp3
+255,kaufen,0255.mp3
+256,kein,0256.mp3
+257,keine,0257.mp3
+258,keinen,0258.mp3
+259,kennen,0259.mp3
+260,Kinder,0260.mp3
+261,Klemmbrett,0261.mp3
+262,koche,0262.mp3
+263,komme,0263.mp3
+264,kommen,0264.mp3
+265,konnte,0265.mp3
+266,kostenlos,0266.mp3
+267,krank,0267.mp3
+268,Krankheit,0268.mp3
+269,können,0269.mp3
+270,Küche,0270.mp3
+271,kühl,0271.mp3
+272,lachen,0272.mp3
+273,lang,0273.mp3
+274,langsam,0274.mp3
+275,laufen,0275.mp3
+276,leben,0276.mp3
+277,Lehrerin,0277.mp3
+278,Leitpunkte,0278.mp3
+279,lernen,0279.mp3
+280,Lesen,0280.mp3
+281,lieb,0281.mp3
+282,lieber,0282.mp3
+283,Lieblings,0283.mp3
+284,Lieblingssport,0284.mp3
+285,liegen,0285.mp3
+286,liegt,0286.mp3
+287,Links,0287.mp3
+288,locker,0288.mp3
+289,los,0289.mp3
+290,losgehen,0290.mp3
+291,lächeln,0291.mp3
+292,machen,0292.mp3
+293,malen,0293.mp3
+294,Mama,0294.mp3
+295,man,0295.mp3
+296,manchmal,0296.mp3
+297,Meine,0297.mp3
+298,Mengenangaben,0298.mp3
+299,mich,0299.mp3
+300,Miete,0300.mp3
+301,mindestens,0301.mp3
+302,Minute,0302.mp3
+303,Minuten,0303.mp3
+304,mir,0304.mp3
+305,Mirpurkhas,0305.mp3
+306,mit,0306.mp3
+307,mitkommen,0307.mp3
+308,Modulzeugnis,0308.mp3
+309,Modulzeugnisse,0309.mp3
+310,Moin,0310.mp3
+311,Moin!,0311.mp3
+312,Monatsbeitrag,0312.mp3
+313,morgen,0313.mp3
+314,muss,0314.mp3
+315,musst,0315.mp3
+316,musste,0316.mp3
+317,möbl,0317.mp3
+318,möbliert,0318.mp3
+319,möchte,0319.mp3
+320,möchten,0320.mp3
+321,möchtest,0321.mp3
+322,möchtet,0322.mp3
+323,mögen,0323.mp3
+324,müde,0324.mp3
+325,müssen,0325.mp3
+326,nach,0326.mp3
+327,Nachname,0327.mp3
+328,neben,0328.mp3
+329,neblig,0329.mp3
+330,Negativartikel,0330.mp3
+331,nein,0331.mp3
+332,Nein!,0332.mp3
+333,nen,0333.mp3
+334,neu,0334.mp3
+335,neunundneunzig,0335.mp3
+336,neunzehn,0336.mp3
+337,neunzehnhundertfünfundsiebzig,0337.mp3
+338,neunzig,0338.mp3
+339,nicht,0339.mp3
+340,nie,0340.mp3
+341,NK,0341.mp3
+342,Nominativ,0342.mp3
+343,null,0343.mp3
+344,null-drei-drei-null,0344.mp3
+345,Nummer,0345.mp3
+346,nur,0346.mp3
+347,Objekt,0347.mp3
+348,oder,0348.mp3
+349,oder?,0349.mp3
+350,offen,0350.mp3
+351,oft,0351.mp3
+352,Ordinalzahlen,0352.mp3
+353,Osten,0353.mp3
+354,Pakistan,0354.mp3
+355,Pakistaner,0355.mp3
+356,pakistanisch,0356.mp3
+357,Papa,0357.mp3
+358,Papier,0358.mp3
+359,passen,0359.mp3
+360,Personen,0360.mp3
+361,Platz,0361.mp3
+362,Possessivartikel,0362.mp3
+363,Possessivpronomen,0363.mp3
+364,prima!,0364.mp3
+365,privat,0365.mp3
+366,Punkt,0366.mp3
+367,pünktlich,0367.mp3
+368,Quadratmeter,0368.mp3
+369,receipt,0369.mp3
+370,reisen,0370.mp3
+371,richtig,0371.mp3
+372,Rollenspiel,0372.mp3
+373,Rückenschmerzen,0373.mp3
+374,Sache,0374.mp3
+375,scheinen,0375.mp3
+376,scheint,0376.mp3
+377,schenken,0377.mp3
+378,schlafen,0378.mp3
+379,schlecht,0379.mp3
+380,schließen,0380.mp3
+381,schmecken,0381.mp3
+382,Schmidt,0382.mp3
+383,schnell,0383.mp3
+384,schreiben,0384.mp3
+385,Schule,0385.mp3
+386,Schweizer,0386.mp3
+387,schweizerisch,0387.mp3
+388,Schüler,0388.mp3
+389,sechs,0389.mp3
+390,Sechshundertvierunddreißig!,0390.mp3
+391,sechsundsechzig,0391.mp3
+392,Sechzehn,0392.mp3
+393,sechzehnte,0393.mp3
+394,sehen,0394.mp3
+395,seid,0395.mp3
+396,sein,0396.mp3
+397,seit,0397.mp3
+398,Sekunden,0398.mp3
+399,selten,0399.mp3
+400,separate,0400.mp3
+401,Servus,0401.mp3
+402,Sie,0402.mp3
+403,sieben,0403.mp3
+404,siebzehn,0404.mp3
+405,siebzig,0405.mp3
+406,sind,0406.mp3
+407,sitzen,0407.mp3
+408,sitzt,0408.mp3
+409,sollen,0409.mp3
+410,sonder,0410.mp3
+411,Sonderangebot,0411.mp3
+412,sonnig,0412.mp3
+413,Speisekarte,0413.mp3
+414,spielen,0414.mp3
+415,spreche,0415.mp3
+416,sprechen,0416.mp3
+417,sprichst,0417.mp3
+418,spricht,0418.mp3
+419,später,0419.mp3
+420,st,0420.mp3
+421,Staatsangehörigkeit,0421.mp3
+422,stehe,0422.mp3
+423,stehen,0423.mp3
+424,steht,0424.mp3
+425,Student,0425.mp3
+426,Studenten,0426.mp3
+427,studieren,0427.mp3
+428,stören,0428.mp3
+429,Stück,0429.mp3
+430,suchen,0430.mp3
+431,Supermarkt,0431.mp3
+432,Telefonnachrichten,0432.mp3
+433,Telegrammstil,0433.mp3
+434,teuer,0434.mp3
+435,Textlänge,0435.mp3
+436,Trauer,0436.mp3
+437,Traumhaft!,0437.mp3
+438,traurig,0438.mp3
+439,Trinken,0439.mp3
+440,trinkt,0440.mp3
+441,Tschüs,0441.mp3
+442,Tschüs!,0442.mp3
+443,Tschüss,0443.mp3
+444,Tschüss!,0444.mp3
+445,TSETT,0445.mp3
+446,TSV-EYE,0446.mp3
+447,TSVAN-tsikh,0447.mp3
+448,Uhr,0448.mp3
+449,um,0449.mp3
+450,Unbefugte,0450.mp3
+451,und,0451.mp3
+452,ung,0452.mp3
+453,unsere,0453.mp3
+454,Urlaub,0454.mp3
+455,VAY,0455.mp3
+456,ver,0456.mp3
+457,Verb,0457.mp3
+458,Verben,0458.mp3
+459,verboten,0459.mp3
+460,verheiratet,0460.mp3
+461,verkaufen,0461.mp3
+462,Verspätung,0462.mp3
+463,verstanden,0463.mp3
+464,verstehe,0464.mp3
+465,verstehen,0465.mp3
+466,Verstehst,0466.mp3
+467,vielleicht,0467.mp3
+468,vier,0468.mp3
+469,vierundsiebzig,0469.mp3
+470,Vogel,0470.mp3
+471,von,0471.mp3
+472,Vorname,0472.mp3
+473,Vorsicht!,0473.mp3
+474,wachen,0474.mp3
+475,Wann?,0475.mp3
+476,war,0476.mp3
+477,warm,0477.mp3
+478,warten,0478.mp3
+479,Warum?,0479.mp3
+480,was,0480.mp3
+481,Was?,0481.mp3
+482,WC,0482.mp3
+483,Weber,0483.mp3
+484,wegen,0484.mp3
+485,wehtun,0485.mp3
+486,weil,0486.mp3
+487,weiß,0487.mp3
+488,welche,0488.mp3
+489,Wem?,0489.mp3
+490,Wen?,0490.mp3
+491,Wer?,0491.mp3
+492,werden,0492.mp3
+493,Wie,0493.mp3
+494,wiederholen,0494.mp3
+495,Wiederhören,0495.mp3
+496,wiederkommen,0496.mp3
+497,Wiedersehen,0497.mp3
+498,Wien,0498.mp3
+499,windig,0499.mp3
+500,wir,0500.mp3
+501,wo,0501.mp3
+502,Wo?,0502.mp3
+503,Woher,0503.mp3
+504,Wohin?,0504.mp3
+505,wohn,0505.mp3
+506,wohne,0506.mp3
+507,wohnen,0507.mp3
+508,Wohnen?,0508.mp3
+509,Wohnort,0509.mp3
+510,wohnst,0510.mp3
+511,Wolke,0511.mp3
+512,wollen,0512.mp3
+513,wollte,0513.mp3
+514,woman,0514.mp3
+515,wünschen,0515.mp3
+516,YOT,0516.mp3
+517,ZA1,0517.mp3
+518,Zahl,0518.mp3
+519,zahlen,0519.mp3
+520,Zahnschmerzen,0520.mp3
+521,zehn,0521.mp3
+522,zeichnen,0522.mp3
+523,zeigen,0523.mp3
+524,Zeiten,0524.mp3
+525,ZEKS,0525.mp3
+526,Zi,0526.mp3
+527,ZIEHEN,0527.mp3
+528,zig,0528.mp3
+529,zimmer,0529.mp3
+530,zu,0530.mp3
+531,zuerst,0531.mp3
+532,Zug,0532.mp3
+533,zum,0533.mp3
+534,zumachen,0534.mp3
+535,Zuname,0535.mp3
+536,zur,0536.mp3
+537,Zuschlag,0537.mp3
+538,zwanz-ig,0538.mp3
+539,zwanzig,0539.mp3
+540,zwei,0540.mp3
+541,zweitausendsiebzehn,0541.mp3
+542,zwischen,0542.mp3
+543,zwo,0543.mp3
+544,äh,0544.mp3
+545,Ärztin,0545.mp3
+546,öffnen,0546.mp3
+547,Öffnungszeiten,0547.mp3
+548,Österreich,0548.mp3
+549,österreichisch,0549.mp3
+550,Öztürk,0550.mp3
+551,übernachten,0551.mp3
+552,übernachtet,0552.mp3
+553,"0,5 l",0553.mp3
+554,"1,5 kg",0554.mp3
+555,1. Juli,0555.mp3
+556,1.250 Euro,0556.mp3
+557,100 Verben,0557.mp3
+558,19 Uhr,0558.mp3
+559,2 Punkte,0559.mp3
+560,250 Milliliter,0560.mp3
+561,3 Uhr,0561.mp3
+562,300 Euro,0562.mp3
+563,39 Euro,0563.mp3
+564,45 Euro,0564.mp3
+565,500 Gramm,0565.mp3
+566,a ä,0566.mp3
+567,ab Januar,0567.mp3
+568,ab Jänner,0568.mp3
+569,ab sofort,0569.mp3
+570,abfahren die,0570.mp3
+571,Achtung Baustelle!,0571.mp3
+572,Ah! Ahmad,0572.mp3
+573,"Ah, danke!",0573.mp3
+574,"Ah, sechzehn!",0574.mp3
+575,"Ah, verstehe!",0575.mp3
+576,alte Bücher,0576.mp3
+577,am Abend,0577.mp3
+578,am Automaten,0578.mp3
+579,am Bahnhof,0579.mp3
+580,am Ende,0580.mp3
+581,am liebsten,0581.mp3
+582,am Sonntag,0582.mp3
+583,am Tisch,0583.mp3
+584,ankommen die,0584.mp3
+585,Anreise mit,0585.mp3
+586,anrufen angerufen,0586.mp3
+587,Anzeige A,0587.mp3
+588,Anzeige B,0588.mp3
+589,Anzeige C,0589.mp3
+590,Anzeige D,0590.mp3
+591,Anzeige E,0591.mp3
+592,Anzeige F,0592.mp3
+593,arbeiten Arbeite!,0593.mp3
+594,auf dem,0594.mp3
+595,Auf Wiederhören!,0595.mp3
+596,Auf Wiedersehen,0596.mp3
+597,Auf Wiedersehen!,0597.mp3
+598,aus Mirpurkhas,0598.mp3
+599,aus Pakistan,0599.mp3
+600,Aus Österreich,0600.mp3
+601,außer Betrieb,0601.mp3
+602,Bar Bär,0602.mp3
+603,bei ihrer,0603.mp3
+604,bei Siemens,0604.mp3
+605,beim Arzt,0605.mp3
+606,bekommen bekommen,0606.mp3
+607,bestimmt unbestimmt,0607.mp3
+608,bezahlen kaufen,0608.mp3
+609,Bild 1,0609.mp3
+610,Bild 2,0610.mp3
+611,Bild 3,0611.mp3
+612,Bis bald,0612.mp3
+613,Bis dann!,0613.mp3
+614,bis Sonntag,0614.mp3
+615,Bis später,0615.mp3
+616,Bring mit!,0616.mp3
+617,D eutsch,0617.mp3
+618,Danke schön,0618.mp3
+619,Danke schön!,0619.mp3
+620,"Danke, gleichfalls!",0620.mp3
+621,"Danke, gut!",0621.mp3
+622,darf nicht,0622.mp3
+623,das Adjektiv,0623.mp3
+624,das Alter,0624.mp3
+625,das Angebot,0625.mp3
+626,das Asthma,0626.mp3
+627,das Auto,0627.mp3
+628,das Autorennen,0628.mp3
+629,das Baby,0629.mp3
+630,das Bad,0630.mp3
+631,das Badezimmer,0631.mp3
+632,das Bein,0632.mp3
+633,das Bett,0633.mp3
+634,das Bier,0634.mp3
+635,das Bild,0635.mp3
+636,das Bogenschießen,0636.mp3
+637,das Boot,0637.mp3
+638,das Boxen,0638.mp3
+639,das Brot,0639.mp3
+640,das Buch,0640.mp3
+641,das Büro,0641.mp3
+642,das dem,0642.mp3
+643,das der,0643.mp3
+644,das Deutsch,0644.mp3
+645,das Deutschland,0645.mp3
+646,das die,0646.mp3
+647,das Englisch,0647.mp3
+648,das Erdgeschoss,0648.mp3
+649,das Essen,0649.mp3
+650,das Fahrrad,0650.mp3
+651,das Fenster,0651.mp3
+652,das Feuer,0652.mp3
+653,das Fieber,0653.mp3
+654,das Fitnessstudio,0654.mp3
+655,das Fleisch,0655.mp3
+656,das Flugzeug,0656.mp3
+657,das Gehalt,0657.mp3
+658,das Gemüse,0658.mp3
+659,das Genus,0659.mp3
+660,das Gewitter,0660.mp3
+661,das Glas,0661.mp3
+662,das Gleis,0662.mp3
+663,das Golf,0663.mp3
+664,das Gramm,0664.mp3
+665,das Handy,0665.mp3
+666,das Haus,0666.mp3
+667,das Herz,0667.mp3
+668,das Hilfsverb,0668.mp3
+669,das Hobby,0669.mp3
+670,das Hotel,0670.mp3
+671,das Hähnchen,0671.mp3
+672,Das ist,0672.mp3
+673,das Jahr,0673.mp3
+674,das Kilo,0674.mp3
+675,das Kind,0675.mp3
+676,das Kinderzimmer,0676.mp3
+677,das Kino,0677.mp3
+678,das Kleid,0678.mp3
+679,das Krankenhaus,0679.mp3
+680,das Land,0680.mp3
+681,das Leben,0681.mp3
+682,das Lieblingsessen,0682.mp3
+683,das Lieblingsgetränk,0683.mp3
+684,das Lineal,0684.mp3
+685,Das macht,0685.mp3
+686,das Medikament,0686.mp3
+687,das Meer,0687.mp3
+688,das Menü,0688.mp3
+689,das Modalverb,0689.mp3
+690,das Museum,0690.mp3
+691,das Mädchen,0691.mp3
+692,das Nomen,0692.mp3
+693,das Objekt,0693.mp3
+694,das Obst,0694.mp3
+695,das Ohr,0695.mp3
+696,das Partizip,0696.mp3
+697,Das passt,0697.mp3
+698,das Perfekt,0698.mp3
+699,das Plusquamperfekt,0699.mp3
+700,das Problem,0700.mp3
+701,das Pronomen,0701.mp3
+702,das Präfix,0702.mp3
+703,das Präteritum,0703.mp3
+704,das Quiz,0704.mp3
+705,das Radfahren,0705.mp3
+706,das Regal,0706.mp3
+707,das Reisezentrum,0707.mp3
+708,das Restaurant,0708.mp3
+709,das Salz,0709.mp3
+710,das Schild,0710.mp3
+711,das Schlafzimmer,0711.mp3
+712,das Schloss,0712.mp3
+713,das Schwimmbad,0713.mp3
+714,das Schwimmen,0714.mp3
+715,Das sind,0715.mp3
+716,das Skifahren,0716.mp3
+717,das Sofa,0717.mp3
+718,das Sonderangebot,0718.mp3
+719,das Spiel,0719.mp3
+720,das Stück,0720.mp3
+721,das Subjekt,0721.mp3
+722,das Surfen,0722.mp3
+723,das Tennis,0723.mp3
+724,das Ticket,0724.mp3
+725,das Tischtennis,0725.mp3
+726,das Verb,0726.mp3
+727,das Verbot,0727.mp3
+728,das Vorzimmer,0728.mp3
+729,das Waschmittel,0729.mp3
+730,das Wasser,0730.mp3
+731,das Wetter,0731.mp3
+732,das Wochenende,0732.mp3
+733,das Wohnzimmer,0733.mp3
+734,das Wort,0734.mp3
+735,das Xylofon,0735.mp3
+736,das Yoga,0736.mp3
+737,das Zebra,0737.mp3
+738,das Zimmer,0738.mp3
+739,das Zuhause,0739.mp3
+740,das Öl,0740.mp3
+741,das Übergewicht,0741.mp3
+742,dein Auto,0742.mp3
+743,dein Fernseher,0743.mp3
+744,dem Kind,0744.mp3
+745,dem Mann,0745.mp3
+746,dem Studenten,0746.mp3
+747,dem Supermarkt,0747.mp3
+748,den Gleisen,0748.mp3
+749,den Kunden,0749.mp3
+750,der Abend,0750.mp3
+751,der Anfänger,0751.mp3
+752,der Apfel,0752.mp3
+753,der Appetit,0753.mp3
+754,der April,0754.mp3
+755,der Arm,0755.mp3
+756,der Arzt,0756.mp3
+757,der Aufzug,0757.mp3
+758,der August,0758.mp3
+759,der Ausgang,0759.mp3
+760,der Aushang,0760.mp3
+761,der Ausländer,0761.mp3
+762,der Ausweis,0762.mp3
+763,der Automat,0763.mp3
+764,der Bahnhof,0764.mp3
+765,der Bahnsteig,0765.mp3
+766,der Balkon,0766.mp3
+767,der Ball,0767.mp3
+768,der Ballon,0768.mp3
+769,der Basketball,0769.mp3
+770,der Bauch,0770.mp3
+771,der Baum,0771.mp3
+772,der Becher,0772.mp3
+773,der Beleg,0773.mp3
+774,der Berg,0774.mp3
+775,der Beruf,0775.mp3
+776,der Betrieb,0776.mp3
+777,der Beutel,0777.mp3
+778,der Bleistift,0778.mp3
+779,der Blitz,0779.mp3
+780,der Blutdruck,0780.mp3
+781,der Brief,0781.mp3
+782,der Bruder,0782.mp3
+783,der Buchstabe,0783.mp3
+784,der Bus,0784.mp3
+785,der Bär,0785.mp3
+786,der Cousin,0786.mp3
+787,der Dank,0787.mp3
+788,der das,0788.mp3
+789,der dem,0789.mp3
+790,der den,0790.mp3
+791,der Deutsche,0791.mp3
+792,der Dezember,0792.mp3
+793,der die,0793.mp3
+794,der Dienstag,0794.mp3
+795,der Donner,0795.mp3
+796,der Donnerstag,0796.mp3
+797,der Durchfall,0797.mp3
+798,der Eingang,0798.mp3
+799,der Einkaufskorb,0799.mp3
+800,der Einkaufswagen,0800.mp3
+801,der Eintritt,0801.mp3
+802,der Eiskunstlauf,0802.mp3
+803,der Elefant,0803.mp3
+804,der Empfang,0804.mp3
+805,der erste,0805.mp3
+806,der Euro,0806.mp3
+807,der Fahrplan,0807.mp3
+808,der Familienname,0808.mp3
+809,der Februar,0809.mp3
+810,der Feiertag,0810.mp3
+811,der Fernseher,0811.mp3
+812,der Fisch,0812.mp3
+813,der Flughafen,0813.mp3
+814,der Flur,0814.mp3
+815,der Freitag,0815.mp3
+816,der Freund,0816.mp3
+817,der Frühling,0817.mp3
+818,der Fuß,0818.mp3
+819,der Fußball,0819.mp3
+820,der Garten,0820.mp3
+821,der Gast,0821.mp3
+822,der Geburtstag,0822.mp3
+823,der Geldautomat,0823.mp3
+824,der Grad,0824.mp3
+825,der Großvater,0825.mp3
+826,der Grund,0826.mp3
+827,der Hals,0827.mp3
+828,der Herbst,0828.mp3
+829,der Herd,0829.mp3
+830,der Herr,0830.mp3
+831,der Himmel,0831.mp3
+832,der Honig,0832.mp3
+833,der Hund,0833.mp3
+834,der Husten,0834.mp3
+835,der Hut,0835.mp3
+836,der Igel,0836.mp3
+837,der Infinitiv,0837.mp3
+838,der Januar,0838.mp3
+839,der Joghurt,0839.mp3
+840,der Juli,0840.mp3
+841,der Junge,0841.mp3
+842,der Juni,0842.mp3
+843,der Jänner,0843.mp3
+844,der Kaffee,0844.mp3
+845,der Kassenbon,0845.mp3
+846,der Kassenzettel,0846.mp3
+847,der Kassierer,0847.mp3
+848,der Kasten,0848.mp3
+849,der Kasus,0849.mp3
+850,der Keller,0850.mp3
+851,der Kellner,0851.mp3
+852,der Koffer,0852.mp3
+853,der Kollege,0853.mp3
+854,der Kontinent,0854.mp3
+855,der Kopf,0855.mp3
+856,der Kreisverkehr,0856.mp3
+857,der Kuli,0857.mp3
+858,der Kunde,0858.mp3
+859,der Kurs,0859.mp3
+860,der Käse,0860.mp3
+861,der König,0861.mp3
+862,der Körper,0862.mp3
+863,der Kühlschrank,0863.mp3
+864,der Lebenslauf,0864.mp3
+865,der Lehrer,0865.mp3
+866,der Liebling,0866.mp3
+867,der Lieblingssport,0867.mp3
+868,der Lieferservice,0868.mp3
+869,der Liter,0869.mp3
+870,der Löwe,0870.mp3
+871,der Mai,0871.mp3
+872,der Mann,0872.mp3
+873,der Markt,0873.mp3
+874,der Mensch,0874.mp3
+875,der Mieter,0875.mp3
+876,der Milliliter,0876.mp3
+877,der Mittag,0877.mp3
+878,der Mittwoch,0878.mp3
+879,der Moment,0879.mp3
+880,der Monat,0880.mp3
+881,der Monatsbeitrag,0881.mp3
+882,der Mond,0882.mp3
+883,der Montag,0883.mp3
+884,der Morgen,0884.mp3
+885,der März,0885.mp3
+886,der Nachbar,0886.mp3
+887,der Nachmittag,0887.mp3
+888,der Nacken,0888.mp3
+889,der Nagel,0889.mp3
+890,der Name,0890.mp3
+891,der Nebel,0891.mp3
+892,der Norden,0892.mp3
+893,der Notausgang,0893.mp3
+894,der November,0894.mp3
+895,der Oktober,0895.mp3
+896,der Onkel,0896.mp3
+897,der Osten,0897.mp3
+898,der Pakistaner,0898.mp3
+899,der Park,0899.mp3
+900,der Parkplatz,0900.mp3
+901,der Pinguin,0901.mp3
+902,der Platz,0902.mp3
+903,der Plural,0903.mp3
+904,der Preis,0904.mp3
+905,der Quadratmeter,0905.mp3
+906,der Ratschlag,0906.mp3
+907,der Regen,0907.mp3
+908,der Regenbogen,0908.mp3
+909,der Reis,0909.mp3
+910,der Ruhetag,0910.mp3
+911,der Rücken,0911.mp3
+912,der Saft,0912.mp3
+913,der Salat,0913.mp3
+914,der Samstag,0914.mp3
+915,der Satz,0915.mp3
+916,der Satzbau,0916.mp3
+917,der Schauspieler,0917.mp3
+918,der Schmerz,0918.mp3
+919,der Schnee,0919.mp3
+920,der Schnupfen,0920.mp3
+921,der Schrank,0921.mp3
+922,der Schritt,0922.mp3
+923,der Schuh,0923.mp3
+924,der Schüler,0924.mp3
+925,der September,0925.mp3
+926,der Singular,0926.mp3
+927,der Sommer,0927.mp3
+928,der Sonderfall,0928.mp3
+929,der Sonntag,0929.mp3
+930,der Sport,0930.mp3
+931,der Stern,0931.mp3
+932,der Stock,0932.mp3
+933,der Strand,0933.mp3
+934,der Student,0934.mp3
+935,der Stuhl,0935.mp3
+936,der Sturm,0936.mp3
+937,der Supermarkt,0937.mp3
+938,der Süden,0938.mp3
+939,der Tag,0939.mp3
+940,der Tarif,0940.mp3
+941,der Tee,0941.mp3
+942,der Teppich,0942.mp3
+943,der Termin,0943.mp3
+944,der Tisch,0944.mp3
+945,der Tochter,0945.mp3
+946,der Traum,0946.mp3
+947,der Türke,0947.mp3
+948,der Urlaub,0948.mp3
+949,der Vater,0949.mp3
+950,der Verbstamm,0950.mp3
+951,der Verein,0951.mp3
+952,der Vermieter,0952.mp3
+953,der Vertrag,0953.mp3
+954,der Vogel,0954.mp3
+955,der Vokalwechsel,0955.mp3
+956,der Vormittag,0956.mp3
+957,der Wein,0957.mp3
+958,der Westen,0958.mp3
+959,der Wind,0959.mp3
+960,der Winter,0960.mp3
+961,der Wunsch,0961.mp3
+962,der Yak,0962.mp3
+963,der Zahn,0963.mp3
+964,der Zahnarzt,0964.mp3
+965,der Zucker,0965.mp3
+966,der Zug,0966.mp3
+967,der Zuschlag,0967.mp3
+968,der Zustand,0968.mp3
+969,der Zutritt,0969.mp3
+970,der Österreicher,0970.mp3
+971,die Abfahrt,0971.mp3
+972,die Abteilung,0972.mp3
+973,die Ahnung,0973.mp3
+974,die Altstadt,0974.mp3
+975,die Ampel,0975.mp3
+976,die Analystin,0976.mp3
+977,die Angabe,0977.mp3
+978,die Ankunft,0978.mp3
+979,die Anmeldung,0979.mp3
+980,die Anzeige,0980.mp3
+981,die Apotheke,0981.mp3
+982,die Arbeitszeit,0982.mp3
+983,die Ausfahrt,0983.mp3
+984,die Ausnahme,0984.mp3
+985,die Bahn,0985.mp3
+986,die Banane,0986.mp3
+987,die Bank,0987.mp3
+988,die Bauchschmerzen,0988.mp3
+989,die Baustelle,0989.mp3
+990,die Berufserfahrung,0990.mp3
+991,die Besichtigung,0991.mp3
+992,die Besserung,0992.mp3
+993,die Bestellung,0993.mp3
+994,die Bewegung,0994.mp3
+995,die Bewerbung,0995.mp3
+996,die Bibliothek,0996.mp3
+997,die Blume,0997.mp3
+998,die Brücke,0998.mp3
+999,die Butter,0999.mp3
+1000,die Bäckerei,1000.mp3
+1001,die Cola,1001.mp3
+1002,die Couch,1002.mp3
+1003,die Cousine,1003.mp3
+1004,die das,1004.mp3
+1005,die den,1005.mp3
+1006,die der,1006.mp3
+1007,die Deutschen,1007.mp3
+1008,die Diät,1008.mp3
+1009,die Dose,1009.mp3
+1010,die Dusche,1010.mp3
+1011,die Ecke,1011.mp3
+1012,die Einfahrt,1012.mp3
+1013,die Einheit,1013.mp3
+1014,die Einkaufsliste,1014.mp3
+1015,die Eltern,1015.mp3
+1016,die Endung,1016.mp3
+1017,die Ente,1017.mp3
+1018,die Entschuldigung,1018.mp3
+1019,die Erde,1019.mp3
+1020,die Erkältung,1020.mp3
+1021,die Erlaubnis,1021.mp3
+1022,die Ermäßigung,1022.mp3
+1023,die Fahrkarte,1023.mp3
+1024,die Fahrt,1024.mp3
+1025,die Familie,1025.mp3
+1026,die Ferien,1026.mp3
+1027,die Flasche,1027.mp3
+1028,die Flatrate,1028.mp3
+1029,die Fleischabteilung,1029.mp3
+1030,die Frage,1030.mp3
+1031,die Frau,1031.mp3
+1032,die Freundin,1032.mp3
+1033,die Gegenwart,1033.mp3
+1034,die Gesamtmiete,1034.mp3
+1035,die Geschwister,1035.mp3
+1036,die Getränkeabteilung,1036.mp3
+1037,die Gitarre,1037.mp3
+1038,die Grippe,1038.mp3
+1039,die Großeltern,1039.mp3
+1040,die Großmutter,1040.mp3
+1041,die Gymnastik,1041.mp3
+1042,die Halsschmerzen,1042.mp3
+1043,die Haltestelle,1043.mp3
+1044,die Handynummer,1044.mp3
+1045,die Haushaltshilfe,1045.mp3
+1046,die Hausnummer,1046.mp3
+1047,die Heimat,1047.mp3
+1048,die Hobbys,1048.mp3
+1049,die Hose,1049.mp3
+1050,die Kartoffel,1050.mp3
+1051,die Kasse,1051.mp3
+1052,die Kassiererin,1052.mp3
+1053,die Katze,1053.mp3
+1054,die Kellnerin,1054.mp3
+1055,die Kinderbetreuung,1055.mp3
+1056,die Klasse,1056.mp3
+1057,die Kopfschmerzen,1057.mp3
+1058,die Krankheit,1058.mp3
+1059,die Kreuzung,1059.mp3
+1060,die Kundin,1060.mp3
+1061,die Königin,1061.mp3
+1062,die Küche,1062.mp3
+1063,die Lampe,1063.mp3
+1064,die Lehrerin,1064.mp3
+1065,die Leine,1065.mp3
+1066,die Liebe,1066.mp3
+1067,die Lieblingsfarbe,1067.mp3
+1068,die Lieblingsstadt,1068.mp3
+1069,die Lösung,1069.mp3
+1070,die man,1070.mp3
+1071,die Maus,1071.mp3
+1072,die Menge,1072.mp3
+1073,die Miete,1073.mp3
+1074,die Milch,1074.mp3
+1075,die Milliarde,1075.mp3
+1076,die Million,1076.mp3
+1077,die Minute,1077.mp3
+1078,die Mitgliedschaft,1078.mp3
+1079,die Mittagspause,1079.mp3
+1080,die Musik,1080.mp3
+1081,Die Mutter,1081.mp3
+1082,die Möbel,1082.mp3
+1083,die Nacht,1083.mp3
+1084,die Nackenschmerzen,1084.mp3
+1085,die Nebenkosten,1085.mp3
+1086,die Nudel,1086.mp3
+1087,die Nummer,1087.mp3
+1088,die Ohrenschmerzen,1088.mp3
+1089,die Orange,1089.mp3
+1090,die Packung,1090.mp3
+1091,die Pakistanerin,1091.mp3
+1092,die Person,1092.mp3
+1093,die Pflicht,1093.mp3
+1094,die Philosophie,1094.mp3
+1095,die Pizza,1095.mp3
+1096,die Post,1096.mp3
+1097,die Postkarte,1097.mp3
+1098,die Quittung,1098.mp3
+1099,die Regel,1099.mp3
+1100,die Reise,1100.mp3
+1101,die Rose,1101.mp3
+1102,die Rückenschmerzen,1102.mp3
+1103,die Satzklammer,1103.mp3
+1104,die Scheidung,1104.mp3
+1105,die Schmerzen,1105.mp3
+1106,die Schokolade,1106.mp3
+1107,die Schuhe,1107.mp3
+1108,die Schule,1108.mp3
+1109,die Schweiz,1109.mp3
+1110,die Schwester,1110.mp3
+1111,die Schülerin,1111.mp3
+1112,die Sehenswürdigkeit,1112.mp3
+1113,die Sekunde,1113.mp3
+1114,die Sonne,1114.mp3
+1115,die Speisekarte,1115.mp3
+1116,die Sportarten,1116.mp3
+1117,die Sprache,1117.mp3
+1118,die Staatsangehörigkeit,1118.mp3
+1119,die Stadt,1119.mp3
+1120,die Stelle,1120.mp3
+1121,die Straße,1121.mp3
+1122,die Straßenbahn,1122.mp3
+1123,die Studentin,1123.mp3
+1124,die Stufe,1124.mp3
+1125,die Stunde,1125.mp3
+1126,die Tafel,1126.mp3
+1127,die Tante,1127.mp3
+1128,die Tasche,1128.mp3
+1129,die Tochter,1129.mp3
+1130,die Toilette,1130.mp3
+1131,die Tomate,1131.mp3
+1132,die Treppe,1132.mp3
+1133,die Tür,1133.mp3
+1134,die Türkei,1134.mp3
+1135,die Tüte,1135.mp3
+1136,die U-Bahn,1136.mp3
+1137,die Uhr,1137.mp3
+1138,die Verben,1138.mp3
+1139,die Verbgruppe,1139.mp3
+1140,die Vergangenheit,1140.mp3
+1141,die Verspätung,1141.mp3
+1142,die Veränderung,1142.mp3
+1143,die Vorsilbe,1143.mp3
+1144,die W-Frage,1144.mp3
+1145,die Woche,1145.mp3
+1146,die Wohnung,1146.mp3
+1147,die Wolke,1147.mp3
+1148,die Zahl,1148.mp3
+1149,die Zahnschmerzen,1149.mp3
+1150,die Zeit,1150.mp3
+1151,die Zeitform,1151.mp3
+1152,die Ziffer,1152.mp3
+1153,die Zukunft,1153.mp3
+1154,die zweite,1154.mp3
+1155,die Ärztin,1155.mp3
+1156,die Öffnungszeit,1156.mp3
+1157,die Öffnungszeiten,1157.mp3
+1158,die Österreicherin,1158.mp3
+1159,drei Liter,1159.mp3
+1160,drei Zimmer,1160.mp3
+1161,dreiviertel sieben,1161.mp3
+1162,dreizente sechszehnte,1162.mp3
+1163,dreizig dreißig,1163.mp3
+1164,du arbeitest,1164.mp3
+1165,du bist,1165.mp3
+1166,du dich,1166.mp3
+1167,du hast,1167.mp3
+1168,du heißt,1168.mp3
+1169,du magst,1169.mp3
+1170,du musst,1170.mp3
+1171,du reist,1171.mp3
+1172,du schläfst,1172.mp3
+1173,du sprichst,1173.mp3
+1174,du tanzt,1174.mp3
+1175,du wartest,1175.mp3
+1176,e i,1176.mp3
+1177,ein Bier,1177.mp3
+1178,ein bisschen,1178.mp3
+1179,ein Bleistift,1179.mp3
+1180,ein Bonbon,1180.mp3
+1181,ein Gewitter,1181.mp3
+1182,ein Kleid,1182.mp3
+1183,ein Mann,1183.mp3
+1184,ein Tag,1184.mp3
+1185,Ein Verb,1185.mp3
+1186,eine Fahrkarte,1186.mp3
+1187,eine Flasche,1187.mp3
+1188,eine Pizza,1188.mp3
+1189,eine Woche,1189.mp3
+1190,eine Wohnung,1190.mp3
+1191,eine Zahl,1191.mp3
+1192,einen Bahnsteig,1192.mp3
+1193,einen Bruder,1193.mp3
+1194,einen Hund,1194.mp3
+1195,einen Moment,1195.mp3
+1196,einen Salat,1196.mp3
+1197,einen Wein,1197.mp3
+1198,einer Frau,1198.mp3
+1199,Eins Moment,1199.mp3
+1200,Eintritt frei,1200.mp3
+1201,Enkaufskorb Mesgenangaben,1201.mp3
+1202,er antwortet,1202.mp3
+1203,er backt,1203.mp3
+1204,er bäckt,1204.mp3
+1205,er hat,1205.mp3
+1206,er ihn,1206.mp3
+1207,er läuft,1207.mp3
+1208,er mag,1208.mp3
+1209,Er versteht,1209.mp3
+1210,erklären erklärt,1210.mp3
+1211,Es gab,1211.mp3
+1212,es gibt,1212.mp3
+1213,Es ist,1213.mp3
+1214,Es regnet,1214.mp3
+1215,essen gegessen,1215.mp3
+1216,essen isst,1216.mp3
+1217,essen trinken,1217.mp3
+1218,etwas Deutsch,1218.mp3
+1219,etwas kaufen,1219.mp3
+1220,fahren die,1220.mp3
+1221,Fluß Fluss,1221.mp3
+1222,Formale Richtigkeit,1222.mp3
+1223,Freut mich!,1223.mp3
+1224,frisches Brot,1224.mp3
+1225,Fuß Fluss,1225.mp3
+1226,Fußball spielen,1226.mp3
+1227,"Fünfzig, bitte",1227.mp3
+1228,geben gibst,1228.mp3
+1229,Geburtstag haben,1229.mp3
+1230,gegen acht,1230.mp3
+1231,Geh schlafen,1231.mp3
+1232,Geh schlafen!,1232.mp3
+1233,Genau. Danke!,1233.mp3
+1234,gibt es,1234.mp3
+1235,Gibt's das?,1235.mp3
+1236,Gleis 3,1236.mp3
+1237,Goethestraße 12,1237.mp3
+1238,großes A,1238.mp3
+1239,Grüß dich,1239.mp3
+1240,Grüß dich!,1240.mp3
+1241,Grüß Gott,1241.mp3
+1242,Grüß Gott!,1242.mp3
+1243,Grüß Sie,1243.mp3
+1244,"Gut, danke",1244.mp3
+1245,"gut, schlecht",1245.mp3
+1246,Gute Besserung!,1246.mp3
+1247,Gute Nacht,1247.mp3
+1248,Gute Nacht!,1248.mp3
+1249,Guten Abend,1249.mp3
+1250,Guten Abend!,1250.mp3
+1251,Guten Appetit!,1251.mp3
+1252,Guten Morgen!,1252.mp3
+1253,Guten Tag,1253.mp3
+1254,Guten Tag!,1254.mp3
+1255,habe gemacht,1255.mp3
+1256,haben habe,1256.mp3
+1257,halb neun,1257.mp3
+1258,"Hallo, Ayesha!",1258.mp3
+1259,"Hallo, du!",1259.mp3
+1260,"Hallo, Hina!",1260.mp3
+1261,"Hallo, ihr!",1261.mp3
+1262,"Hallo, Max!",1262.mp3
+1263,"Hallo, Sana!",1263.mp3
+1264,Halten verboten!,1264.mp3
+1265,Handys ausschalten!,1265.mp3
+1266,Hast du...?,1266.mp3
+1267,hat eingekauft,1267.mp3
+1268,hat Ferien,1268.mp3
+1269,hat gearbeitet,1269.mp3
+1270,hat gegessen,1270.mp3
+1271,hat gemacht,1271.mp3
+1272,hat genommen,1272.mp3
+1273,hat geredet,1273.mp3
+1274,hat geschienen,1274.mp3
+1275,hat getrunken,1275.mp3
+1276,hat studiert,1276.mp3
+1277,hat Urlaub,1277.mp3
+1278,hat verstanden,1278.mp3
+1279,Haushaltshilfe gesucht,1279.mp3
+1280,Haushaltshilfe gesucht!,1280.mp3
+1281,helfen geholfen,1281.mp3
+1282,helfverb hilfverb,1282.mp3
+1283,Herr Khan,1283.mp3
+1284,Herr Thomas,1284.mp3
+1285,Herr Weber,1285.mp3
+1286,Hier ist,1286.mp3
+1287,hohen Blutdruck,1287.mp3
+1288,Ich bin,1288.mp3
+1289,ich flüstere,1289.mp3
+1290,Ich glaube,1290.mp3
+1291,ich habe,1291.mp3
+1292,ich hatte,1292.mp3
+1293,Ich heiße,1293.mp3
+1294,ich höre,1294.mp3
+1295,Ich kann,1295.mp3
+1296,Ich kaufe,1296.mp3
+1297,Ich mag,1297.mp3
+1298,ich mich,1298.mp3
+1299,Ich mochte,1299.mp3
+1300,ich musste,1300.mp3
+1301,Ich möchte,1301.mp3
+1302,Ich nehme,1302.mp3
+1303,ich sage,1303.mp3
+1304,ich spreche,1304.mp3
+1305,ich war,1305.mp3
+1306,ich will,1306.mp3
+1307,Ich wohne,1307.mp3
+1308,ich übernachte,1308.mp3
+1309,ihr euch,1309.mp3
+1310,ihr habt,1310.mp3
+1311,ihr hattet,1311.mp3
+1312,Ihr Lieblingsessen,1312.mp3
+1313,ihr müsst,1313.mp3
+1314,ihr seid,1314.mp3
+1315,ihr wart,1315.mp3
+1316,Ihre Hobbys,1316.mp3
+1317,im Garten,1317.mp3
+1318,im Hintergrund,1318.mp3
+1319,im Internet,1319.mp3
+1320,im Jahr,1320.mp3
+1321,im November,1321.mp3
+1322,im Park,1322.mp3
+1323,im Reisezentrum,1323.mp3
+1324,im Restaurant,1324.mp3
+1325,im Urlaub,1325.mp3
+1326,im Vordergrund,1326.mp3
+1327,im Wohnzimmer,1327.mp3
+1328,im Zug,1328.mp3
+1329,in Berlin,1329.mp3
+1330,in der,1330.mp3
+1331,in die,1331.mp3
+1332,in Mirpurkhas,1332.mp3
+1333,ist aufgestanden,1333.mp3
+1334,"Ja, bitte!",1334.mp3
+1335,"Ja, bitte?",1335.mp3
+1336,"Ja, gerne",1336.mp3
+1337,"Ja, natürlich",1337.mp3
+1338,Ja. Tschüs!,1338.mp3
+1339,Jahre alt,1339.mp3
+1340,jeden Tag,1340.mp3
+1341,jemandem danken,1341.mp3
+1342,jemandem helfen,1342.mp3
+1343,kein Balkon,1343.mp3
+1344,kein Deutsch,1344.mp3
+1345,kein Englisch,1345.mp3
+1346,Kein Problem!,1346.mp3
+1347,Kein Ruhetag,1347.mp3
+1348,Kein Vertrag,1348.mp3
+1349,Kein Zutritt,1349.mp3
+1350,Kein Zutritt!,1350.mp3
+1351,Keine Ahnung,1351.mp3
+1352,Keine Ahnung!,1352.mp3
+1353,keine Blume,1353.mp3
+1354,keine Haustiere,1354.mp3
+1355,keine Kinder,1355.mp3
+1356,keine Lineal,1356.mp3
+1357,kocht er,1357.mp3
+1358,krank sein,1358.mp3
+1359,kurz e,1359.mp3
+1360,können kann,1360.mp3
+1361,Lektion 5,1361.mp3
+1362,Lektion 50,1362.mp3
+1363,Lektion 51,1363.mp3
+1364,Lektion Dreiundvierzig,1364.mp3
+1365,Lektion Vierundvierzig,1365.mp3
+1366,lernen gelernt,1366.mp3
+1367,letzte Woche,1367.mp3
+1368,letzten Freitag,1368.mp3
+1369,letzten Monat,1369.mp3
+1370,letztes Jahr,1370.mp3
+1371,Liebe Sofia,1371.mp3
+1372,lieber als,1372.mp3
+1373,machen gemacht,1373.mp3
+1374,man ist,1374.mp3
+1375,mein Geburtstag,1375.mp3
+1376,mein Lieblingsessen,1376.mp3
+1377,mein Lieblingssport,1377.mp3
+1378,mein Name,1378.mp3
+1379,meine Eltern,1379.mp3
+1380,meine Familie,1380.mp3
+1381,meine Hobbys,1381.mp3
+1382,meine Lieblingsfarbe,1382.mp3
+1383,meine Lieblingsstadt,1383.mp3
+1384,meine Nachbarn,1384.mp3
+1385,Meinen Bruder,1385.mp3
+1386,"mir, dir",1386.mp3
+1387,mit dem,1387.mp3
+1388,mit der,1388.mp3
+1389,mit meinem,1389.mp3
+1390,mit meiner,1390.mp3
+1391,Montag Ruhetag,1391.mp3
+1392,Musik hören,1392.mp3
+1393,muss nicht,1393.mp3
+1394,"möchten, schön",1394.mp3
+1395,"müde, krank",1395.mp3
+1396,Müllerstraße 7b,1396.mp3
+1397,nach Hause,1397.mp3
+1398,nach Paris,1398.mp3
+1399,Nebel neblig,1399.mp3
+1400,neben ihr,1400.mp3
+1401,nehmen genommen,1401.mp3
+1402,"Nein, danke!",1402.mp3
+1403,neununddreißig Euro,1403.mp3
+1404,nicht bestanden,1404.mp3
+1405,nicht dürfen,1405.mp3
+1406,nicht möbliert,1406.mp3
+1407,Nicht rauchen!,1407.mp3
+1408,nicht verheiratet,1408.mp3
+1409,Noch einen,1409.mp3
+1410,Nominative Akkusative,1410.mp3
+1411,nur bar,1411.mp3
+1412,Offizielle Zeit,1412.mp3
+1413,Oh! Warum?,1413.mp3
+1414,Partizip II,1414.mp3
+1415,passen zu,1415.mp3
+1416,Punkt acht,1416.mp3
+1417,Rauchen verboten,1417.mp3
+1418,Rauchen verboten!,1418.mp3
+1419,recieve reciept,1419.mp3
+1420,reisen die,1420.mp3
+1421,richtig e,1421.mp3
+1422,scharfes S,1422.mp3
+1423,schreiben geschrieben,1423.mp3
+1424,"schreiben, kommen",1424.mp3
+1425,Schweizer Käse,1425.mp3
+1426,Schweizer Schokolade,1426.mp3
+1427,schönes Wetter,1427.mp3
+1428,"sechsundzwanzig, siebenundzwanzig",1428.mp3
+1429,sechszehn sechsundsechszig,1429.mp3
+1430,"sechzig, siebzig",1430.mp3
+1431,sehen siehst,1431.mp3
+1432,Sehr angenehm!,1432.mp3
+1433,sehr gern,1433.mp3
+1434,Sehr gut!,1434.mp3
+1435,sein bin,1435.mp3
+1436,sein war,1436.mp3
+1437,selektives Lesen,1437.mp3
+1438,"Servus, Stefan!",1438.mp3
+1439,shopping trolley,1439.mp3
+1440,sich hinlegen,1440.mp3
+1441,sie arbeitet,1441.mp3
+1442,sie ist,1442.mp3
+1443,sie Sie,1443.mp3
+1444,sie spricht,1444.mp3
+1445,siebenzehn siebenzig,1445.mp3
+1446,sitzen stehen,1446.mp3
+1447,So geschlossen,1447.mp3
+1448,spazieren gehen,1448.mp3
+1449,spielen gespielt,1449.mp3
+1450,spielen laufen,1450.mp3
+1451,Sport machen,1451.mp3
+1452,sprechen sprichst,1452.mp3
+1453,Staatsangehörigkeit pakistanisch,1453.mp3
+1454,Steh auf!,1454.mp3
+1455,Stimmt so!,1455.mp3
+1456,studieren studiert,1456.mp3
+1457,Supermakt Supermarkt,1457.mp3
+1458,teuer teure,1458.mp3
+1459,to clarify,1459.mp3
+1460,to draw,1460.mp3
+1461,to end,1461.mp3
+1462,to lose,1462.mp3
+1463,to misunderstand,1463.mp3
+1464,to narrate,1464.mp3
+1465,to receive,1465.mp3
+1466,to recommend,1466.mp3
+1467,Trennbare Verben,1467.mp3
+1468,trinken getrunken,1468.mp3
+1469,trinken lesen,1469.mp3
+1470,trinkt Wein,1470.mp3
+1471,"Tschüs, Lisa!",1471.mp3
+1472,täglich geöffnet,1472.mp3
+1473,"Tüte, für",1473.mp3
+1474,unbestimmt negativ,1474.mp3
+1475,Und 13.236?,1475.mp3
+1476,Und dir?,1476.mp3
+1477,Und du?,1477.mp3
+1478,Und Ihnen?,1478.mp3
+1479,Und Sie?,1479.mp3
+1480,unregelmäßige Verben,1480.mp3
+1481,untersuchen helfen,1481.mp3
+1482,Urlaub machen,1482.mp3
+1483,verstehen verstanden,1483.mp3
+1484,Vielen Dank,1484.mp3
+1485,Vielen Dank!,1485.mp3
+1486,Viertel sieben,1486.mp3
+1487,von bis,1487.mp3
+1488,vor einem,1488.mp3
+1489,vor einer,1489.mp3
+1490,vor ihm,1490.mp3
+1491,"Vorsicht, Stufe!",1491.mp3
+1492,warten auf,1492.mp3
+1493,warten fahren,1493.mp3
+1494,warten Warte!,1494.mp3
+1495,Warum verstehst,1495.mp3
+1496,Was ?,1496.mp3
+1497,Was gibt's?,1497.mp3
+1498,Was ist,1498.mp3
+1499,welche Anzeige,1499.mp3
+1500,welcher Kurs,1500.mp3
+1501,welches Angebot,1501.mp3
+1502,wenig Geld,1502.mp3
+1503,Wie ?,1503.mp3
+1504,Wie bitte?,1504.mp3
+1505,Wie geht's?,1505.mp3
+1506,Wie lange?,1506.mp3
+1507,Wie oft?,1507.mp3
+1508,Wie viele?,1508.mp3
+1509,Wiederholen Sie!,1509.mp3
+1510,Wiener Schnitzel,1510.mp3
+1511,wir bleiben,1511.mp3
+1512,wir sprechen,1512.mp3
+1513,wir uns,1513.mp3
+1514,wir wohnen,1514.mp3
+1515,wird gesprochen,1515.mp3
+1516,wohnen in,1516.mp3
+1517,wohnen wohne,1517.mp3
+1518,"Zahlen, bitte!",1518.mp3
+1519,zu dem,1519.mp3
+1520,zu der,1520.mp3
+1521,zu früh,1521.mp3
+1522,zu Fuß,1522.mp3
+1523,zu Hause,1523.mp3
+1524,zu spät,1524.mp3
+1525,Zug Gleis,1525.mp3
+1526,zum Arzt,1526.mp3
+1527,zum Bahnhof,1527.mp3
+1528,zum Mann,1528.mp3
+1529,zur Ampel,1529.mp3
+1530,zur Frau,1530.mp3
+1531,"Zusammen, bitte!",1531.mp3
+1532,Zutritt verboten!,1532.mp3
+1533,zwanzig siebzehn,1533.mp3
+1534,zwanzigeins einsundzwanzig,1534.mp3
+1535,zwei Kilo,1535.mp3
+1536,zwei Millionen,1536.mp3
+1537,zwischen dem,1537.mp3
+1538,zwischen der,1538.mp3
+1539,Äpfel kaufen,1539.mp3
+1540,12 von 25,1540.mp3
+1541,38 von 75,1541.mp3
+1542,a salat seperate,1542.mp3
+1543,A wie Apfel,1543.mp3
+1544,ab 1. Jänner,1544.mp3
+1545,ab 1. Oktober,1545.mp3
+1546,ab 19 Uhr,1546.mp3
+1547,ab nächster Woche,1547.mp3
+1548,Abfahrt Gleis 3,1548.mp3
+1549,Ah! Kein Problem,1549.mp3
+1550,am ersten April,1550.mp3
+1551,am sechsundzwanzigsten September,1551.mp3
+1552,an dem am,1552.mp3
+1553,an der Kasse,1553.mp3
+1554,An Feiertagen geschlossen,1554.mp3
+1555,ankommen ist angekommen,1555.mp3
+1556,"Auch gut, danke",1556.mp3
+1557,"Auch gut, danke!",1557.mp3
+1558,auf dem Balkon,1558.mp3
+1559,auf dem Parkplatz,1559.mp3
+1560,auf dem Tisch,1560.mp3
+1561,auf den Straßen,1561.mp3
+1562,auf der Straße,1562.mp3
+1563,auf der Toilette,1563.mp3
+1564,auf einer Bank,1564.mp3
+1565,Auf Wieder hören,1565.mp3
+1566,aufstehen ist aufgestanden,1566.mp3
+1567,Aufzug außer Betrieb,1567.mp3
+1568,"Baer, schoen, fuer",1568.mp3
+1569,"Bahnhofstraße achtundsechzig, bitte",1569.mp3
+1570,be sichtig t,1570.mp3
+1571,bei den Kindern,1571.mp3
+1572,bei der Arbeit,1572.mp3
+1573,bei meiner Familie,1573.mp3
+1574,bei regelmäßigen Verben,1574.mp3
+1575,bei schlechtem Wetter,1575.mp3
+1576,bei schönem Wetter,1576.mp3
+1577,bei trennbaren Verben,1577.mp3
+1578,bei unregelmäßigen Verben,1578.mp3
+1579,Berufserfahrung nicht nötig,1579.mp3
+1580,"bin, bist, sind",1580.mp3
+1581,Bist du mitgekommen?,1581.mp3
+1582,Bist du verheiratet?,1582.mp3
+1583,Bitte nicht rauchen,1583.mp3
+1584,Bitte nicht rauchen!,1584.mp3
+1585,Bitte nicht stören!,1585.mp3
+1586,Bitte schließen Sie,1586.mp3
+1587,Bitte wiederholen Sie!,1587.mp3
+1588,Bitte. Auf Wiederhören!,1588.mp3
+1589,Bitte. Auf Wiedersehen!,1589.mp3
+1590,bringen hat gebracht,1590.mp3
+1591,Brot und Butter,1591.mp3
+1592,Buchstabieren Sie bitte!,1592.mp3
+1593,"Buchstabieren Sie, bitte!",1593.mp3
+1594,Ca. 30 Wörter,1594.mp3
+1595,Danke schön! Tschüs!,1595.mp3
+1596,"Danke, auch gut",1596.mp3
+1597,Danke. Auf Wiedersehen!,1597.mp3
+1598,dann gehen wir,1598.mp3
+1599,dann habe ich,1599.mp3
+1600,Darf man ?,1600.mp3
+1601,das Bier es,1601.mp3
+1602,das dritte Kind,1602.mp3
+1603,Das ist ein,1603.mp3
+1604,Das ist eine,1604.mp3
+1605,Das ist einfach,1605.mp3
+1606,Das ist eure,1606.mp3
+1607,Das ist ihr,1607.mp3
+1608,Das ist ihre,1608.mp3
+1609,Das ist mein,1609.mp3
+1610,Das ist Priyanka,1610.mp3
+1611,Das ist sein,1611.mp3
+1612,Das ist unser,1612.mp3
+1613,Das ist wahr,1613.mp3
+1614,das Kind es,1614.mp3
+1615,das Kind spielt,1615.mp3
+1616,Das Mädchen tanzt,1616.mp3
+1617,Das schmeckt gut,1617.mp3
+1618,das schöne Wetter,1618.mp3
+1619,Das sind Bücher,1619.mp3
+1620,Das war gut,1620.mp3
+1621,denken hat gedacht,1621.mp3
+1622,denn ich habe,1622.mp3
+1623,der den dem,1623.mp3
+1624,der erste Juli,1624.mp3
+1625,der ganze Tag,1625.mp3
+1626,der Kaffee ihn,1626.mp3
+1627,der nächste Zug,1627.mp3
+1628,der Tisch er,1628.mp3
+1629,Deutsch und Englisch,1629.mp3
+1630,die Cola sie,1630.mp3
+1631,die Getränke sie,1631.mp3
+1632,Die Kinder spielen,1632.mp3
+1633,"Die Rechnung, bitte!",1633.mp3
+1634,Die Sonne scheint,1634.mp3
+1635,"Die Speisekarte, bitte!",1635.mp3
+1636,die zweite Woche,1636.mp3
+1637,doch mal bitte,1637.mp3
+1638,drei Dosen Cola,1638.mp3
+1639,Drei Euro fünfzig,1639.mp3
+1640,Du heißt Ali?,1640.mp3
+1641,Du sprichst Deutsch,1641.mp3
+1642,Du sprichst Deutsch?,1642.mp3
+1643,dunkel dunkle Wolken,1643.mp3
+1644,ein Deutsch er,1644.mp3
+1645,ein deutsches Buch,1645.mp3
+1646,ein e Schwester,1646.mp3
+1647,ein en Bruder,1647.mp3
+1648,ein halber Liter,1648.mp3
+1649,ein halbes Kilo,1649.mp3
+1650,ein Kilo Tomaten,1650.mp3
+1651,ein Spiel spielen,1651.mp3
+1652,ein Stück Käse,1652.mp3
+1653,eine durchgestrichene Zigarette,1653.mp3
+1654,eine halbe Flasche,1654.mp3
+1655,eine Tafel Schokolade,1655.mp3
+1656,Einen Moment bitte!,1656.mp3
+1657,"Einen Moment, bitte",1657.mp3
+1658,"Einen Moment, bitte!",1658.mp3
+1659,"eins, zwei, drei",1659.mp3
+1660,Er gibt dem,1660.mp3
+1661,Er ist Franzose,1661.mp3
+1662,Er ist Lehrer,1662.mp3
+1663,Er ist verheiratet,1663.mp3
+1664,Er ist Österreicher,1664.mp3
+1665,Er kann schwimmen,1665.mp3
+1666,Er kauft das,1666.mp3
+1667,Er möchte eine,1667.mp3
+1668,Er ruft seinen,1668.mp3
+1669,Er verkauft das,1669.mp3
+1670,Er versteht mich,1670.mp3
+1671,"er, sie, es",1671.mp3
+1672,Es gelingt mir,1672.mp3
+1673,Es gibt eine,1673.mp3
+1674,Es gibt einen,1674.mp3
+1675,Es gibt kein,1675.mp3
+1676,Es gibt keine,1676.mp3
+1677,Es gibt keinen,1677.mp3
+1678,Es gibt Probleme,1678.mp3
+1679,es hat gegeben,1679.mp3
+1680,Es ist angenehm,1680.mp3
+1681,Es ist neblig,1681.mp3
+1682,Es ist sonnig,1682.mp3
+1683,Es ist spät,1683.mp3
+1684,Es ist Uhr,1684.mp3
+1685,Es ist windig,1685.mp3
+1686,"essen, trinken, laufen",1686.mp3
+1687,Fahr doch jetzt!,1687.mp3
+1688,Fahrt! Geht! Trinkt!,1688.mp3
+1689,fotografieren hat fotografiert,1689.mp3
+1690,Freut mich auch!,1690.mp3
+1691,für meinen Bruder,1691.mp3
+1692,für vier Personen,1692.mp3
+1693,für zwei Personen,1693.mp3
+1694,gar nicht gern,1694.mp3
+1695,Geh zum Arzt!,1695.mp3
+1696,Geh! Mach! Trink!,1696.mp3
+1697,Gehen Sie geradeaus!,1697.mp3
+1698,Gestern hatte Priyanka,1698.mp3
+1699,geöffnet geschlossen besetzt,1699.mp3
+1700,Glücklich ich bin,1700.mp3
+1701,"glücklich, verheiratet, nett",1701.mp3
+1702,Gut. Und Ihnen?,1702.mp3
+1703,Guten Abend! Wohin?,1703.mp3
+1704,gültig ab bis,1704.mp3
+1705,"habe, hast, haben",1705.mp3
+1706,Haben Sie Kinder?,1706.mp3
+1707,Haben Sie reserviert?,1707.mp3
+1708,Haben Sie Zeit?,1708.mp3
+1709,Habt ihr Kinder?,1709.mp3
+1710,Hallo! Wie viele?,1710.mp3
+1711,Hast du deinen,1711.mp3
+1712,Hast du Geschwister?,1712.mp3
+1713,hat wenig Geld,1713.mp3
+1714,Hattest du Zeit?,1714.mp3
+1715,Helfen Sie mir!,1715.mp3
+1716,"helfen, danken, antworten",1716.mp3
+1717,Heute kein Kurs,1717.mp3
+1718,Hören Sie mich,1718.mp3
+1719,Ich besuche meine,1719.mp3
+1720,Ich bin erkältet,1720.mp3
+1721,Ich bin Geburtstag,1721.mp3
+1722,ich bin gewesen,1722.mp3
+1723,Ich bin glücklich,1723.mp3
+1724,Ich bin krank,1724.mp3
+1725,Ich bin Lehrerin,1725.mp3
+1726,Ich bin müde,1726.mp3
+1727,Ich bin neunzehn,1727.mp3
+1728,Ich bin Pakistaner,1728.mp3
+1729,Ich bin Pakistanerin,1729.mp3
+1730,Ich bin pakistanisch,1730.mp3
+1731,Ich bin Priyanka,1731.mp3
+1732,Ich bin Schüler,1732.mp3
+1733,Ich bin Schülerin,1733.mp3
+1734,Ich bin siebzehn,1734.mp3
+1735,Ich bin Student,1735.mp3
+1736,Ich danke dir,1736.mp3
+1737,Ich danke Ihnen,1737.mp3
+1738,Ich empfehle den,1738.mp3
+1739,Ich fahre mit,1739.mp3
+1740,Ich finde ihn,1740.mp3
+1741,Ich frage dich,1741.mp3
+1742,Ich habe Fieber,1742.mp3
+1743,Ich habe gearbeitet,1743.mp3
+1744,Ich habe Geburtstag,1744.mp3
+1745,ich habe gehabt,1745.mp3
+1746,Ich habe geschlafen,1746.mp3
+1747,Ich habe Husten,1747.mp3
+1748,Ich habe Kopfschmerzen,1748.mp3
+1749,Ich habe mein,1749.mp3
+1750,Ich habe Übergewicht,1750.mp3
+1751,Ich hatte Hunger,1751.mp3
+1752,Ich hatte Zeit,1752.mp3
+1753,Ich heiße Bilal,1753.mp3
+1754,Ich heiße Priyanka,1754.mp3
+1755,Ich helfe dem,1755.mp3
+1756,Ich hätte gern,1756.mp3
+1757,Ich kann Deutsch,1757.mp3
+1758,Ich kann nicht,1758.mp3
+1759,Ich kaufe ein,1759.mp3
+1760,Ich kaufe eine,1760.mp3
+1761,Ich kaufe einen,1761.mp3
+1762,Ich kenne Berlin,1762.mp3
+1763,Ich komme aus,1763.mp3
+1764,Ich lerne Deutsch,1764.mp3
+1765,Ich liebe dich,1765.mp3
+1766,Ich liebe meine,1766.mp3
+1767,Ich mache Sport,1767.mp3
+1768,Ich mag den,1768.mp3
+1769,Ich mag Reis,1769.mp3
+1770,Ich mag Tee,1770.mp3
+1771,Ich muss arbeiten,1771.mp3
+1772,Ich möchte das,1772.mp3
+1773,Ich möchte eine,1773.mp3
+1774,Ich möchte einen,1774.mp3
+1775,Ich möchte kaufen,1775.mp3
+1776,Ich möchte Reis,1776.mp3
+1777,Ich nicht verstehe,1777.mp3
+1778,Ich sehe den,1778.mp3
+1779,Ich sehe meinen,1779.mp3
+1780,Ich spiele Fußball,1780.mp3
+1781,Ich spielen Fußball,1781.mp3
+1782,Ich spreche Deutsch,1782.mp3
+1783,Ich spreche Deutsche,1783.mp3
+1784,Ich trinke den,1784.mp3
+1785,Ich verstehe dich,1785.mp3
+1786,Ich verstehe jetzt,1786.mp3
+1787,Ich verstehe nicht,1787.mp3
+1788,Ich war müde,1788.mp3
+1789,Ich weiß das,1789.mp3
+1790,Ich weiß nicht,1790.mp3
+1791,Ich will tanzen!,1791.mp3
+1792,Ich wohne Mirpurkhas,1792.mp3
+1793,Ihr arbeitet heute,1793.mp3
+1794,"Ihr Familienname, bitte!",1794.mp3
+1795,Ihr seid gekommen,1795.mp3
+1796,Ihr seid Kinder?,1796.mp3
+1797,in dem im,1797.mp3
+1798,in dem Park,1798.mp3
+1799,in den Bus,1799.mp3
+1800,in den Ferien,1800.mp3
+1801,in den Geschäften,1801.mp3
+1802,in der Küche,1802.mp3
+1803,in der Nacht,1803.mp3
+1804,in der Schule,1804.mp3
+1805,in meinem Zimmer,1805.mp3
+1806,in meiner Küche,1806.mp3
+1807,In meiner Wohnung,1807.mp3
+1808,in Urlaub fahren,1808.mp3
+1809,in zweiter Position,1809.mp3
+1810,Ist das ?,1810.mp3
+1811,Ist Deutsch schwer?,1811.mp3
+1812,Ist es groß?,1812.mp3
+1813,Ist es neu?,1813.mp3
+1814,Ist Sabine Lehrerin?,1814.mp3
+1815,Ist sie nett?,1815.mp3
+1816,It is foggy,1816.mp3
+1817,It is pleasant,1817.mp3
+1818,"Ja, ich verstehe",1818.mp3
+1819,"Ja, in Linz",1819.mp3
+1820,"Ja, kein Problem",1820.mp3
+1821,"Ja, sehr gern!",1821.mp3
+1822,Jetzt verstehe ich,1822.mp3
+1823,Kann ich einen,1823.mp3
+1824,Kein Problem. Danke!,1824.mp3
+1825,Kein Problem. Tschüs!,1825.mp3
+1826,kennen hat gekannt,1826.mp3
+1827,Kennst du sie,1827.mp3
+1828,Kochen Sie selbst?,1828.mp3
+1829,"Koffer, Strand, Hotel",1829.mp3
+1830,kommen ist gekommen,1830.mp3
+1831,"kommen, wohnen, heißen",1831.mp3
+1832,"kommst, wohnst, machst",1832.mp3
+1833,kurz nach acht,1833.mp3
+1834,kurz vor acht,1834.mp3
+1835,"Lehrerin, Schülerin, Studentin",1835.mp3
+1836,lesen sie liest,1836.mp3
+1837,Lesen und Musikhören,1837.mp3
+1838,Liebe Grüße Bilal,1838.mp3
+1839,"links, rechts, geradeaus",1839.mp3
+1840,machen hat gemacht,1840.mp3
+1841,Magst du ?,1841.mp3
+1842,Magst du Fisch?,1842.mp3
+1843,man darf nicht,1843.mp3
+1844,Man kauft ein,1844.mp3
+1845,man muss nicht,1845.mp3
+1846,mein e Familie,1846.mp3
+1847,Mein Name ist,1847.mp3
+1848,meine Eltern sind,1848.mp3
+1849,Meine Hobbys sind,1849.mp3
+1850,Meine Nummer ist,1850.mp3
+1851,Mir tut der,1851.mp3
+1852,"mir, dir, Ihnen",1852.mp3
+1853,mit dem Bus,1853.mp3
+1854,mit dem Zug,1854.mp3
+1855,mit der Bahn,1855.mp3
+1856,mit der Straßenbahn,1856.mp3
+1857,mit der U-Bahn,1857.mp3
+1858,Mit freundlichen Grüßen,1858.mp3
+1859,mit seinen Hund,1859.mp3
+1860,"mitbringen, einkaufen, anrufen",1860.mp3
+1861,mitkommen ist mitgekommen,1861.mp3
+1862,Montag 3 Uhr,1862.mp3
+1863,Montag 9 Uhr,1863.mp3
+1864,Möchten Sie Kaffee?,1864.mp3
+1865,Möchten Sie Saft?,1865.mp3
+1866,Möchten Sie Wasser?,1866.mp3
+1867,Möchtest du Saft?,1867.mp3
+1868,Mögen Sie Fisch?,1868.mp3
+1869,"Natürlich, nimm bitte!",1869.mp3
+1870,Natürlich. Kommt sofort,1870.mp3
+1871,negative Artikel Objekt,1871.mp3
+1872,"Nein, nicht lange!",1872.mp3
+1873,Nein. Und Sie?,1873.mp3
+1874,neununddreißig einundvierzig fünfundvierzig,1874.mp3
+1875,nicht so gern,1875.mp3
+1876,nicht so gut,1876.mp3
+1877,nur am Samstag,1877.mp3
+1878,Nur für Kunden,1878.mp3
+1879,nur mit Ausweis,1879.mp3
+1880,"Okay, ich warte",1880.mp3
+1881,"Okay, kommt sofort!",1881.mp3
+1882,Ordnen Sie zu,1882.mp3
+1883,pleasent fobgy clerify,1883.mp3
+1884,Raten kostet nichts,1884.mp3
+1885,Rauchen Sie nicht!,1885.mp3
+1886,recommand narrade misunderstan,1886.mp3
+1887,reservieren hat reserviert,1887.mp3
+1888,Ruf mich an!,1888.mp3
+1889,Rückenschemerzen Hulsschmerzen Ratschalag,1889.mp3
+1890,"s, -ß, -z",1890.mp3
+1891,Sabine ist ledig,1891.mp3
+1892,Sabine ist Lehrerin,1892.mp3
+1893,scheinen sie scheint,1893.mp3
+1894,Schließen Sie bitte,1894.mp3
+1895,Schmeckt es dir?,1895.mp3
+1896,Schön! Bis später!,1896.mp3
+1897,Schönen Tag noch!,1897.mp3
+1898,Schüler oder Student?,1898.mp3
+1899,sehen haben besuchen,1899.mp3
+1900,"Sehr gut, Priyanka!",1900.mp3
+1901,Sei! Seien Sie!,1901.mp3
+1902,Seid ihr glücklich?,1902.mp3
+1903,sein Sie sind,1903.mp3
+1904,seit 2 Jahren,1904.mp3
+1905,Seit drei Tagen,1905.mp3
+1906,sich scheiden lassen,1906.mp3
+1907,sie ihr Fernseher,1907.mp3
+1908,Sie ist Analystin,1908.mp3
+1909,Sie ist dick,1909.mp3
+1910,Sie ist dünn,1910.mp3
+1911,Sie ist groß,1911.mp3
+1912,Sie ist Italienerin,1912.mp3
+1913,Sie ist klein,1913.mp3
+1914,Sie ist Schülerin,1914.mp3
+1915,Sie lernt Deutsch,1915.mp3
+1916,Sie liest ein,1916.mp3
+1917,Sie möchte den,1917.mp3
+1918,Sie müssen eine,1918.mp3
+1919,Sie sind verheiratet,1919.mp3
+1920,Sie spielen Fußball,1920.mp3
+1921,Sie spricht Deutsch,1921.mp3
+1922,"Sie, Ihr, Ihnen",1922.mp3
+1923,Sind das ?,1923.mp3
+1924,Sind das Sterne?,1924.mp3
+1925,Sind Sie verheiratet?,1925.mp3
+1926,so um acht,1926.mp3
+1927,Spielen Sie ?,1927.mp3
+1928,Spielen Sie Fußball?,1928.mp3
+1929,Spielst du Fußball?,1929.mp3
+1930,sprechen du sprichst,1930.mp3
+1931,Sprechen Sie Deutsch?,1931.mp3
+1932,Sprechen Sie Italienisch?,1932.mp3
+1933,Sprechst du ?,1933.mp3
+1934,Sprichst du ?,1934.mp3
+1935,Sprichst du Deutsch?,1935.mp3
+1936,Sprichst du Italienisch?,1936.mp3
+1937,spricht isst nimmt,1937.mp3
+1938,stehen hat gestanden,1938.mp3
+1939,"Super, bis dann!",1939.mp3
+1940,Tee oder Kaffee?,1940.mp3
+1941,telefonieren hat telefoniert,1941.mp3
+1942,Termin bei Doktor,1942.mp3
+1943,Tschüs! Bis später!,1943.mp3
+1944,Um acht Uhr,1944.mp3
+1945,Und der Süden?,1945.mp3
+1946,und habe Fieber,1946.mp3
+1947,Und jetzt informell,1947.mp3
+1948,Und was noch?,1948.mp3
+1949,"Urdu, Sindhi, Punjabi",1949.mp3
+1950,"Vater, Mutter, Schwester",1950.mp3
+1951,Verstehen Sie mich?,1951.mp3
+1952,Verstehst du mich?,1952.mp3
+1953,Veränderung des Zustands,1953.mp3
+1954,vor unserem Haus,1954.mp3
+1955,vor zwei Jahren,1955.mp3
+1956,W wie Wolke,1956.mp3
+1957,Wann fährt der,1957.mp3
+1958,Wann kommen Sie?,1958.mp3
+1959,Wartest du lange?,1959.mp3
+1960,Was esst ihr?,1960.mp3
+1961,Was fehlt Ihnen?,1961.mp3
+1962,Was ist passiert?,1962.mp3
+1963,Was kostet das?,1963.mp3
+1964,Was kostet der,1964.mp3
+1965,Was lernt sie?,1965.mp3
+1966,Was machst du?,1966.mp3
+1967,Was möchten Sie?,1967.mp3
+1968,Was möchtest du?,1968.mp3
+1969,Was sagt er?,1969.mp3
+1970,Was siehst du?,1970.mp3
+1971,Was studieren Sie?,1971.mp3
+1972,Was? Wie bitte?,1972.mp3
+1973,Wegen Krankheit geschlossen,1973.mp3
+1974,Wegen Umbau geschlossen,1974.mp3
+1975,Wegen Urlaub geschlossen,1975.mp3
+1976,Wem hilfst du?,1976.mp3
+1977,Wen liebst du?,1977.mp3
+1978,Wer ist das?,1978.mp3
+1979,Wer ist der,1979.mp3
+1980,Wie bitte? Neunzig?,1980.mp3
+1981,Wie bitte? Zwei?,1981.mp3
+1982,Wie heißen Sie?,1982.mp3
+1983,Wie heißt du?,1983.mp3
+1984,Wie ist das,1984.mp3
+1985,Wir antworten dem,1985.mp3
+1986,Wir besuchen euch,1986.mp3
+1987,Wir danken einer,1987.mp3
+1988,Wir essen Biryani,1988.mp3
+1989,Wir haben eine,1989.mp3
+1990,Wir möchten einen,1990.mp3
+1991,Wir möchten Wasser,1991.mp3
+1992,Wir sind glücklich,1992.mp3
+1993,Wir sprechen Deutsch,1993.mp3
+1994,Wir sprichst Deutsch,1994.mp3
+1995,Wir wollen einen,1995.mp3
+1996,Wir wollen spielen!,1996.mp3
+1997,Wo arbeiten Sie?,1997.mp3
+1998,Wo arbeitet sie?,1998.mp3
+1999,Wo ist ?,1999.mp3
+2000,Wo studieren Sie?,2000.mp3
+2001,Wo wohnen Sie?,2001.mp3
+2002,Wo wohnst du?,2002.mp3
+2003,Wo wohnt sie?,2003.mp3
+2004,Woher kommen Sie?,2004.mp3
+2005,Woher kommst du?,2005.mp3
+2006,Woher kommt er?,2006.mp3
+2007,Woher kommt sie?,2007.mp3
+2008,Woher vs. Wo,2008.mp3
+2009,wohnen ich wohne,2009.mp3
+2010,Wohnen Sie allein?,2010.mp3
+2011,wohnen wir wohnen,2011.mp3
+2012,"wohnen, arbeiten, leben",2012.mp3
+2013,Wohnung im Parterre,2013.mp3
+2014,zehn Uhr achtundzwanzig,2014.mp3
+2015,zehndrei zehnzig zweizig,2015.mp3
+2016,zu dem zum,2016.mp3
+2017,zumachen hat zugemacht,2017.mp3
+2018,Zusammen oder getrennt?,2018.mp3
+2019,zwanzig vor sieben,2019.mp3
+2020,zwei Flaschen Öl,2020.mp3
+2021,zwei Tafeln Schokolade,2021.mp3
+2022,"zwei, zehn, zwanzig",2022.mp3
+2023,zweiundzwanzig Uhr achtundzwanzig,2023.mp3
+2024,zwölf Euro fünfzig,2024.mp3
+2025,ä ö ü,2025.mp3
+2026,Ö wie Öl,2026.mp3
+2027,Ö wie Öl?,2027.mp3
+2028,ÖSD Zertifikat A1,2028.mp3
+2029,"Achtung, Zug fährt ein!",2029.mp3
+2030,Afrika Amerika Asien Europa,2030.mp3
+2031,"Ah, zwölf. Vielen Dank!",2031.mp3
+2032,Alles klar. Vielen Dank!,2032.mp3
+2033,Am 26. September geschlossen,2033.mp3
+2034,Auf Wiederhören! Bis bald!,2034.mp3
+2035,"Auf Wiederhören, Herr Schmidt!",2035.mp3
+2036,"Auf Wiedersehen, Frau Klein!",2036.mp3
+2037,"Auf Wiedersehen, Herr Wagner!",2037.mp3
+2038,"Auf Wiedersehen, Herr Weber!",2038.mp3
+2039,bei regelmäßige n Verben,2039.mp3
+2040,Beigen Sie rehcts ab!,2040.mp3
+2041,Betreten der Baustelle verboten!,2041.mp3
+2042,Biegen Sie links ab!,2042.mp3
+2043,Biegen Sie rechts ab!,2043.mp3
+2044,bis Montag 3 Uhr,2044.mp3
+2045,Bitte die Treppe benutzen!,2045.mp3
+2046,Bitte kommen Sie mit!,2046.mp3
+2047,Bitte nehmen Sie Platz!,2047.mp3
+2048,Bitte schließen Sie die,2048.mp3
+2049,Bitte schön. Gute Nacht!,2049.mp3
+2050,Danke Schön! Danke schön!,2050.mp3
+2051,Danke schön! Zimmer vierundzwanzig,2051.mp3
+2052,Danke! Jetzt verstehe ich,2052.mp3
+2053,"Danke, gut. Und dir?",2053.mp3
+2054,"Danke, gut. Und Ihnen?",2054.mp3
+2055,Dann sehe ich fern,2055.mp3
+2056,Darf ich bitte zahlen?,2056.mp3
+2057,Darf ich noch ein,2057.mp3
+2058,Darf man hier rauchen?,2058.mp3
+2059,Das Auto ist schnell,2059.mp3
+2060,Das Buch gehört mir,2060.mp3
+2061,das Essen mein Lieblingsessen,2061.mp3
+2062,Das Handy ist neu,2062.mp3
+2063,Das ist ein Bleistift,2063.mp3
+2064,Das ist ein Bruder,2064.mp3
+2065,Das ist ein Kuli,2065.mp3
+2066,Das ist ein Mann,2066.mp3
+2067,Das ist ein Stuhl,2067.mp3
+2068,Das ist kein Kuli,2068.mp3
+2069,Das ist kein Mann,2069.mp3
+2070,Das ist mein Bruder,2070.mp3
+2071,Das ist mein Fernseher,2071.mp3
+2072,Das ist mein Mann,2072.mp3
+2073,Das ist meine Familie,2073.mp3
+2074,Das ist unser Buch,2074.mp3
+2075,Das Kleid gefällt mir,2075.mp3
+2076,Das macht neunundneunzig Euro,2076.mp3
+2077,das schön e Wetter,2077.mp3
+2078,Das sind keine Sterne,2078.mp3
+2079,Das sind unsere Bücher,2079.mp3
+2080,das wetter das Wetter,2080.mp3
+2081,Das Wetter ist schön,2081.mp3
+2082,Das Wetter war schön,2082.mp3
+2083,das Wochenende am Wochenende,2083.mp3
+2084,"den Kindern, den Männern",2084.mp3
+2085,denn ich bin krank,2085.mp3
+2086,"der Apfel, das Lineal",2086.mp3
+2087,Der Blutdruck ist hoch,2087.mp3
+2088,der Bogen die Bögen,2088.mp3
+2089,Der Bus hält hier,2089.mp3
+2090,der Deutsche die Deutsche,2090.mp3
+2091,der erst e Juli,2091.mp3
+2092,Der Film ist lang,2092.mp3
+2093,Der Film ist langsam,2093.mp3
+2094,der Gast die Gäste,2094.mp3
+2095,Der Himmel ist blau,2095.mp3
+2096,der Kassierer die Kassiererin,2096.mp3
+2097,der Kellner die Kellnerin,2097.mp3
+2098,"der Kellner, die Kellnerin",2098.mp3
+2099,Der Kuli ist rot,2099.mp3
+2100,der Kunde die Kundin,2100.mp3
+2101,Der Mann ist glücklich,2101.mp3
+2102,der Pakistaner die Pakistaner,2102.mp3
+2103,Der Pullover ist blau,2103.mp3
+2104,der Regenbogen die Regenbögen,2104.mp3
+2105,der Rücken die Rückenschmerzen,2105.mp3
+2106,Der Tisch ist alt,2106.mp3
+2107,Der Wievielte ist heute?,2107.mp3
+2108,der Wochenende die Norden,2108.mp3
+2109,der Zahn die Zahnschmerzen,2109.mp3
+2110,der Österreicher die Österreicher,2110.mp3
+2111,Die Autos sind schnell,2111.mp3
+2112,Die Blätter sind grün,2112.mp3
+2113,die Farbe meine Lieblingsfarbe,2113.mp3
+2114,Die Ferien waren toll,2114.mp3
+2115,Die Frau hört Musik,2115.mp3
+2116,Die Frau trinkt Wein,2116.mp3
+2117,"die Kundinnen, die Kassiererinnen",2117.mp3
+2118,Die Küche ist groß,2118.mp3
+2119,die Lehrerin die Lehrerinnen,2119.mp3
+2120,Die Möbel sind neu,2120.mp3
+2121,die Obst- und Gemüseabteilung,2121.mp3
+2122,die Pakistanerin die Pakistanerinnen,2122.mp3
+2123,Die Sonne scheint heute,2123.mp3
+2124,Die Tasche ist schwer,2124.mp3
+2125,"die USA, die Niederlande",2125.mp3
+2126,Die Wohnung ist klein,2126.mp3
+2127,du arbeitst er antwortt,2127.mp3
+2128,Du fährst nach Lahore,2128.mp3
+2129,du habst er habt,2129.mp3
+2130,"Du kommst morgen, oder?",2130.mp3
+2131,Du nehmst den Bus,2131.mp3
+2132,Du nimmst den Bus,2132.mp3
+2133,Du sprechst Du sprichst,2133.mp3
+2134,Du sprichst gut Deutsch,2134.mp3
+2135,"du sprichst, er spricht",2135.mp3
+2136,Du wohnst in Lahore,2136.mp3
+2137,"ein Auto, eine Tochter",2137.mp3
+2138,ein ge kauft eingekauft,2138.mp3
+2139,"einen Hund, einen Moment",2139.mp3
+2140,"einkaufen, mitbringen, mitnehmen, aufmachen",2140.mp3
+2141,Er arbeitet bei Siemens,2141.mp3
+2142,Er hat alles erklärt,2142.mp3
+2143,Er komme Er arbeit,2143.mp3
+2144,Er kommt aus Pakistan,2144.mp3
+2145,Er muss heute arbeiten,2145.mp3
+2146,Er ruft seinen Freund,2146.mp3
+2147,er trinkt sie liest,2147.mp3
+2148,Er tritt den Ball,2148.mp3
+2149,Er versteht mich gut,2149.mp3
+2150,Ergänzen Sie das Formular,2150.mp3
+2151,Es blitzt und donnert,2151.mp3
+2152,Es geht mir gut,2152.mp3
+2153,Es gibt drei Stühle,2153.mp3
+2154,Es gibt eine Suppe,2154.mp3
+2155,Es gibt einen Parkplatz,2155.mp3
+2156,Es gibt einen Stuhl,2156.mp3
+2157,Es gibt keinen Bus,2157.mp3
+2158,Es gibt keinen Parkplatz,2158.mp3
+2159,Es gibt vier Zimmer,2159.mp3
+2160,Es gibt zwei Parks,2160.mp3
+2161,Es ist acht Uhr,2161.mp3
+2162,Es ist halb neun,2162.mp3
+2163,Es ist schlechtes Wetter,2163.mp3
+2164,Es ist schreckliches Wetter,2164.mp3
+2165,Es ist schönes Wetter,2165.mp3
+2166,Es ist zwanzig Uhr,2166.mp3
+2167,Es tut mir leid,2167.mp3
+2168,frei verboten geschlossen gratis,2168.mp3
+2169,Für wie viele Personen?,2169.mp3
+2170,ge arbeit et gearbeitet,2170.mp3
+2171,ge mach t gemacht,2171.mp3
+2172,ge trunk en getrunken,2172.mp3
+2173,"geben, kaufen, schenken, zeigen",2173.mp3
+2174,Geh sofort nach Hause!,2174.mp3
+2175,Geht es um ?,2175.mp3
+2176,gern lieber am liebsten,2176.mp3
+2177,Gesten der nebil übernachlen,2177.mp3
+2178,Gestern gab es keine,2178.mp3
+2179,Gestern hat es geregnet,2179.mp3
+2180,Gestern war ich müde,2180.mp3
+2181,Gibt es einen Arzt?,2181.mp3
+2182,Gibt es einen Bahnhof?,2182.mp3
+2183,Gibt es hier eine,2183.mp3
+2184,Grüß Gott! Herr Bauer?,2184.mp3
+2185,Gut! Sind Sie glücklich?,2185.mp3
+2186,Gut. Sind Sie verheiratet?,2186.mp3
+2187,Gute Nacht! Bis bald!,2187.mp3
+2188,Guten Abend! Zimmer zwölf,2188.mp3
+2189,"Guten Abend, Herr Neumann!",2189.mp3
+2190,Guten Nacht! Gute Tag!,2190.mp3
+2191,gültig ab 10. Jänner,2191.mp3
+2192,gültig bis 31. Dezember,2192.mp3
+2193,Haben Sie bitte Geduld!,2193.mp3
+2194,Haben Sie einen Hund?,2194.mp3
+2195,Haben Sie einen Moment?,2195.mp3
+2196,Haben Sie viel Freizeit?,2196.mp3
+2197,Hallo Max! Wie geht's?,2197.mp3
+2198,Hallo! Ich heiße Ayesha,2198.mp3
+2199,Hallo! Seid ihr glücklich?,2199.mp3
+2200,Hallo! Wer ist das?,2200.mp3
+2201,Hallo! Wie heißt du?,2201.mp3
+2202,Hallo! Woher kommst du?,2202.mp3
+2203,"Hallo, Ayesha! Wie geht's?",2203.mp3
+2204,Hast du dich verletzt?,2204.mp3
+2205,Hast du eine Freundin?,2205.mp3
+2206,Hat es Ihnen geschmeckt?,2206.mp3
+2207,Hat Maria eine Tochter?,2207.mp3
+2208,Heute bin ich müde,2208.mp3
+2209,Heute Geburtstag ich habe,2209.mp3
+2210,Heute gibt es Fisch,2210.mp3
+2211,Heute gibt es keine,2211.mp3
+2212,Heute habe ich Geburtstag,2212.mp3
+2213,Heute ich bin müde,2213.mp3
+2214,Heute ist mein Geburtstag,2214.mp3
+2215,Hier gibt es einen,2215.mp3
+2216,Hier ist die Speisekarte,2216.mp3
+2217,Hier ist Julia Braun,2217.mp3
+2218,Hier ist kein Zutritt,2218.mp3
+2219,Hier kann man parken,2219.mp3
+2220,Hier spricht man Deutsch,2220.mp3
+2221,"Hier, bitte! Stimmt so!",2221.mp3
+2222,Hunde an die Leine!,2222.mp3
+2223,Hören Sie den Text,2223.mp3
+2224,Ich arbeite jeden Tag,2224.mp3
+2225,Ich bekomme einen Brief,2225.mp3
+2226,Ich bin 2006 geboren,2226.mp3
+2227,Ich bin aus Brasilien,2227.mp3
+2228,Ich bin beim Arzt,2228.mp3
+2229,Ich bin eine Pakistanerin,2229.mp3
+2230,Ich bin früh aufgewacht,2230.mp3
+2231,Ich bin Geburtstag heute,2231.mp3
+2232,Ich bin gestern aufgestanden,2232.mp3
+2233,Ich bin heute müde,2233.mp3
+2234,Ich bin im Supermarkt,2234.mp3
+2235,Ich bin Julia Braun,2235.mp3
+2236,Ich bin kein verheiratet,2236.mp3
+2237,Ich bin nicht verheiratet,2237.mp3
+2238,Ich bin Thomas Weber,2238.mp3
+2239,Ich bin zu Hause,2239.mp3
+2240,Ich brauche ein Medikament,2240.mp3
+2241,Ich drucke das Formular,2241.mp3
+2242,Ich drucke das Foto,2242.mp3
+2243,Ich drücke den Knopf,2243.mp3
+2244,Ich esse gern Gemüse,2244.mp3
+2245,Ich esse gern Reis,2245.mp3
+2246,Ich esse lieber Reis,2246.mp3
+2247,Ich fahre mit dem,2247.mp3
+2248,Ich finde das gut,2248.mp3
+2249,Ich finde ihn nett,2249.mp3
+2250,Ich finde Michael ihn,2250.mp3
+2251,Ich fliege nach Wien,2251.mp3
+2252,Ich fliege nach Österreich,2252.mp3
+2253,Ich gebe es ihr,2253.mp3
+2254,Ich gebe meinem Baby,2254.mp3
+2255,Ich gebe meinem Mann,2255.mp3
+2256,Ich gebe meinen Kindern,2256.mp3
+2257,Ich gebe meiner Tochter,2257.mp3
+2258,Ich gehe ins Kino,2258.mp3
+2259,Ich gehe nach Hause,2259.mp3
+2260,Ich gehe zu Fuß,2260.mp3
+2261,Ich gehe zum Arzt,2261.mp3
+2262,Ich gehe zum Supermarkt,2262.mp3
+2263,Ich habe ein Auto,2263.mp3
+2264,Ich habe eine Erkältung,2264.mp3
+2265,Ich habe eine Schwester,2265.mp3
+2266,Ich habe einen Bruder,2266.mp3
+2267,Ich habe gestern aufgestanden,2267.mp3
+2268,Ich habe heute Geburtstag,2268.mp3
+2269,Ich habe keine Geschwister,2269.mp3
+2270,Ich habe keine Kinder,2270.mp3
+2271,Ich habe keine Zeit,2271.mp3
+2272,Ich habe mich verletzt,2272.mp3
+2273,Ich habe mir das,2273.mp3
+2274,Ich habe Reis gegessen,2274.mp3
+2275,Ich habe sechzehn Jahre,2275.mp3
+2276,Ich habe Tee getrunken,2276.mp3
+2277,Ich habe Zeit gehabt,2277.mp3
+2278,Ich habe zwei Brüder,2278.mp3
+2279,Ich habe zwei Schwestern,2279.mp3
+2280,Ich hatte keine Zeit,2280.mp3
+2281,Ich heiße Anna Klein,2281.mp3
+2282,Ich heiße Imran Khan,2282.mp3
+2283,Ich helfe dem Kunden,2283.mp3
+2284,Ich helfe dem Mann,2284.mp3
+2285,Ich helfe den Mann,2285.mp3
+2286,Ich helfe der Frau,2286.mp3
+2287,Ich hätte gern eine,2287.mp3
+2288,Ich hätte gern einen,2288.mp3
+2289,Ich höre gern Musik,2289.mp3
+2290,Ich kann Deutsch sprechen,2290.mp3
+2291,Ich kann dich verstehen,2291.mp3
+2292,Ich kaufe eine Hose,2292.mp3
+2293,Ich kaufe einen Apfel,2293.mp3
+2294,Ich komme aus der,2294.mp3
+2295,Ich komme aus Deutschland,2295.mp3
+2296,Ich komme aus Hyderabad,2296.mp3
+2297,Ich komme aus Indien,2297.mp3
+2298,Ich komme aus Pakistan,2298.mp3
+2299,Ich komme in Pakistan,2299.mp3
+2300,Ich Komme vom Supermakt,2300.mp3
+2301,Ich komme vom Supermarkt,2301.mp3
+2302,Ich Lebe mich verletzt,2302.mp3
+2303,Ich lege mich hin,2303.mp3
+2304,ich mag er mag,2304.mp3
+2305,Ich muss nach Hause,2305.mp3
+2306,Ich möchte eine Pizza,2306.mp3
+2307,Ich möchte einen Apfel,2307.mp3
+2308,Ich möchte einen Tee,2308.mp3
+2309,Ich möchte einen Termin,2309.mp3
+2310,Ich möchte keine Pizza,2310.mp3
+2311,Ich möchte nicht studieren,2311.mp3
+2312,Ich möchte Ärztin werden,2312.mp3
+2313,Ich putze für Sie,2313.mp3
+2314,Ich sehe den Kunden,2314.mp3
+2315,Ich sehe ihn heute,2315.mp3
+2316,Ich sehe meinen Bruder,2316.mp3
+2317,Ich sehe zwei Personen,2317.mp3
+2318,Ich spiele amerikanischen Fußball,2318.mp3
+2319,Ich spiele einen Fußball,2319.mp3
+2320,Ich spiele gern Fußball,2320.mp3
+2321,Ich spiele gern Kricket,2321.mp3
+2322,Ich spreche etwas Deutsch,2322.mp3
+2323,Ich spreche kein Deutsch,2323.mp3
+2324,Ich spreche mit Ali,2324.mp3
+2325,Ich spreche mit meinem,2325.mp3
+2326,Ich trinke gern Cola,2326.mp3
+2327,Ich trinke lieber Kaffee,2327.mp3
+2328,Ich verstehe dich gut,2328.mp3
+2329,Ich war in Paris,2329.mp3
+2330,Ich wohne in Berlin,2330.mp3
+2331,Ich wohne in Hyderabad,2331.mp3
+2332,Ich wohne in Mirpur-khas,2332.mp3
+2333,Ich wohne in Mirpurkhas,2333.mp3
+2334,Ich wohne in Wien,2334.mp3
+2335,ihr haltet ihr warf,2335.mp3
+2336,ihr wohnt in Paris,2336.mp3
+2337,im november bis sonntag,2337.mp3
+2338,Im Oktober gehe ich,2338.mp3
+2339,Im Restaurant bestellen wir,2339.mp3
+2340,in ein em Haus,2340.mp3
+2341,in ein er Wohnung,2341.mp3
+2342,"Isst du auch, Hina?",2342.mp3
+2343,Ist das dein Fernseher?,2343.mp3
+2344,Ist das ein Kuli?,2344.mp3
+2345,Ist das Ihr Fernseher?,2345.mp3
+2346,Ist dein Handy neu?,2346.mp3
+2347,Ist der Arzt da?,2347.mp3
+2348,Ist der Norden kalt?,2348.mp3
+2349,"Ja, danke, sehr gut!",2349.mp3
+2350,"Ja, das mag ich",2350.mp3
+2351,"Ja, ich habe Zeit",2351.mp3
+2352,"Jahre, Auto, Kinder, Geburtstag",2352.mp3
+2353,Kann ich bitte zahlen?,2353.mp3
+2354,Kann man hier parken?,2354.mp3
+2355,Kannst du mich verstehen?,2355.mp3
+2356,"kaufen, geben, schenken, zeigen",2356.mp3
+2357,Kein Ahnung! Gut Besserung!,2357.mp3
+2358,"kein Problem, kein Deutsch",2358.mp3
+2359,Kein Problem. Auf Wiederhören!,2359.mp3
+2360,Kein Zutritt für Unbefugte,2360.mp3
+2361,Keine Ahnung. Und dir?,2361.mp3
+2362,Kommen Sie aus Pakistan?,2362.mp3
+2363,Können Sie bitte ?,2363.mp3
+2364,Lesen Sie den Text,2364.mp3
+2365,Links sitzt ein Mann,2365.mp3
+2366,Mach regelmäßig die Hausaufgabe,2366.mp3
+2367,Machen Sie das allein?,2367.mp3
+2368,Man bezahlt an der,2368.mp3
+2369,Man braucht keinen Ausweis,2369.mp3
+2370,Man darf nicht rauchen,2370.mp3
+2371,Man geht ins Kino,2371.mp3
+2372,man geht zu Fuß,2372.mp3
+2373,Man hat viel gegessen,2373.mp3
+2374,Man kann hier einkaufen,2374.mp3
+2375,Man kann hier parken,2375.mp3
+2376,Man muss nichts bezahlen,2376.mp3
+2377,Mein Hobby ist Kricket,2377.mp3
+2378,Mein Lieblingsessen ist Biryani,2378.mp3
+2379,mein Name meine Hobbys,2379.mp3
+2380,Meine Handynummer ist null-drei-drei-null-acht-drei-eins-drei-zwei-null,2380.mp3
+2381,Meine Handynummer ist null-drei-eins-eins-zwei-zwei-drei-drei-vier-vier,2381.mp3
+2382,meine Kinder meinen Kindern,2382.mp3
+2383,Meine Zahl ist 0176,2383.mp3
+2384,Mir geht es gut,2384.mp3
+2385,Mit wem spielen Sie?,2385.mp3
+2386,Modal verb Trenbare Verben,2386.mp3
+2387,Muss ich Tabletten nehmen?,2387.mp3
+2388,Muss man Eintritt bezahlen?,2388.mp3
+2389,Möchtest du eine Pizza?,2389.mp3
+2390,"nach Hyderabad, nach Deutschland",2390.mp3
+2391,"neben, zwischen, hinter, unter",2391.mp3
+2392,"Nein, das ist kein",2392.mp3
+2393,"Nein, das ist keine",2393.mp3
+2394,"Nein, das sind keine",2394.mp3
+2395,"Nein, es ist leicht!",2395.mp3
+2396,"Nein, ich verstehe nicht",2396.mp3
+2397,"Nein, nicht so gern",2397.mp3
+2398,"Noch einmal, bitte! Langsam",2398.mp3
+2399,"Noch einmal, bitte! Langsam!",2399.mp3
+2400,nur bis 30. Juni,2400.mp3
+2401,Pakistan liegt in Asien,2401.mp3
+2402,Rauchen Parken Betreten Fotografieren,2402.mp3
+2403,Rechts steht eine Frau,2403.mp3
+2404,Reist du im Sommer?,2404.mp3
+2405,ruhig gemütlich freundlich stressig,2405.mp3
+2406,Sabine hat einen Bruder,2406.mp3
+2407,schön angenehm sonnig neblig,2407.mp3
+2408,Sehr gut! Danke schön,2408.mp3
+2409,Seien Sie bitte leise!,2409.mp3
+2410,"Servus, Toni! Bis bald!",2410.mp3
+2411,Sie arbeitet bei Siemens,2411.mp3
+2412,Sie fährt mit der,2412.mp3
+2413,Sie hat Philosophie studiert,2413.mp3
+2414,Sie ist Analystin geworden,2414.mp3
+2415,Sie ist Ärztin geworden,2415.mp3
+2416,Sie kommt aus den,2416.mp3
+2417,Sie kommt aus Pakistan,2417.mp3
+2418,Sie lassen sich scheiden,2418.mp3
+2419,Sie lesen Lesen Sie!,2419.mp3
+2420,Sie müssen nicht bezahlen,2420.mp3
+2421,Sie sind meine Eltern,2421.mp3
+2422,Sie sind meine Geschwister,2422.mp3
+2423,Sie sind Sie ist,2423.mp3
+2424,Sie trägt eine Tasche,2424.mp3
+2425,Sie wohnen in Mirpur-khas,2425.mp3
+2426,Sie wohnt bei ihrer,2426.mp3
+2427,Sie wohnt in Mirpurkhas,2427.mp3
+2428,Sind Sie zu Hause?,2428.mp3
+2429,Super! Wir lernen zusammen,2429.mp3
+2430,This is a women,2430.mp3
+2431,to loose to lose,2431.mp3
+2432,Trenbare hat gegesen unregelmäsige,2432.mp3
+2433,Triffst du Ali morgen?,2433.mp3
+2434,Trink Tee mit Honig!,2434.mp3
+2435,Tschuss! zwolf funf fur,2435.mp3
+2436,um acht Uhr abends,2436.mp3
+2437,um acht Uhr morgens,2437.mp3
+2438,Um wie viel Uhr?,2438.mp3
+2439,und aber denn oder,2439.mp3
+2440,und dann koche ich,2440.mp3
+2441,Und ist es schwer?,2441.mp3
+2442,und oder aber denn,2442.mp3
+2443,Und woher kommen Sie?,2443.mp3
+2444,Urdu ist meine Muttersprache,2444.mp3
+2445,ver standen verstanden studiert,2445.mp3
+2446,verb im zweite position,2446.mp3
+2447,Verb in zweiter Position,2447.mp3
+2448,Vielen Dank! Auf Wiedersehen,2448.mp3
+2449,Vielleicht ist es Wochenende,2449.mp3
+2450,vor ein paar Tagen,2450.mp3
+2451,Vorsicht an der Bahnsteigkante!,2451.mp3
+2452,Wann bist du geboren?,2452.mp3
+2453,Wann fährt der Zug?,2453.mp3
+2454,Wann hast du Geburtstag?,2454.mp3
+2455,Wann hast du Zeit?,2455.mp3
+2456,Wann stehst du auf?,2456.mp3
+2457,Wann willst du aufstehen?,2457.mp3
+2458,Warum antwortest du nicht?,2458.mp3
+2459,Warum kommst du nicht?,2459.mp3
+2460,Was bringen Sie mit?,2460.mp3
+2461,Was darf's denn sein?,2461.mp3
+2462,Was essen Sie gern?,2462.mp3
+2463,Was hast du gemacht?,2463.mp3
+2464,Was hätten Sie gern?,2464.mp3
+2465,Was ist dein Lieblingsessen?,2465.mp3
+2466,Was ist ein Verb?,2466.mp3
+2467,Was ist Ihr Hobby?,2467.mp3
+2468,Was machen Sie beruflich?,2468.mp3
+2469,Was machst du heute?,2469.mp3
+2470,Was möchten Sie bestellen?,2470.mp3
+2471,Was möchten Sie trinken?,2471.mp3
+2472,Was möchtest du bestellen?,2472.mp3
+2473,Was sind Ihr Hobbys?,2473.mp3
+2474,Was sind Ihre Hobbys?,2474.mp3
+2475,Was soll ich mitbringen?,2475.mp3
+2476,Welche Sprachen sprechen Sie?,2476.mp3
+2477,Welche Sprachen sprichst du?,2477.mp3
+2478,Welche Sprachen spricht sie?,2478.mp3
+2479,Wen rufst du an?,2479.mp3
+2480,Wer spricht gut Deutsch?,2480.mp3
+2481,Wessen Fernseher ist das?,2481.mp3
+2482,Wie alt bist du?,2482.mp3
+2483,Wie alt ist er?,2483.mp3
+2484,Wie alt ist sie?,2484.mp3
+2485,Wie alt sind Sie?,2485.mp3
+2486,Wie findest du ?,2486.mp3
+2487,Wie geht es dir?,2487.mp3
+2488,Wie geht es Ihnen?,2488.mp3
+2489,Wie geht's? Und dir?,2489.mp3
+2490,Wie heißt dein Bruder?,2490.mp3
+2491,Wie ist das Wetter?,2491.mp3
+2492,Wie ist dein Familienname?,2492.mp3
+2493,Wie ist deine Handynummer?,2493.mp3
+2494,Wie ist Ihr Familienname?,2494.mp3
+2495,Wie ist Ihr Name?,2495.mp3
+2496,Wie ist Ihre Handynummer?,2496.mp3
+2497,Wie ist Ihre Wohnung?,2497.mp3
+2498,Wie lange? Wie oft?,2498.mp3
+2499,Wie schreibt man das?,2499.mp3
+2500,Wie spät ist es?,2500.mp3
+2501,Wie viele Zimmer ?,2501.mp3
+2502,Wie war das Wetter?,2502.mp3
+2503,Wien liegt in Europa,2503.mp3
+2504,Wir antworten dem Studenten,2504.mp3
+2505,Wir danken einer Frau,2505.mp3
+2506,Wir fliegen mit dem,2506.mp3
+2507,Wir haben ein Auto,2507.mp3
+2508,wir is erste Person,2508.mp3
+2509,Wir sind zu Hause,2509.mp3
+2510,Wir suchen eine Haushaltshilfe,2510.mp3
+2511,Wir suchen eine Kellnerin,2511.mp3
+2512,Wir waren am Meer,2512.mp3
+2513,wir wohne wir wohnt,2513.mp3
+2514,Wir wohnen in der,2514.mp3
+2515,Wir wohnen in Mirpur,2515.mp3
+2516,Wo bist du denn?,2516.mp3
+2517,Wo bist du heute?,2517.mp3
+2518,Wo gibt es eine,2518.mp3
+2519,Wo ist der Bahnsteig?,2519.mp3
+2520,Wo kann man bezahlen?,2520.mp3
+2521,Wo lernen Sie Deutsch?,2521.mp3
+2522,Wo sind diese Personen?,2522.mp3
+2523,Wo spielen Sie Kricket?,2523.mp3
+2524,Wo warst du gestern?,2524.mp3
+2525,Wo wohnen Sie genau?,2525.mp3
+2526,Wohin seid ihr gefahren?,2526.mp3
+2527,Wohnen Sie in Mirpur-khas?,2527.mp3
+2528,Wohnst du in Lahore?,2528.mp3
+2529,zwanzig zwanzigste dreißig dreißigste,2529.mp3
+2530,zwei Million die Regenbogen,2530.mp3
+2531,4 von 10 die E-Mail,2531.mp3
+2532,"abfahren, ankommen, umsteigen, einsteigen, aussteigen",2532.mp3
+2533,Ali ist müde. Ali schläft,2533.mp3
+2534,Ali ist müde. Er schläft,2534.mp3
+2535,Am liebsten esse ich Hähnchen,2535.mp3
+2536,Am liebsten trinke ich Tee,2536.mp3
+2537,bis 12 Uhr bis Sonntag,2537.mp3
+2538,Bist du im Winter geboren?,2538.mp3
+2539,Bitte rauchen Sie hier nicht!,2539.mp3
+2540,Bitte schließen Sie die Tür!,2540.mp3
+2541,Bitte triken Sie mehr waser!,2541.mp3
+2542,Bitte trinken Sie mehr Wasser!,2542.mp3
+2543,Danke schön! Schönen Tag noch!,2543.mp3
+2544,Danke! Und woher kommen Sie?,2544.mp3
+2545,"Danke, auch gut. Bis später!",2545.mp3
+2546,"Danke, sehr gut. Und Ihnen?",2546.mp3
+2547,Danke. Wo ist hier eine,2547.mp3
+2548,Dann gehe ich nach Hause,2548.mp3
+2549,Darf ich mit Karte bezahlen?,2549.mp3
+2550,Darf man im Museum fotografieren?,2550.mp3
+2551,Das Haus ist nicht groß,2551.mp3
+2552,Das ist nicht der Kuli,2552.mp3
+2553,Das ist Reis mit Fleisch,2553.mp3
+2554,Das Kind ist schnell eingeschlafen,2554.mp3
+2555,Das macht zusammen 45 Euro,2555.mp3
+2556,Das macht zwölf Euro achtzig,2556.mp3
+2557,Das Rauchen ist hier verboten,2557.mp3
+2558,Das Ticket kostet 45 CHF,2558.mp3
+2559,das untrennbare Verb am Ende,2559.mp3
+2560,Den Hut finde ich cool,2560.mp3
+2561,Den Wievielten haben wir heute?,2561.mp3
+2562,Der Arzt untersucht den Patienten,2562.mp3
+2563,Der Film hat mir gefallen,2563.mp3
+2564,Der Kopf tut mir weh,2564.mp3
+2565,Der Mann ist im Park,2565.mp3
+2566,Der Mann sitzt am Tisch,2566.mp3
+2567,Der Mann wohnt in Paris,2567.mp3
+2568,Der Vogel isst einen Apfel,2568.mp3
+2569,Der Zug ist pünktlich angekommen,2569.mp3
+2570,Die Frau sitzt am Tisch,2570.mp3
+2571,Die Hose finde ich cool,2571.mp3
+2572,Die Miete ist 300 Euro,2572.mp3
+2573,Die Personen sind im Restaurant,2573.mp3
+2574,Die Schuhe finde ich teuer,2574.mp3
+2575,Die Studentin kommt aus Pakistan,2575.mp3
+2576,Du heißst Ali? du tanzst,2576.mp3
+2577,Du sollst mehr Wasser trinken,2577.mp3
+2578,ein Aufzug mit einem Schild,2578.mp3
+2579,ein Hund an der Leine,2579.mp3
+2580,Ein Tag hat 24 Stunden,2580.mp3
+2581,"Ein Tisch am Fenster, bitte",2581.mp3
+2582,ein Tisch für einen Gast,2582.mp3
+2583,Eine Minute hat 60 Sekunden,2583.mp3
+2584,Eine Stunde hat 60 Minuten,2584.mp3
+2585,Eine Woche hat sieben Tage,2585.mp3
+2586,eine Zeit einen Urlaub gemacht,2586.mp3
+2587,"einen Salat, das Buch, Philosophie",2587.mp3
+2588,Einfach oder hin und zurück?,2588.mp3
+2589,"Eins, zwei, drei, vier, fünf",2589.mp3
+2590,"einsteigen, umsteigen, aussteigen, ankommen, abfahren",2590.mp3
+2591,"Elf, zwölf, dreizehn, vierzehn, fünfzehn",2591.mp3
+2592,"Entschuldigung, können Sie mir helfen?",2592.mp3
+2593,Er isst jeden Tag Reis,2593.mp3
+2594,Er ist 30 Jahre alt,2594.mp3
+2595,Er ruft seinen Freund an,2595.mp3
+2596,Er zieht die Schuhe aus,2596.mp3
+2597,Es geht ihm nicht gut,2597.mp3
+2598,Es geht. Ich bin müde,2598.mp3
+2599,es gibt ein en Balkon,2599.mp3
+2600,Es ist dreiundzwanzig Uhr fünf,2600.mp3
+2601,Es ist fünfzehn Uhr fünfundvierzig,2601.mp3
+2602,"Es ist klein, aber schnell!",2602.mp3
+2603,Es ist rot und schwarz,2603.mp3
+2604,Es ist sieben Uhr zehn,2604.mp3
+2605,Es ist Viertel nach drei,2605.mp3
+2606,Es ist zwanzig Uhr dreißig,2606.mp3
+2607,Es ist zweiundzwanzig Uhr achtundzwanzig,2607.mp3
+2608,Es ist zwölf Uhr sechzehn,2608.mp3
+2609,Essen und Trinken sind verboten,2609.mp3
+2610,"Freut mich auch, Herr Weber!",2610.mp3
+2611,Früher gab es hier ein,2611.mp3
+2612,Früher gab es hier einen,2612.mp3
+2613,Gehen Sie bitte nach links,2613.mp3
+2614,"Gehen Sie geradeaus, dann rechts",2614.mp3
+2615,Gehen Sie gern ins Kino?,2615.mp3
+2616,Gestern hatte Priyanka keine Zeit,2616.mp3
+2617,Gestern war das Wetter schlecht,2617.mp3
+2618,Gestern war Robert zu spät,2618.mp3
+2619,"Grüß dich, Lisa! Wie geht's?",2619.mp3
+2620,"Gut, dann nehme ich ein",2620.mp3
+2621,Guten Appetit! Möchtest du eine,2621.mp3
+2622,"Guten Morgen! Einen Moment, bitte!",2622.mp3
+2623,Guten Morgen! Wie heißen Sie?,2623.mp3
+2624,Guten Tag! Ich möchte eine,2624.mp3
+2625,Guten Tag! Ich möchte einen,2625.mp3
+2626,Guten Tag! Sprechen Sie Deutsch?,2626.mp3
+2627,Guten Tag! Was fehlt Ihnen?,2627.mp3
+2628,Guten Tag! Wo wohnen Sie?,2628.mp3
+2629,Habt ihr auch ein Auto?,2629.mp3
+2630,Hallo! Wann bist du geboren?,2630.mp3
+2631,Hallo! Wie alt bist du?,2631.mp3
+2632,Hallo! Wie spät ist es?,2632.mp3
+2633,"Hallo, Ayesha! Ich heiße Sana",2633.mp3
+2634,Hast du das Schloss besichtigt?,2634.mp3
+2635,Hast du gestern etwas gegessen?,2635.mp3
+2636,Heute bin ich in Hyderabad,2636.mp3
+2637,Heute habe ich ein Auto,2637.mp3
+2638,Heute hat Priyanka viel Zeit,2638.mp3
+2639,Heute ist der Mann glücklich,2639.mp3
+2640,Heute ist der zwölfte September,2640.mp3
+2641,Hier darf man nicht hineingehen,2641.mp3
+2642,Hier darf man nicht parken,2642.mp3
+2643,Hier darf man nicht rauchen,2643.mp3
+2644,Hier gibt es ein Schwimmbad,2644.mp3
+2645,Hier gibt es einen Supermarkt,2645.mp3
+2646,"hier, heute, eine Fahrkarte, nicht",2646.mp3
+2647,Ich bin 16 Jahre alt,2647.mp3
+2648,Ich bin auf dem Markt,2648.mp3
+2649,Ich bin dreiundvierzig Jahre alt,2649.mp3
+2650,Ich bin einen Salat gegessen,2650.mp3
+2651,Ich bin einundzwanzig. Und du?,2651.mp3
+2652,Ich bin heute in Hyderabad,2652.mp3
+2653,Ich bin im Dezember geboren,2653.mp3
+2654,Ich bin im Frühling geboren,2654.mp3
+2655,Ich bin in Hyderabad gewesen,2655.mp3
+2656,Ich bin Krank. Geh Schlafen!,2656.mp3
+2657,Ich bin nach Hyderabad gereist,2657.mp3
+2658,Ich bin nach Paris gefahren,2658.mp3
+2659,Ich bin nach Wien gefahren,2659.mp3
+2660,Ich bin sechzehn Jahre alt,2660.mp3
+2661,Ich bin siebzehn Und du?,2661.mp3
+2662,Ich bin siebzehn. Und du?,2662.mp3
+2663,Ich bin zwei Jahre alt,2663.mp3
+2664,Ich esse am liebsten Hähnchen,2664.mp3
+2665,Ich esse auch gern Gemüse,2665.mp3
+2666,Ich esse gern italienisches Essen,2666.mp3
+2667,Ich esse nicht gern Fisch,2667.mp3
+2668,"Ich esse, dann gehe ich",2668.mp3
+2669,Ich esse. Dann gehe ich,2669.mp3
+2670,Ich fahre mit dem Zug,2670.mp3
+2671,Ich fliege in die Türkei,2671.mp3
+2672,Ich fliege mit dem Flugzeug,2672.mp3
+2673,Ich fühle mich nicht wohl,2673.mp3
+2674,Ich gehe in den Park,2674.mp3
+2675,Ich habe 16 Jahre alt,2675.mp3
+2676,Ich habe acht Stunden geschlafen,2676.mp3
+2677,Ich habe das Schloss besichtigt,2677.mp3
+2678,Ich habe den Wagen gefahren,2678.mp3
+2679,Ich habe dich gut verstanden,2679.mp3
+2680,Ich habe eine Postkarte geschrieben,2680.mp3
+2681,Ich habe einen Brief bekommen,2681.mp3
+2682,Ich habe einen Salat gegessen,2682.mp3
+2683,Ich habe Fieber und Husten,2683.mp3
+2684,Ich habe Kopfschmerzen und Fieber,2684.mp3
+2685,Ich habe meine Mutter angerufen,2685.mp3
+2686,Ich habe meine Tante besucht,2686.mp3
+2687,Ich habe nach Paris gefahren,2687.mp3
+2688,Ich hatte einen Salat gegessen,2688.mp3
+2689,Ich heiße Ali. Und du?,2689.mp3
+2690,Ich heiße Bilal. Und du?,2690.mp3
+2691,Ich hätte gern eine Cola,2691.mp3
+2692,Ich hätte gern einen Kaffee,2692.mp3
+2693,Ich kaufe eine Tafel Schokolade,2693.mp3
+2694,Ich kaufe einen Becher Joghurt,2694.mp3
+2695,Ich kaufe im Supermarkt ein,2695.mp3
+2696,Ich koche gern zu Hause,2696.mp3
+2697,Ich komme am 1. April,2697.mp3
+2698,Ich komme am ersten April,2698.mp3
+2699,Ich komme aus der Türkei,2699.mp3
+2700,Ich komme aus die Türkei,2700.mp3
+2701,Ich komme mit dem Zug,2701.mp3
+2702,Ich muss nach Hause gehen,2702.mp3
+2703,Ich musste zum Arzt gehen,2703.mp3
+2704,Ich möchte die Jacke anziehen,2704.mp3
+2705,Ich möchte eine Pizza bestellen,2705.mp3
+2706,Ich möchte einen Apfel kaufen,2706.mp3
+2707,Ich möchte einen Kaffee trinken,2707.mp3
+2708,"Ich möchte einen Kaffee, bitte",2708.mp3
+2709,Ich spiele Fußball. Und du?,2709.mp3
+2710,Ich spiele Fußball. Und ihr?,2710.mp3
+2711,Ich spreche Deutsch und Englisch,2711.mp3
+2712,Ich spreche ein bisschen Deutsch,2712.mp3
+2713,Ich spreche mit meinem Lehrer,2713.mp3
+2714,Ich spreche Urdu und Englisch,2714.mp3
+2715,Ich steige in Linz um,2715.mp3
+2716,Ich studiere Technik und Informatik,2716.mp3
+2717,Ich trinke gern türkischen Kaffee,2717.mp3
+2718,"Ich weiß, wo er wohnt",2718.mp3
+2719,Ich wohne auch in Lahore!,2719.mp3
+2720,Ich wohne auch in Mirpur!,2720.mp3
+2721,Ich wohne im ersten Stock,2721.mp3
+2722,Ich wohne in einer Wohnung,2722.mp3
+2723,Ich ziehe die Jacke an,2723.mp3
+2724,Im Park spielen die Kinder,2724.mp3
+2725,Im Urlaub gab es ein,2725.mp3
+2726,Im Winter ist es kalt,2726.mp3
+2727,In meiner Stadt gibt es,2727.mp3
+2728,Ist der Platz noch frei?,2728.mp3
+2729,Ist es groß oder klein?,2729.mp3
+2730,"Ja, auf den Namen Müller",2730.mp3
+2731,"Ja, bitte. Was kostet sie?",2731.mp3
+2732,"Ja, das ist ein Kuli",2732.mp3
+2733,"Ja, das ist mein Fernseher",2733.mp3
+2734,"Ja, es gibt einen Bahnhof",2734.mp3
+2735,"Ja, es gibt noch Suppe",2735.mp3
+2736,"Ja, genau. Ö wie Öl",2736.mp3
+2737,"Ja, ich bin sehr glücklich",2737.mp3
+2738,"Ja, ich bin zu Hause",2738.mp3
+2739,"Ja, Maria hat eine Tochter",2739.mp3
+2740,"Ja, natürlich. Brauchen Sie eine",2740.mp3
+2741,"Ja, sie ist sehr nett",2741.mp3
+2742,"Ja, wir sind sehr glücklich",2742.mp3
+2743,Ja? Wo bist du heute?,2743.mp3
+2744,Kann ich mit Karte bezahlen?,2744.mp3
+2745,Kann man am Freitagabend fahren?,2745.mp3
+2746,Kann man mit Karte bezahlen?,2746.mp3
+2747,Kannst du mir bitte das,2747.mp3
+2748,Kein Problem! Haben Sie Zeit?,2748.mp3
+2749,Keine Ahnung! Ich weiß nicht,2749.mp3
+2750,"Kellnerin gesucht. Teilzeit, ab sofort",2750.mp3
+2751,Können Sie bitte langsamer sprechen?,2751.mp3
+2752,Können Sie das bitte wiederholen?,2752.mp3
+2753,Können Sie mir bitte ?,2753.mp3
+2754,Können Sie mir bitte helfen?,2754.mp3
+2755,"Lektion 3, 4 und 16",2755.mp3
+2756,"lesen du liest, er liest",2756.mp3
+2757,Man kann nur bar bezahlen,2757.mp3
+2758,Meine Eltern haben einen Hund,2758.mp3
+2759,Meine Familie ist in Pakistan,2759.mp3
+2760,Meine Familie lebt in Pakistan,2760.mp3
+2761,Meine Familie wohnt in Mirpurkhas,2761.mp3
+2762,Meine Nachbarn sind sehr nett,2762.mp3
+2763,Meine Wohnung hat drei Zimmer,2763.mp3
+2764,Mir geht es super! Danke!,2764.mp3
+2765,Mir tun die Füße weh,2765.mp3
+2766,Mir tun die Ohren weh,2766.mp3
+2767,Mir tut der Kopf weh,2767.mp3
+2768,Mit V oder mit W?,2768.mp3
+2769,Morgen möchte ich Äpfel kaufen,2769.mp3
+2770,Muss man einen Ausweis mitbringen?,2770.mp3
+2771,Möchten Sie auch etwas essen?,2771.mp3
+2772,Möchtest du eine Pizza bestellen?,2772.mp3
+2773,Nein das ist kein Kuli,2773.mp3
+2774,"Nein, das ist kein Kuli",2774.mp3
+2775,"Nein, das mag ich nicht",2775.mp3
+2776,"Nein, der Zug fährt direkt",2776.mp3
+2777,"Nein, es gibt keinen Bahnhof",2777.mp3
+2778,"Nein, ich habe kein Lineal",2778.mp3
+2779,"Nein, ich habe keine Kinder",2779.mp3
+2780,"Nein, ich habe nichts gegessen",2780.mp3
+2781,"Nein, ich heiße Stefan Wagner",2781.mp3
+2782,Nein. Ich habe eine Tochter,2782.mp3
+2783,NEIN. Man muss bar bezahlen,2783.mp3
+2784,Nur Kunden dürfen hier parken,2784.mp3
+2785,Nächste Woche habe ich Geburtstag,2785.mp3
+2786,Oh! Das tut mir leid!,2786.mp3
+2787,Peter möchte in England studieren,2787.mp3
+2788,Schalten Sie Ihr Handy aus!,2788.mp3
+2789,Schließen Sie bitte die Tür!,2789.mp3
+2790,Schreiben Sie die richtige Zahl,2790.mp3
+2791,Schreiben Sie eine kurze E-Mail,2791.mp3
+2792,"Sechs, sieben, acht, neun, zehn!",2792.mp3
+2793,"Sechzehn, siebzehn, achtzehn, neunzehn, zwanzig!",2793.mp3
+2794,"sehen du siehst, er sieht",2794.mp3
+2795,Sie dürfen hier nicht rauchen,2795.mp3
+2796,Sie haben 25 Minuten Zeit,2796.mp3
+2797,Sie hat die Altstadt besichtigt,2797.mp3
+2798,Sie ist 16 Jahre alt,2798.mp3
+2799,Sie kämmt sich die Haare,2799.mp3
+2800,Sie müssen ein Ticket kaufen,2800.mp3
+2801,Sie müssen hier nicht rauchen,2801.mp3
+2802,Sie wohnt bei ihrer Tante,2802.mp3
+2803,Sind Sie 30 Jahre alt?,2803.mp3
+2804,Soll ich das Fenster schließen?,2804.mp3
+2805,"sprechen du sprichst, er spricht",2805.mp3
+2806,"Teil 3 Schreiben, Aufgabe 2",2806.mp3
+2807,Um zehn Uhr. Gute Besserung!,2807.mp3
+2808,Und danach? Schläfst du früh?,2808.mp3
+2809,Und Sie? Was machen Sie?,2809.mp3
+2810,Und wo wohnen Sie jetzt?,2810.mp3
+2811,vacation shopping cart cash point,2811.mp3
+2812,"verstanden, bekommen, bezahlt, erzählt, verkauft",2812.mp3
+2813,vier und siebzig ein hundert,2813.mp3
+2814,vor ein paar Tage n,2814.mp3
+2815,"Vorsicht, Stufe! Vorsicht, frisch gestrichen!",2815.mp3
+2816,Wann muss ich da sein?,2816.mp3
+2817,Warst du gestern zu Hause?,2817.mp3
+2818,Warum verstehst du mich nicht?,2818.mp3
+2819,Was für Sport machst du?,2819.mp3
+2820,Was gibt es zum Essen?,2820.mp3
+2821,Was hast du gestern gemacht?,2821.mp3
+2822,Was ist er von Beruf?,2822.mp3
+2823,Was ist sie von Beruf?,2823.mp3
+2824,Was machen Sie am Wochenende?,2824.mp3
+2825,Was sie ist von Beruf?,2825.mp3
+2826,Was sind Sie von Beruf?,2826.mp3
+2827,Was trinken Sie am Morgen?,2827.mp3
+2828,Was wollt ihr heute machen?,2828.mp3
+2829,Welche Farbe hat dein Auto?,2829.mp3
+2830,Welche Musik hören Sie gern?,2830.mp3
+2831,Wem kocht Petra eine Suppe?,2831.mp3
+2832,Wen hat Sabine? einen Bruder,2832.mp3
+2833,Wen siehst du? meinen Bruder,2833.mp3
+2834,Wie alt ist deine Schwester?,2834.mp3
+2835,Wie alt ist Ihr Bruder?,2835.mp3
+2836,Wie bitte? Bitte wiederholen Sie!,2836.mp3
+2837,"Wie bitte? Noch einmal, bitte!",2837.mp3
+2838,Wie bitte? Sechs oder sechzehn?,2838.mp3
+2839,Wie heißen Sie mit Familiennamen?,2839.mp3
+2840,Wie komme ich zu ?,2840.mp3
+2841,Wie komme ich zum Bahnhof?,2841.mp3
+2842,Wie kommen Sie zu Sofia?,2842.mp3
+2843,Wie lange dauert die Fahrt?,2843.mp3
+2844,Wie oft machen Sie das?,2844.mp3
+2845,Wie oft machen Sie Sport?,2845.mp3
+2846,Wie oft machst du Sport?,2846.mp3
+2847,Wie spricht man das aus?,2847.mp3
+2848,Wie spät ist es ?,2848.mp3
+2849,"Wie spät ist es, bitte?",2849.mp3
+2850,Wie viel kostet die Fahrkarte?,2850.mp3
+2851,Wie viel kostet die Wohnung?,2851.mp3
+2852,Wie viel kostet ein Fahrrad?,2852.mp3
+2853,Wie viel Uhr ist es?,2853.mp3
+2854,Wie viele Kinder hast du?,2854.mp3
+2855,Wir haben eine Frau getroffen,2855.mp3
+2856,Wir haben in Berlin gewohnt,2856.mp3
+2857,Wir haben zu Hause geblieben,2857.mp3
+2858,Wir können morgen nicht kommen,2858.mp3
+2859,Wir sind ans Meer gefahren,2859.mp3
+2860,Wir sind zu Hause geblieben,2860.mp3
+2861,Wir waren in den Bergen,2861.mp3
+2862,Wir wollen einen Tisch reservieren,2862.mp3
+2863,"Woher kommen Sie, Herr Khan?",2863.mp3
+2864,Wohnen Sie bei Ihrer Familie?,2864.mp3
+2865,zwei Männer und ein Kind,2865.mp3
+2866,Öffnen Sie bitte den Mund!,2866.mp3
+2867,Am Montag gibt es keinen Kurs,2867.mp3
+2868,Am Sonntag kann man nicht einkaufen,2868.mp3
+2869,Am Wochenende besuche ich meine Freunde,2869.mp3
+2870,"Auch gut, danke. Woher kommen Sie?",2870.mp3
+2871,"Auf Wiedersehen, Frau Roth! Gute Nacht!",2871.mp3
+2872,Aus Österreich. Wie alt bist du?,2872.mp3
+2873,Bei schönem Wetter gehe ich spazieren,2873.mp3
+2874,Beruf? Sport? Sprachen? Hobbys? Lieblingsessen? Familie?,2874.mp3
+2875,Bist du verheiratet? Hast du Kinder?,2875.mp3
+2876,Danke! Ich esse sehr gern Kuchen,2876.mp3
+2877,Danke. Und wie ist Ihr Familienname?,2877.mp3
+2878,Darf man hier drei Stunden parken?,2878.mp3
+2879,Das Auto ist vor dem Haus,2879.mp3
+2880,Das Gegenteil von heiß ist kalt,2880.mp3
+2881,Das Gegenteil von heiß ist kühl,2881.mp3
+2882,Das ist Ali. Er ist Lehrer,2882.mp3
+2883,Das ist eine Stadt in Pakistan,2883.mp3
+2884,Das Wetter im Urlaub war traumhaft,2884.mp3
+2885,Der 3. Oktober ist ein Feiertag,2885.mp3
+2886,der Bahnhof der Arzt das Handy,2886.mp3
+2887,"der Bahnhof, die Fahrkarte, der Salat",2887.mp3
+2888,Der Hund liegt unter dem Stuhl,2888.mp3
+2889,Der Koffer steht neben dem Stuhl,2889.mp3
+2890,der Kuli ein Kuli mein Kuli,2890.mp3
+2891,Der Kurs ist um neun Uhr,2891.mp3
+2892,der Mann den Mann dem Mann,2892.mp3
+2893,Der Mann steht an der Kasse,2893.mp3
+2894,Der Mann wartet an der Haltestelle,2894.mp3
+2895,"der Mann, das Mädchen, die Stunde",2895.mp3
+2896,Der Osten wird als 'O' abgekürzt,2896.mp3
+2897,Der Süden ist warm und hell!,2897.mp3
+2898,der Tisch sie das Kind sie,2898.mp3
+2899,"der Türke, der Chinese, der Franzose",2899.mp3
+2900,der wind ein bleistift keine blume,2900.mp3
+2901,Der Zug hat zehn Minuten Verspätung,2901.mp3
+2902,Die Flasche steht auf dem Tisch,2902.mp3
+2903,Die Frau ist in der Küche,2903.mp3
+2904,Die Katze ist hinter dem Sofa,2904.mp3
+2905,Die Kinder sind in der Schule,2905.mp3
+2906,Die Kundin steht an der Kasse,2906.mp3
+2907,Die Sonne Scheint. Die Sonne scheint,2907.mp3
+2908,"die Sonne, der Mond, die Erde",2908.mp3
+2909,Die Tasche steht neben der Tür,2909.mp3
+2910,Die Tasse steht auf dem Tisch,2910.mp3
+2911,"die Türkin, die Chinesin, die Französin",2911.mp3
+2912,"Die Wohnung ist klein, aber schön",2912.mp3
+2913,"du arbeitest, er arbeitet, er redet",2913.mp3
+2914,du hattest Sie hatten er hatte,2914.mp3
+2915,Englisch Spanisch Italienisch Türkisch Chinesisch Arabisch,2915.mp3
+2916,"Entschuldigen Sie, bitte! Sprechen Sie Englisch?",2916.mp3
+2917,"Entschuldigung, können Sie das bitte wiederholen?",2917.mp3
+2918,Er esst Du fahrst du schlafst,2918.mp3
+2919,Er gibt dem Kind ein Bonbon,2919.mp3
+2920,Er hat eine Katze seine Katze,2920.mp3
+2921,Er hat mit seinem Hund gespielt,2921.mp3
+2922,"er kommt, sie wohnt, sie lernt",2922.mp3
+2923,"Frau Schmidt, haben Sie einen Moment?",2923.mp3
+2924,Gestern habe ich einen Salat gegessen,2924.mp3
+2925,Gestern habe ich meine Mutter angerufen,2925.mp3
+2926,"gestern, vorgestern, letzte Woche, letztes Jahr",2926.mp3
+2927,geöffnet geschlossen Eingang Ausgang kein Zutritt,2927.mp3
+2928,Guten Abend! Wie ist Ihr Familienname?,2928.mp3
+2929,Guten Morgen! Wie alt sind Sie?,2929.mp3
+2930,Guten Tag! Ich heiße Priyanka Lohana,2930.mp3
+2931,Guten Tag! Ich wohne in Mirpur,2931.mp3
+2932,Guten Tag! Vielen Dank! Auf Wiedersehen,2932.mp3
+2933,Guten Tag! Was möchten Sie trinken?,2933.mp3
+2934,Guten Tag! Wie ist Ihre Handynummer?,2934.mp3
+2935,"Guten Tag, Guten Morgen, Guten Abend",2935.mp3
+2936,Hallo Ali! Hast du ein Auto?,2936.mp3
+2937,Hallo Ali! Wie geht es dir?,2937.mp3
+2938,Hast du dir den Arm gebrochen?,2938.mp3
+2939,Herr Weber wie geht es Ihnen?,2939.mp3
+2940,"Herr Weber, wie geht es Ihnen?",2940.mp3
+2941,"Hier, bitte. Möchtest du auch den",2941.mp3
+2942,"Hier, eine Cola und ein Bier",2942.mp3
+2943,Ich arbeite auch gern am Computer,2943.mp3
+2944,Ich arbeite nicht. Ich bin Student,2944.mp3
+2945,Ich arbeite von neun bis fünf,2945.mp3
+2946,Ich bin auch 16 Jahre alt,2946.mp3
+2947,Ich bin glücklich. Ich spiele Fußball,2947.mp3
+2948,Ich bin im Jahr 2006 geboren,2948.mp3
+2949,Ich bin im Jahr 2009 geboren,2949.mp3
+2950,Ich bin krank und habe Fieber,2950.mp3
+2951,Ich bin Lehrer. Die Student Analyst,2951.mp3
+2952,Ich bin Lena. Woher kommst du?,2952.mp3
+2953,Ich bin Thomas Weber. Freut mich!,2953.mp3
+2954,Ich bin um sieben Uhr aufgestanden,2954.mp3
+2955,Ich bleibe am Wochenende zu Hause,2955.mp3
+2956,"ich empfehle, wir empfangen, sie gefallen",2956.mp3
+2957,Ich gebe der Frau das Buch,2957.mp3
+2958,Ich gebe meinem Mann einen Kuss,2958.mp3
+2959,Ich gehe auch oft zu Fuß,2959.mp3
+2960,Ich habe am 6. November Geburtstag,2960.mp3
+2961,Ich habe einen schönen Urlaub gemacht,2961.mp3
+2962,Ich habe in Hyderabad Urlaub gemacht,2962.mp3
+2963,Ich habe mir das Bein gebrochen,2963.mp3
+2964,Ich heiße Ayesha Khan. Freut mich!,2964.mp3
+2965,Ich heiße Sara. Wo wohnst du?,2965.mp3
+2966,Ich kaufe ein halbes Kilo Tomaten,2966.mp3
+2967,Ich kaufe einen halben Liter Milch,2967.mp3
+2968,Ich koche und du kaufst ein,2968.mp3
+2969,Ich komme aus Mirpurkhas. Und du?,2969.mp3
+2970,Ich komme aus Pakistan. Und du?,2970.mp3
+2971,Ich komme aus Pakistan. Und Sie?,2971.mp3
+2972,Ich lerne Deutsch für mein Studium,2972.mp3
+2973,Ich lerne seit einem Jahr Deutsch,2973.mp3
+2974,Ich lese gern Bücher über Technik,2974.mp3
+2975,Ich lese jeden Abend eine Stunde,2975.mp3
+2976,"ich lächle, du lächelst, er lächelt",2976.mp3
+2977,Ich mache einen Master in Chemnitz,2977.mp3
+2978,Ich mache zweimal pro Woche Sport,2978.mp3
+2979,Ich muss um 6 Uhr aufstehen,2979.mp3
+2980,Ich möchte ein Stück Käse kaufen,2980.mp3
+2981,Ich möchte eine Flasche Öl kaufen,2981.mp3
+2982,"ich rauche, du rauchst, er raucht",2982.mp3
+2983,Ich spiele am Wochenende mit Freunden,2983.mp3
+2984,Ich stehe um 6 Uhr auf,2984.mp3
+2985,Ich stehe um acht Uhr auf,2985.mp3
+2986,Ich stehe um sechs Uhr auf,2986.mp3
+2987,Ich stehe um sieben Uhr auf,2987.mp3
+2988,Ich studiere Information and Communication Systems,2988.mp3
+2989,Ich trinke lieber Tee als Kaffee,2989.mp3
+2990,Ich wache um sieben Uhr auf,2990.mp3
+2991,"ich weiß, du weißt, er weiß",2991.mp3
+2992,Ich wohne im Zentrum von Mirpurkhas,2992.mp3
+2993,Ich wohne in ein er Wohnung,2993.mp3
+2994,Ich wohne in Lahore. Und du?,2994.mp3
+2995,Ich wohne in Mirpur. Und du?,2995.mp3
+2996,Ich wohne in Mirpurkhas in Pakistan,2996.mp3
+2997,Ich wohnst Ich wohnt Ich wohne,2997.mp3
+2998,Ich ziehe am 1. Oktober um,2998.mp3
+2999,Im Oktober gehe ich nach Deutschland,2999.mp3
+3000,Im Restaurant bestellen wir eine Pizza,3000.mp3
+3001,Im Urlaub war ich in Hyderabad,3001.mp3
+3002,In Chemnitz suche ich ein Zimmer,3002.mp3
+3003,In meiner Familie sind fünf Personen,3003.mp3
+3004,In meiner Freizeit lese ich gern,3004.mp3
+3005,In meiner Stadt gibt es ein,3005.mp3
+3006,In Wien trinkt man viel Kaffee,3006.mp3
+3007,In Österreich isst man viel Brot,3007.mp3
+3008,"ist gefahren, ist gekommen, ist gereist",3008.mp3
+3009,"Ja, danke. Wir möchten zahlen, bitte!",3009.mp3
+3010,"Ja, ich esse auch. Und du?",3010.mp3
+3011,"Ja, ich habe eine Pizza gegessen",3011.mp3
+3012,"Ja, ich spreche ein bisschen Deutsch",3012.mp3
+3013,"Ja, ich wohne bei meiner Familie",3013.mp3
+3014,"Ja, meistens mache ich das allein",3014.mp3
+3015,JA. Ohne Blitz darf man fotografieren,3015.mp3
+3016,"Jänner, Sackerl, Erdäpfel, Trafik, Matura, Paradeiser",3016.mp3
+3017,Kann man am Sonntag Brot kaufen?,3017.mp3
+3018,Kann man den Deutschkurs gratis besuchen?,3018.mp3
+3019,Kommen Sie mit! Nehmen Sie Platz!,3019.mp3
+3020,Kricket ist sehr populär in Pakistan,3020.mp3
+3021,Letztes Jahr hatte ich kein Auto,3021.mp3
+3022,"man geht, man kauft, man bezahlt",3022.mp3
+3023,Man ist mit dem Bus gefahren,3023.mp3
+3024,Man kann Man darf Man muss,3024.mp3
+3025,Medikamente bekommt man in der Apotheke,3025.mp3
+3026,Mein Bruder ist zwanzig Jahre alt,3026.mp3
+3027,Mein Lieblingsessen ist Reis mit Hähnchen,3027.mp3
+3028,"mein vater, meine mutter, meine schwester",3028.mp3
+3029,Meine Handynummer ist null-drei-drei-null-acht-drei-eins-drei-zwei-null. Und deine?,3029.mp3
+3030,Meine Hobbys sind Lesen und Musik,3030.mp3
+3031,"meine Hobbys, keine Kinder, eine Frau",3031.mp3
+3032,Meine Name ist Mein Hobbys sind,3032.mp3
+3033,mindestens 6 von 30 in HÖREN,3033.mp3
+3034,mindestens 6 von 30 in LESEN,3034.mp3
+3035,Mittagspause von 12 bis 13 Uhr,3035.mp3
+3036,"musste, konnte, wollte, durfte, sollte, mochte",3036.mp3
+3037,"Nein, das ist nicht mein Fernseher",3037.mp3
+3038,Nicht rauchen! Nicht öffnen! Nicht berühren!,3038.mp3
+3039,Oh! Entschuldigung! Es tut mir leid!,3039.mp3
+3040,Peter geht um 9 Uhr los,3040.mp3
+3041,Rechtschreibung und Grammatik werden nicht bewertet,3041.mp3
+3042,Schüler. Ich gehe noch zur Schule,3042.mp3
+3043,"sein bin, haben habe, können kann",3043.mp3
+3044,Seit wann haben Sie die Schmerzen?,3044.mp3
+3045,Sie enden meistens mit einem Ausrufezeichen,3045.mp3
+3046,Sie haben Kinder? Sie spielen Fußball?,3046.mp3
+3047,Sie hat einen Hund ihr Hund,3047.mp3
+3048,Sind Sie verheiratet? Haben Sie Kinder?,3048.mp3
+3049,Sprechen sie Deutsch? haben sie zeit?,3049.mp3
+3050,Stehst du um 6 Uhr auf?,3050.mp3
+3051,Um acht Uhr gibt es Frühstück,3051.mp3
+3052,Um acht Uhr stehe ich auf,3052.mp3
+3053,Um wie viel Uhr kommst du?,3053.mp3
+3054,Von wann bis wann arbeitest du?,3054.mp3
+3055,Von welchem Gleis fährt der Zug?,3055.mp3
+3056,Wann bist du nach Hause gekommen?,3056.mp3
+3057,Wann fährt der nächste Zug ab?,3057.mp3
+3058,Was hast du im Urlaub gemacht?,3058.mp3
+3059,Was hätten Sie gern zum Trinken?,3059.mp3
+3060,Welche Anzeige passt zu Frau Bauer?,3060.mp3
+3061,"Wie geht es Ihnen, Frau Klein?",3061.mp3
+3062,Wie heißen Sie? Woher kommen Sie?,3062.mp3
+3063,Wie lange bleibst du bei mir?,3063.mp3
+3064,Wie lange lernen Sie schon Deutsch?,3064.mp3
+3065,Wie oft gehst du ins Kino?,3065.mp3
+3066,Wie sagt man das auf Deutsch?,3066.mp3
+3067,Wir haben in einem Hotel übernachtet,3067.mp3
+3068,"wir können, ihr müsst, sie dürfen",3068.mp3
+3069,Wir sind in die Berge gefahren,3069.mp3
+3070,Wir tanzen nicht in der Schule,3070.mp3
+3071,"wir wissen, ihr wisst, sie wissen",3071.mp3
+3072,Wo kann man eine Fahrkarte kaufen?,3072.mp3
+3073,Woher kommt sie? Wo wohnt sie?,3073.mp3
+3074,Woher wohnst du? Wo kommt sie?,3074.mp3
+3075,Wohin bist du letztes Jahr gereist?,3075.mp3
+3076,Wohnen? Familie? Beruf? Freizeit? Sprachen? Lieblingsessen?,3076.mp3
+3077,Zehn Cent. Hier ist Ihr Kassenbon,3077.mp3
+3078,Zuerst arbeiten wir. Dann spielt ihr,3078.mp3
+3079,"zwei Fenster, drei Lehrer, vier Keller",3079.mp3
+3080,zwei Jahr alt 16 Jahr alt,3080.mp3
+3081,zwischen dem Tisch und dem Stuhl,3081.mp3
+3082,4 von 6 Karten 10 Minuten Vorbereitungszeit,3082.mp3
+3083,"a, be, ce, de iks, ypsilon, zett",3083.mp3
+3084,Am liebsten bin ich in der Küche,3084.mp3
+3085,Am liebsten trinke ich Tee mit Milch,3085.mp3
+3086,Am Morgen trinke ich Tee mit Milch,3086.mp3
+3087,Am Winter in Jahr 2006 im ende,3087.mp3
+3088,"auf-, an-, ab-, ein-, mit-, zu-, aus",3088.mp3
+3089,Bitte kommen Sie mit! nehmen Sie Platz!,3089.mp3
+3090,danke für die Einladung! Ich komme gern,3090.mp3
+3091,Das ist ein Buch Das sind Bücher,3091.mp3
+3092,Das ist mein Vater. Er heißt Ahmed,3092.mp3
+3093,Das ist meine Mutter. Sie ist Ärztin,3093.mp3
+3094,Das ist Michael. Er wohnt in London,3094.mp3
+3095,Das sind ein Kunde und eine Kassiererin,3095.mp3
+3096,Der Kurs geht von acht bis zwölf,3096.mp3
+3097,Die Mutter kauft der Tochter ein Kleid,3097.mp3
+3098,"ein deutsches Buch, italienisches Essen, türkischer Kaffee",3098.mp3
+3099,"Eins Moment, bitte! Ich möchte ein Tee",3099.mp3
+3100,"Entschuldigung, Herr Wagner! Wie geht es Ihnen?",3100.mp3
+3101,"er arbeit et , sie spiel t",3101.mp3
+3102,es gibt einen Tisch und eine Lampe,3102.mp3
+3103,"Familie, Wohnen, Essen und Trinken, Freizeit, Arbeit",3103.mp3
+3104,Frau Bauer sucht einen Sportkurs am Abend,3104.mp3
+3105,für zwei Personen einen Gast meinen Bruder,3105.mp3
+3106,"Genau! Fuß mit Eszett, Fluss mit Doppel-S",3106.mp3
+3107,"Guten Tag! Entschuldigung, wo finde ich die",3107.mp3
+3108,haben essen trinken finden kaufen brauchen sehen,3108.mp3
+3109,"haben habe, hast, hat, haben, habt, haben",3109.mp3
+3110,Haben Sie reserviert? Was möchten Sie trinken?,3110.mp3
+3111,Hallo! Ich heiße Lena. Wie heißt du?,3111.mp3
+3112,"Hier, einmal der Salat und die Pizza",3112.mp3
+3113,"Hin und zurück, bitte. Was kostet das?",3113.mp3
+3114,Ich arbeite heute. Ich arbeite jeden Tag,3114.mp3
+3115,Ich bin 16 Jahre alt. Und du?,3115.mp3
+3116,Ich bin gut. Ich geht es gut,3116.mp3
+3117,Ich bin im März geboren. Und du?,3117.mp3
+3118,"Ich bleibe zu Hause, denn es regnet",3118.mp3
+3119,Ich bringe einen Salat und Getränke mit,3119.mp3
+3120,Ich esse auch! Wir essen alle zusammen,3120.mp3
+3121,"Ich esse gern Reis, Fleisch und Obst",3121.mp3
+3122,Ich fahre mit dem Flugzeug nach Wien,3122.mp3
+3123,Ich fahre mit dem Zug nach Wien,3123.mp3
+3124,Ich fliege mit dem Flugzeug nach Wien,3124.mp3
+3125,Ich gehe einkaufen und dann koche ich,3125.mp3
+3126,Ich habe einen Bruder und eine Schwester,3126.mp3
+3127,Ich heiße Priyanka. Mein Familienname ist Lohana,3127.mp3
+3128,Ich heiße Sara. Ich komme aus Pakistan,3128.mp3
+3129,Ich kenne seine Schwester. Ich kenne Berlin,3129.mp3
+3130,"Ich komme nicht, denn ich bin krank",3130.mp3
+3131,"Ich komme nicht, denn ich muss arbeiten",3131.mp3
+3132,"Ich komme nicht, weil ich krank bin",3132.mp3
+3133,Ich komme um sieben Uhr am Abend,3133.mp3
+3134,"Ich möchte eine Fahrkarte nach Wien, bitte",3134.mp3
+3135,Ich spiele im Park bei meinem Haus,3135.mp3
+3136,"Ich spreche Urdu, Englisch und etwas Deutsch",3136.mp3
+3137,im Wohnzimmer in der Küche im Bad,3137.mp3
+3138,In den Ferien war ich in Hyderabad,3138.mp3
+3139,In meiner Stadt gibt es ein Kino,3139.mp3
+3140,In meiner Wohnung gibt es zwei Zimmer,3140.mp3
+3141,"Ja, der Norden ist kalt und dunkel",3141.mp3
+3142,"Ja, es ist neu und sehr teuer!",3142.mp3
+3143,"Ja, gerne. Die Suppe schmeckt sehr gut",3143.mp3
+3144,"Ja, ich koche jeden Tag zu Hause",3144.mp3
+3145,"Ja, ich reise nach Lahore. Und du?",3145.mp3
+3146,kein Wörterbuch keinen Text schreiben nicht ablesen,3146.mp3
+3147,Können Sie mir bitte das Salz geben?,3147.mp3
+3148,Können Sie mir bitte den Löffel geben?,3148.mp3
+3149,Können Sie mir bitte die Gabel geben?,3149.mp3
+3150,Markieren Sie Ihre Lösung auf dem Antwortblatt,3150.mp3
+3151,Mein Haus ist groß und sehr ruhig,3151.mp3
+3152,Meine Hobbys sind Fernsehen und Musikhören. Danke!,3152.mp3
+3153,mich dich uns euch es sie Sie,3153.mp3
+3154,"mit, bei, aus, von, zu, nach, seit",3154.mp3
+3155,"Name, Alter, Land, Wohnort, Sprachen, Beruf, Hobby",3155.mp3
+3156,"Nein, danke. Ich habe keinen Hunger mehr",3156.mp3
+3157,"Nein, ich schlafe spät. Ich studiere auch",3157.mp3
+3158,"Nein, ich wohne mit meiner Familie zusammen",3158.mp3
+3159,NEIN. Am Sonntag ist die Bäckerei geschlossen,3159.mp3
+3160,NEIN. Man darf nur zwei Stunden parken,3160.mp3
+3161,NEIN. Nur der erste Kurstag ist gratis,3161.mp3
+3162,"sehen, haben, lieben, besuchen, kennen, finden, hören",3162.mp3
+3163,Seid ihr glücklich? Sind Sie zu Hause?,3163.mp3
+3164,"sein bin, bist, ist, sind, seid, sind",3164.mp3
+3165,Sind ihr glücklich? Seid Sie zu Hause?,3165.mp3
+3166,Solche Sätze beginnen typisch mit einem Verb,3166.mp3
+3167,Und meins ist blau und sehr billig!,3167.mp3
+3168,"Vielen Dank! Entschuldigung, wo ist die Toilette?",3168.mp3
+3169,vor ein paar Tage bei regelmäßige Verben,3169.mp3
+3170,Wann fährt der nächste Zug nach Wien?,3170.mp3
+3171,Wie viele Personen sind in Ihrer Familie?,3171.mp3
+3172,Wir danken eine Frau. Wen hilfst du?,3172.mp3
+3173,Wir möchten einen Tisch für zwei Personen,3173.mp3
+3174,Wir sind letzte Woche nach Paris gefahren,3174.mp3
+3175,Wir wollen einen Tisch für zwei Personen,3175.mp3
+3176,Woher kommst du? Ich komme aus Pakistan,3176.mp3
+3177,"39 Euro im Internet, 41 Euro im Reisezentrum",3177.mp3
+3178,Ab Oktober studiere ich an der TU Chemnitz,3178.mp3
+3179,Am Abend gehe ich mit meinem Bruder spazieren,3179.mp3
+3180,"be-, emp-, ent-, er-, ge-, miss-, ver-, zer",3180.mp3
+3181,Bist du gestern mitgekommen? Was hast du gemacht?,3181.mp3
+3182,"Cola, Wein, Saft, Kaffee, Bier, Pizza, Salat, Wunsch",3182.mp3
+3183,Darf man die Bücher nur im Park lesen?,3183.mp3
+3184,Das Baby ist süß Die Bücher sind bunt,3184.mp3
+3185,"das Gemüse, das Obst, das Fleisch, das Brot",3185.mp3
+3186,Das Geschäft ist von Montag bis Freitag geöffnet,3186.mp3
+3187,Das Handy ist jung. die Oma ist neu,3187.mp3
+3188,Das Haus hat vier Zimmer und einen Garten,3188.mp3
+3189,Das ist eine Frau. Das ist ein Mädchen,3189.mp3
+3190,"Der Arzt sagt, ich soll im Bett bleiben",3190.mp3
+3191,Der Junge ist jung die Oma ist alt,3191.mp3
+3192,"Der Junge ist jung, die Oma ist alt",3192.mp3
+3193,"die Türkei, die Schweiz, die Slowakei, die Ukraine",3193.mp3
+3194,"eine cola, einen wein, ein bier, einen salat",3194.mp3
+3195,einen Apfel eine Katze ein Baby zwei Brüder,3195.mp3
+3196,"Einmal für die Aussprache, einmal für die Intonation",3196.mp3
+3197,Es gibt einen Stuhl. Es gibt drei Stühle,3197.mp3
+3198,Es gibt zwei Kinos. Es gibt viele Restaurants,3198.mp3
+3199,"Gehen Sie geradeaus bis zur Ampel, dann links",3199.mp3
+3200,Gleis sieben. Steigen Sie in Linz bitte um!,3200.mp3
+3201,"Gut, aber zuerst arbeiten wir. Dann spielt ihr",3201.mp3
+3202,"Guten Abend, Frau Roth! Wie geht es Ihnen?",3202.mp3
+3203,Guten Morgen! Ich heiße Anna Klein. Und Sie?,3203.mp3
+3204,"Guten Morgen, Herr Weber! Wie geht es Ihnen?",3204.mp3
+3205,Guten Tag! Ich heiße Ott. Wie heißen Sie?,3205.mp3
+3206,"Guten Tag, Frau Schmidt. Sind Sie zu Hause?",3206.mp3
+3207,"Guten Tag, Herr Schmidt! Hier ist Julia Braun",3207.mp3
+3208,Hallo Sara! Wann hast du am Montag Zeit?,3208.mp3
+3209,"hat gemacht, hat gespielt, hat gegessen, hat getrunken",3209.mp3
+3210,Ich bin ein Auto. Wir sind ein Auto,3210.mp3
+3211,Ich bin ein Jahr alt sechzehn Jahre alt,3211.mp3
+3212,Ich bin ein Student. Sabine ist eine Lehrerin,3212.mp3
+3213,"Ich bin müde, dann gehe ich nach Hause",3213.mp3
+3214,Ich bin Schüler. Ich bin sechzehn Jahre alt,3214.mp3
+3215,Ich gehe einkaufen. Ich koche. Ich sehe fern,3215.mp3
+3216,"Ich gehe nach Hause, denn ich bin müde",3216.mp3
+3217,Ich gehe zum Supermarkt Ich bin im Supermarkt,3217.mp3
+3218,Ich komme aus Pakistan und wohne in Mirpurkhas,3218.mp3
+3219,"Ich komme aus Pakistan, ich wohne in Mirpurkhas",3219.mp3
+3220,Ich komme aus Pakistan. Ich wohne in Mirpurkhas,3220.mp3
+3221,Ich komme in Pakistan. Ich wohne aus Berlin,3221.mp3
+3222,ich lese du liest er liest ihr lest,3222.mp3
+3223,ich spreche du sprichst er spricht wir sprechen,3223.mp3
+3224,Ich spreche nicht Deutsch. Ich habe nicht Kinder,3224.mp3
+3225,Ich tue nicht wissen. Tun Sie Deutsch sprechen?,3225.mp3
+3226,Ich war krank. Ich musste zum Arzt gehen,3226.mp3
+3227,ich wasche du wäschst er wäscht ihr wascht,3227.mp3
+3228,Ich wohne in einem Haus mit meiner Familie,3228.mp3
+3229,"Ja, ich gehe einmal im Monat ins Kino",3229.mp3
+3230,"Ja, ich lerne Deutsch. Ich spreche ein bisschen",3230.mp3
+3231,"Ja, Sabine ist Lehrerin. Sie ist auch verheiratet",3231.mp3
+3232,"Ja, wir haben ein Auto und ein Haus",3232.mp3
+3233,JA. Man braucht einen Ausweis für die Bücher,3233.mp3
+3234,Ja. Nehmen Sie die Tabletten dreimal am Tag,3234.mp3
+3235,"man kann, man muss, man darf, man soll",3235.mp3
+3236,meinen Bruder meine Schwester mein Kind meine Eltern,3236.mp3
+3237,"mindestens 4 von 10 in SCHREIBEN, Aufgabe 2",3237.mp3
+3238,Mir geht es nicht gut. Ich bin krank,3238.mp3
+3239,"mit, bei, vor, aus, von, zu, nach, seit",3239.mp3
+3240,Nein das sind keine Sterne Das sind Ballons,3240.mp3
+3241,"Nein, es ist alt, aber es ist gut!",3241.mp3
+3242,"Nein, ich bin im Sommer geboren. Und du?",3242.mp3
+3243,"Nein, ich bin nicht verheiratet. Ich bin ledig",3243.mp3
+3244,Rauchen verboten. Parken verboten. Betreten verboten. Fotografieren verboten,3244.mp3
+3245,Sie arbeitet in Siemens. wohnt mit ihrer Tante,3245.mp3
+3246,Sie müssen den Hund an die Leine nehmen,3246.mp3
+3247,"sprechen, essen, nehmen, fahren, schlafen, arbeiten, heißen, haben",3247.mp3
+3248,"sprechen, essen, nehmen, fahren, schlafen, laufen, sehen, lesen",3248.mp3
+3249,"Tanzen? Nein, wir tanzen nicht in der Schule",3249.mp3
+3250,Und am Nachmittag? Treffen wir uns um drei?,3250.mp3
+3251,"Vier Leitfragen, vier bis sechs Sätze, 90 Sekunden",3251.mp3
+3252,vier vierte eins erste drei dritte sieben siebte,3252.mp3
+3253,Wann stehst du auf? Wann gehen sie los?,3253.mp3
+3254,Wie geht es du? Wie geht es Sie?,3254.mp3
+3255,Wir möchten Äpfel kaufen. Du möchtest Äpfel kaufen,3255.mp3
+3256,Wir sind glücklich Meine Nachbarn sind sehr nett,3256.mp3
+3257,"Zuerst esse ich, dann trinke ich einen Kaffee",3257.mp3
+3258,"Zuerst frühstücke ich, danach fahre ich zur Arbeit",3258.mp3
+3259,"Am Samstag habe ich Zeit, dann besuche ich dich",3259.mp3
+3260,aus der Türkei aus der Schweiz aus den USA,3260.mp3
+3261,"Das Bild mit den meisten Wörtern, die ich kenne",3261.mp3
+3262,Das Geschäft ist von 9 bis 18 Uhr geöffnet,3262.mp3
+3263,Das Geschäft ist von neun bis achtzehn Uhr geöffnet,3263.mp3
+3264,Das ist ein Mann Der Mann wohnt in Paris,3264.mp3
+3265,Das ist mein Vater und das ist meine Mutter,3265.mp3
+3266,Der Junge ist jung und die Oma ist alt,3266.mp3
+3267,Der Zug nach Graz fährt heute von Gleis 5,3267.mp3
+3268,Die Lampe ist zwischen dem Tisch und dem Stuhl,3268.mp3
+3269,Die Tasche liegt zwischen dem Tisch und dem Stuhl,3269.mp3
+3270,ein halbes Kilo ein halber Liter eine halbe Flasche,3270.mp3
+3271,Eine Stunde hat 60 Minuten Es ist 8 Uhr,3271.mp3
+3272,Es gibt Kaffee. Es gibt Suppe. Es gibt Schnee,3272.mp3
+3273,"Freut mich auch! Wie geht es Ihnen, Frau Khan?",3273.mp3
+3274,Gehen wir ins Kino oder bleiben wir zu Hause?,3274.mp3
+3275,Gültig ab Samstag 0 Uhr bis Montag 3 Uhr,3275.mp3
+3276,Hallo! Ich bin im Jahr 2008 geboren. Und du?,3276.mp3
+3277,"ich bin gesessen, ich bin gestanden, ich bin gelegen",3277.mp3
+3278,"ich habe gesessen, ich habe gestanden, ich habe gelegen",3278.mp3
+3279,Ich hätte gern einen Kaffee ein Bier eine Cola,3279.mp3
+3280,Ich höre gern Musik aus Pakistan und aus Indien,3280.mp3
+3281,"Ich lerne auch Deutsch, denn ich gehe nach Deutschland",3281.mp3
+3282,Ich lerne Deutsch zu Hause und in einem Kurs,3282.mp3
+3283,"ich muss kaufen, wir müssen kaufen, ihr müsst kaufen",3283.mp3
+3284,ich möchte du möchtest er möchte werden bestellen kaufen,3284.mp3
+3285,Ich spiele mit meinen Freunden und mit meinem Bruder,3285.mp3
+3286,Ich wohne in Mirpurkhas. Ich wohne im dritten Stock,3286.mp3
+3287,"Ja, das passt! Bis Montag um Viertel nach vier",3287.mp3
+3288,"Ja, guten Tag, Frau Braun! Wie geht es Ihnen?",3288.mp3
+3289,"Ja, ich habe eine Freundin. Wir haben einen Hund",3289.mp3
+3290,Kann man ? Darf man ? Muss man ?,3290.mp3
+3291,"Nein, das ist kein Kuli. Das ist ein Bleistift",3291.mp3
+3292,"Nein, ich habe kein Auto. Ich habe ein Haus",3292.mp3
+3293,"Nein, ich sehe Ali nicht. Ich fahre nach Karachi",3293.mp3
+3294,"Nein, ich spreche kein Englisch. Es tut mir leid!",3294.mp3
+3295,Spielen ist ein Verb. Sein ist auch ein Verb,3295.mp3
+3296,Wie du heißt? Woher du kommst? Wo Sie wohnen?,3296.mp3
+3297,Wie spät ist es? Wie viel Uhr ist es?,3297.mp3
+3298,Am Wochenende spiele ich Kricket und ich besuche meine Familie,3298.mp3
+3299,ca. 55 Minuten Lesen 25 Hören ca. 10 Schreiben 20,3299.mp3
+3300,Es hat geregnet. Es hat geschneit. Die Sonne hat geschienen,3300.mp3
+3301,Habe ich in ganzen Sätzen gesprochen? Habe ich selbst gefragt?,3301.mp3
+3302,Ich bin müden. Sie ist großes. Die Tasche ist schwere,3302.mp3
+3303,"Ich fahre mit dem Bus, denn mein Auto ist kaputt",3303.mp3
+3304,Ich habe keinen Kuli keine Uhr kein Lineal keine Kinder,3304.mp3
+3305,Ich weiß das Wort nicht. Das ist für den Kaffee,3305.mp3
+3306,Ich ziehe die Jacke an. Er zieht die Schuhe aus,3306.mp3
+3307,In meiner Wohnung gibt es zwei Zimmer und einen Balkon,3307.mp3
+3308,"ist gekommen, ist gegangen, ist gefahren, ist aufgestanden, ist mitgekommen",3308.mp3
+3309,"Ja, Deutsch ist ein bisschen schwer. Aber es macht Spaß",3309.mp3
+3310,klein schön groß hell dunkel alt neu teuer billig möbliert,3310.mp3
+3311,"Meine Heimat ist Pakistan, aber mein Zuhause ist jetzt Wien",3311.mp3
+3312,"Nein, ich habe nicht viel Freizeit. Ich lerne sehr viel",3312.mp3
+3313,"um acht Uhr, um Viertel nach drei, um halb neun",3313.mp3
+3314,Um wie viel Uhr beginnt der Kurs? Um halb neun,3314.mp3
+3315,"Wie alt, Wie viel, Wie viele, Wie oft, Welche Sprachen",3315.mp3
+3316,Wir reisen nach Wien. Das Buch liegt auf dem Tisch,3316.mp3
+3317,Wir sind nach Deutschland geflogen und haben in Berlin übernachtet,3317.mp3
+3318,Achtung! Der Aufzug ist heute kaputt. Bitte nehmen Sie die Treppe,3318.mp3
+3319,"Am Vormittag habe ich einen Kurs, von neun bis halb zwölf",3319.mp3
+3320,Anrede? Frage 1? Frage 2? Frage 3? Gruß? ca. 30 Wörter?,3320.mp3
+3321,Der Himmel ist blau. Das Auto ist schnell. Es ist sonnig,3321.mp3
+3322,Hier darf man nicht rauchen. Man kann nicht mit Karte bezahlen,3322.mp3
+3323,Ich arbeite im Sommer. Ich warte auf die Ferien im Winter,3323.mp3
+3324,Ich habe acht Stunden geschlafen Ich bin um elf Uhr eingeschlafen,3324.mp3
+3325,im Park in der Küche auf dem Markt an der Haltestelle,3325.mp3
+3326,"Ja, ich treffe Ali um drei Uhr. Siehst du Ali auch?",3326.mp3
+3327,Um drei kann ich nicht. Geht es um Viertel nach vier?,3327.mp3
+3328,"39 Euro im Internet, 41 Euro im Reisezentrum, 45 Euro im Zug",3328.mp3
+3329,"A wie Apfel, H wie Haus, M wie Mann, D wie Deutschland",3329.mp3
+3330,arbeiten er arbeitet zeichnen er zeichnet tanzen du tanzt küssen du küsst,3330.mp3
+3331,"das Wohnzimmer, das Schlafzimmer, das Kinderzimmer, das Badezimmer, der Kühlschrank, der Kleiderschrank",3331.mp3
+3332,die Kinder den Kindern die Frauen den Frauen die Autos den Autos,3332.mp3
+3333,Guten Tag. Ich habe um zehn Uhr einen Termin bei Doktor Weber,3333.mp3
+3334,Ich danke dir. Ich antworte dir. Ich glaube dir. Es gelingt mir,3334.mp3
+3335,Sie hat eine Katze ihre Katze. Er hat eine Katze seine Katze,3335.mp3
+3336,Sie kocht eine Suppe. Er backt einen Kuchen. Wir bauen ein Haus,3336.mp3
+3337,Stehst du um 6 Uhr auf? Gehen Sie um 7 Uhr los?,3337.mp3
+3338,Was gibt es ? Wo gibt es ? Wann gibt es ?,3338.mp3
+3339,Auf dem Bild sehe ich einen Bahnhof. Ich sehe drei Personen. Sie warten,3339.mp3
+3340,Es ist halb neun. Es ist zehn vor sieben. Es ist Punkt zwölf,3340.mp3
+3341,Was soll ich mitbringen? Wie viel muss ich bezahlen? Wo kann ich parken?,3341.mp3
+3342,"du reist, du hasst, du küsst, du schließt, du tanzt, du putzt, du sitzt",3342.mp3
+3343,Ich heiße Ayesha. Ich komme aus Pakistan und wohne seit zwei Jahren in Chemnitz,3343.mp3
+3344,"Mein Name ist Carlos. Ich bin aus Brasilien, aber meine Mutter kommt aus Portugal",3344.mp3
+3345,Was gibt es zum Essen? Wo gibt es eine Apotheke? Wann gibt es Frühstück?,3345.mp3
+3346,"Wir suchen eine Haushaltshilfe, 10 Stunden pro Woche. Bitte melden Sie sich am Abend",3346.mp3
+3347,Wo kann man parken? Wann muss man da sein? Wie viel muss man bezahlen?,3347.mp3
+3348,"Achtung, bitte! Der Zug nach Wien fährt heute um 14 Uhr 20 von Gleis 3",3348.mp3
+3349,Hier kann man parken. Am Sonntag kann man nicht einkaufen. Im Museum darf man fotografieren,3349.mp3
+3350,"Links sitzt ein Junge, rechts sitzt ein Mädchen. Hinten sitzen der Vater und die Mutter",3350.mp3
+3351,Links trinkt ein Mann Kaffee. Seine Tasse ist gelb. Rechts liest eine Frau eine Zeitung,3351.mp3
+3352,Auf dem Bild sehe ich eine Familie. Vier Personen sitzen am Tisch. Sie sind zu Hause,3352.mp3
+3353,der Vater der Bruder der Onkel die Mutter die Schwester die Tante die Eltern die Geschwister,3353.mp3
+3354,"Ich gehe einkaufen und dann koche ich. Am Abend sehe ich fern, denn ich bin müde",3354.mp3
+3355,"In meiner Stadt gibt es einen Bahnhof, ein Kino und zwei Parks. Es gibt kein Schwimmbad",3355.mp3
+3356,Links sitzt eine Frau am Empfang. Sie arbeitet am Computer. Vor dem Empfang stehen zwei Stühle,3356.mp3
+3357,"Über dem Tisch hängt eine Lampe. Ich glaube, die Personen machen Pause. Die Situation ist ruhig",3357.mp3
+3358,Bitte schließen Sie die Tür! Drücken Sie den Knopf! Bitte warten Sie hier! Benutzen Sie die Treppe!,3358.mp3
+3359,In meiner Stadt gibt es ein Kino. Hier gibt es einen Supermarkt. Heute gibt es keine Suppe,3359.mp3
+3360,"der Hut, die Hose, das Kleid, die Schuhe, das Hemd, die Jacke, der Rock, der Pullover, die Socken",3360.mp3
+3361,Vor ihm sitzt ein Patient. Sein Hemd ist gelb. Der Patient hat Bauchschmerzen. Es geht ihm nicht gut,3361.mp3
+3362,In der Mitte steht ein Mann. Er liest die Anzeigetafel. Eine Person geht zum Zug. Ihre Jacke ist rot,3362.mp3
+3363,Neben dem Tisch steht ein Kellner. Er hat ein Tablett. Im Hintergrund gibt es eine Kaffeemaschine und einen Kuchen,3363.mp3
+3364,Rechts steht ein Zug auf den Gleisen. Links sitzt eine Frau auf einer Bank. Neben ihr steht ein Koffer,3364.mp3
+3365,Auf dem Bild sehe ich eine Arztpraxis. In der Mitte steht ein Arzt. Er hat ein Stethoskop und ein Klemmbrett,3365.mp3
+3366,"er arbeitet, er wartet, er findet, er endet, er heiratet, er schneidet, er antwortet, er beobachtet, er zeichnet, er öffnet",3366.mp3
+3367,Links sitzt ein Mann auf einer Bank. Er liest ein Buch. Hinter ihm steht ein Baum. Seine Jacke ist blau,3367.mp3
+3368,"Auf dem Band liegen eine Flasche, ein Brot und zwei Äpfel. Rechts sitzt eine Frau an der Kasse. Sie arbeitet hier",3368.mp3
+3369,auf dem Bild am Tisch in der Mitte auf einer Bank neben ihr vor ihm über dem Tisch mit einem Hund,3369.mp3
+3370,essen er isst geben er gibt nehmen er nimmt werfen er wirft treten er tritt sterben er stirbt vergessen er vergisst,3370.mp3
+3371,fahren er fährt fallen er fällt fangen er fängt halten er hält tragen er trägt schlafen er schläft waschen er wäscht,3371.mp3
+3372,"Über dem Tisch hängt eine Lampe. Links ist ein Fenster. Ich glaube, die Familie isst zu Mittag. Die Situation ist gemütlich",3372.mp3
+3373,"Im Hintergrund gibt es Bäume, Büsche und Vögel. Ich glaube, es ist Wochenende. Das Wetter ist schön und die Leute sind entspannt",3373.mp3
+3374,Im Urlaub war ich in Hyderabad. Ich bin mit dem Zug gereist. Ich habe die Altstadt besichtigt und in einem Hotel übernachtet,3374.mp3
+3375,Links steht ein Mann an der Kasse. Sein T-Shirt ist blau. Er hat einen Korb in der Hand. Der Korb ist gelb,3375.mp3
+3376,Alle essen. Jede Person hat ein Messer und eine Gabel. In der Mitte steht eine Schüssel mit Salat. Es gibt auch Teller und Gläser,3376.mp3
+3377,"Im Hintergrund gibt es zwei Regale. Links steht ein Einkaufswagen. Er ist leer. Ich glaube, der Mann bezahlt jetzt. Vielleicht kocht er heute Abend",3377.mp3
+3378,In der Mitte spielt ein Kind Fußball. Der Ball ist rot und gelb. Rechts geht ein Mann mit einem Hund. Der Hund ist braun,3378.mp3
+3379,"Oben hängt eine Uhr. Es gibt auch einen Mülleimer und eine Pflanze. Ich glaube, die Leute warten auf den Zug. Vielleicht fahren sie in Urlaub",3379.mp3
+3380,"Rechts gibt es eine Liege und eine Pflanze. An der Wand hängen eine Uhr und ein Kreuz. Das Kreuz ist rot. Ich glaube, der Arzt hilft dem Patienten",3380.mp3
+3381,"Hallo Sara, ich habe eine Wohnung! Sie ist klein, aber schön. Sie hat zwei Zimmer und einen Balkon. Die Miete ist 500 Euro. Kommst du am Samstag? Viele Grüße, Bilal",3381.mp3
+3382,Wann hast du Zeit? Um wie viel Uhr treffen wir uns? Geht es um halb sechs? Der Kurs ist von bis Das Geschäft ist von neun bis achtzehn Uhr geöffnet,3382.mp3
+3383,"""tsvan-tsig""",3383.mp3
+3384,dein/deine,3384.mp3
+3385,der/die/das,3385.mp3
+3386,ein/eine,3386.mp3
+3387,er/sie/es,3387.mp3
+3388,haben/sein,3388.mp3
+3389,heiß/kalt,3389.mp3
+3390,ihm,3390.mp3
+3391,Iss!,3391.mp3
+3392,ist/sind,3392.mp3
+3393,JA/NEIN,3393.mp3
+3394,kann/muss/darf,3394.mp3
+3395,Lieblingsessen?,3395.mp3
+3396,Lies!,3396.mp3
+3397,Mo–Fr,3397.mp3
+3398,Mo–Sa,3398.mp3
+3399,Mo–So,3399.mp3
+3400,sie/Sie,3400.mp3
+3401,ss/ß,3401.mp3
+3402,Textaufbau/Kohärenz,3402.mp3
+3403,warm/kühl,3403.mp3
+3404,ZA1/Österreich,3404.mp3
+3405,ab …,3405.mp3
+3406,"CHF 1'200,–",3406.mp3
+3407,danke …,3407.mp3
+3408,du isst,3408.mp3
+3409,du liest,3409.mp3
+3410,er/sie spricht,3410.mp3
+3411,er/sie/es hat,3411.mp3
+3412,ins Café,3412.mp3
+3413,ins Kino,3413.mp3
+3414,Ruhetag: Sonntag,3414.mp3
+3415,sie/Sie haben,3415.mp3
+3416,Spielen Sie…?,3416.mp3
+3417,Sprechst du…?,3417.mp3
+3418,Sprichst du…?,3418.mp3
+3419,Staatsangehörigkeit: deutsch,3419.mp3
+3420,Staatsangehörigkeit: Pakistan,3420.mp3
+3421,Staatsangehörigkeit: pakistanisch,3421.mp3
+3422,Was …?,3422.mp3
+3423,Wie …?,3423.mp3
+3424,wir/sie/Sie sind,3424.mp3
+3425,"""sekhs"" für sechs",3425.mp3
+3426,"""zvai"" für zwei",3426.mp3
+3427,18–12 Punkte bestanden,3427.mp3
+3428,21–19 Punkte gut,3428.mp3
+3429,55–38 Punkte bestanden,3429.mp3
+3430,65–56 Punkte gut,3430.mp3
+3431,ab 15 €,3431.mp3
+3432,an + dem,3432.mp3
+3433,Bring … mit!,3433.mp3
+3434,checkout / till,3434.mp3
+3435,danken : thanks,3435.mp3
+3436,Darf man …?,3436.mp3
+3437,Das ist …,3437.mp3
+3438,Das macht …,3438.mp3
+3439,der / den,3439.mp3
+3440,der / einer,3440.mp3
+3441,drei – drei,3441.mp3
+3442,drucken = press,3442.mp3
+3443,du fährst Fahr!,3443.mp3
+3444,du liest Lies!,3444.mp3
+3445,du nimmst Nimm!,3445.mp3
+3446,du schläfst Schlaf!,3446.mp3
+3447,du sprichst Sprich!,3447.mp3
+3448,Es gibt ______,3448.mp3
+3449,Es gibt …,3449.mp3
+3450,Es ist …,3450.mp3
+3451,habe / bin,3451.mp3
+3452,habe … gemacht,3452.mp3
+3453,hatte / war,3453.mp3
+3454,Haushalt + Hilfe,3454.mp3
+3455,Hier ist …,3455.mp3
+3456,Ich bin …,3456.mp3
+3457,"Ich glaube, ______",3457.mp3
+3458,Ich habe …,3458.mp3
+3459,Ich heiße …,3459.mp3
+3460,Ich kaufe …,3460.mp3
+3461,Ich mag …,3461.mp3
+3462,Ich mochte …,3462.mp3
+3463,Ich möchte …,3463.mp3
+3464,Ich nehme …,3464.mp3
+3465,im Jahr …,3465.mp3
+3466,in + dem,3466.mp3
+3467,in den Urlaub,3467.mp3
+3468,ist / sind,3468.mp3
+3469,Ist das …?,3469.mp3
+3470,Ja. / Nein,3470.mp3
+3471,Kinder + Betreuung,3471.mp3
+3472,Lieblings + Sport,3472.mp3
+3473,Liefer + Service,3473.mp3
+3474,Links ______ …,3474.mp3
+3475,Magst du …?,3475.mp3
+3476,mir dir Ihnen,3476.mp3
+3477,Mo–Fr 9–18 Uhr,3477.mp3
+3478,mögen / möchten,3478.mp3
+3479,müssen / müsst,3479.mp3
+3480,Neun – neun,3480.mp3
+3481,Nominativ / Akkusativ,3481.mp3
+3482,O – Doppel-T,3482.mp3
+3483,oder ins Café,3483.mp3
+3484,Rat + Schlag,3484.mp3
+3485,Rechts ______ …,3485.mp3
+3486,Sa 10–13 Uhr,3486.mp3
+3487,Schmeckt es Ihnen?,3487.mp3
+3488,Sechs – acht,3488.mp3
+3489,Sind das …?,3489.mp3
+3490,Singular / Plural,3490.mp3
+3491,Sonder + Angebot,3491.mp3
+3492,sprechen / gehen,3492.mp3
+3493,stehen / aufstehen,3493.mp3
+3494,Super + Markt,3494.mp3
+3495,Vier – drei,3495.mp3
+3496,war / hatte,3496.mp3
+3497,Wo ist …?,3497.mp3
+3498,zwölf / fünf,3498.mp3
+3499,„insgesamt 90 Minuten“,3499.mp3
+3500,"€ 350,– warm",3500.mp3
+3501,25–22 Punkte sehr gut,3501.mp3
+3502,7) Sie ist Analystin,3502.mp3
+3503,75–66 Punkte sehr gut,3503.mp3
+3504,an + dem am,3504.mp3
+3505,auf + gestanden aufgestanden,3505.mp3
+3506,baden — hat gebadet,3506.mp3
+3507,bei + dem beim,3507.mp3
+3508,bekommen : to receive,3508.mp3
+3509,Bitte schließen Sie …,3509.mp3
+3510,buchen — hat gebucht,3510.mp3
+3511,danken : to thank,3511.mp3
+3512,Das ist ein Café,3512.mp3
+3513,Die Situation ist ______,3513.mp3
+3514,Dreiundvierzig. Vier – drei,3514.mp3
+3515,drucken = to print,3515.mp3
+3516,ein + gekauft eingekauft,3516.mp3
+3517,"einen Park, ein Café",3517.mp3
+3518,Es gibt kein …,3518.mp3
+3519,Es ist … Uhr,3519.mp3
+3520,finden – hat gefunden,3520.mp3
+3521,fliegen — ist geflogen,3521.mp3
+3522,fotografieren — hat fotografiert,3522.mp3
+3523,Geht es um …?,3523.mp3
+3524,Gestern hatte Priyanka …,3524.mp3
+3525,Gibt es keinen Parkplatz?,3525.mp3
+3526,Ich fahre mit …,3526.mp3
+3527,Ich hätte gern …,3527.mp3
+3528,Ich komme aus …,3528.mp3
+3529,Ich möchte … kaufen,3529.mp3
+3530,Ich sehe ______ Personen,3530.mp3
+3531,in + das ins,3531.mp3
+3532,in + dem im,3532.mp3
+3533,Ja. Sechs – acht,3533.mp3
+3534,Kaffee mag ich nicht,3534.mp3
+3535,kämmen = to comb,3535.mp3
+3536,Können Sie bitte …?,3536.mp3
+3537,Lektion 55 — Kleinanzeigen,3537.mp3
+3538,lieber … als …,3538.mp3
+3539,Mein Name ist …,3539.mp3
+3540,meine Eltern sind …,3540.mp3
+3541,Meine Hobbys sind …,3541.mp3
+3542,Meine Nummer ist …,3542.mp3
+3543,Meine Zahl ist 0176…,3543.mp3
+3544,mit + gekommen mitgekommen,3544.mp3
+3545,Ott. O – Doppel-T,3545.mp3
+3546,packen — hat gepackt,3546.mp3
+3547,Schließen Sie bitte …,3547.mp3
+3548,Schmeckt es dir ?,3548.mp3
+3549,schwimmen — ist geschwommen,3549.mp3
+3550,Sechzehn! Eins – sechs,3550.mp3
+3551,Sehr gut! Und „Fluss“?,3551.mp3
+3552,Termin bei Doktor …,3552.mp3
+3553,von + dem vom,3553.mp3
+3554,von … bis …,3554.mp3
+3555,wandern — ist gewandert,3555.mp3
+3556,Wie findest du …?,3556.mp3
+3557,Wie geht's? — Gut,3557.mp3
+3558,Wie schreibt man „Fuß“?,3558.mp3
+3559,Wie viele Zimmer …?,3559.mp3
+3560,wir = zweite Person,3560.mp3
+3561,zu + dem zum,3561.mp3
+3562,zu + der zur,3562.mp3
+3563,"„Kein Abzug bei Orthografiefehlern""",3563.mp3
+3564,1 Fehler = −2 Punkte,3564.mp3
+3565,= How old are you?,3565.mp3
+3566,an + dem = am,3566.mp3
+3567,bei + dem = beim,3567.mp3
+3568,das Land / die Länder,3568.mp3
+3569,das Menü = set meal,3569.mp3
+3570,das Nomen / das Substantiv,3570.mp3
+3571,dem / der / dem,3571.mp3
+3572,der Deutsche / die Deutsche,3572.mp3
+3573,der Regen — kein Plural,3573.mp3
+3574,der Regenbogen / die Regenbögen,3574.mp3
+3575,der Urlaub / die Ferien,3575.mp3
+3576,Dialog 1 — Im Büro,3576.mp3
+3577,Dialog 3 — Am Telefon,3577.mp3
+3578,die Sprache / die Sprachen,3578.mp3
+3579,die Stunde / die Stunden,3579.mp3
+3580,eine Cola / eine Pizza,3580.mp3
+3581,"Er sagt: ""Ich komme spät.""",3581.mp3
+3582,er/sie/es möchtet Ihr seit gekommen,3582.mp3
+3583,F – U – Eszett,3583.mp3
+3584,Geradeaus — und dann links,3584.mp3
+3585,gültig ab … bis …,3585.mp3
+3586,habe / hast / sind,3586.mp3
+3587,Hören: 15 Items 30 Punkte,3587.mp3
+3588,ich bin / er ist,3588.mp3
+3589,ich habe / er hat,3589.mp3
+3590,ich hatte / er hatte,3590.mp3
+3591,ich musste / ich konnte,3591.mp3
+3592,ich möchte / er möchte,3592.mp3
+3593,ich war / er war,3593.mp3
+3594,ich will / er will,3594.mp3
+3595,Im Oktober gehe ich …,3595.mp3
+3596,in + dem = im,3596.mp3
+3597,In der Mitte ______ …,3597.mp3
+3598,Ja! Das Kind — es,3598.mp3
+3599,Ja! Der Tisch — er,3599.mp3
+3600,Können Sie mir bitte …?,3600.mp3
+3601,Lesen: 16 Items 30 Punkte,3601.mp3
+3602,Sie / Ihnen / Ihr,3602.mp3
+3603,Subjekt + Vert partizip II,3603.mp3
+3604,von + dem = vom,3604.mp3
+3605,wachen = to keep watch,3605.mp3
+3606,Wie geht es dir ?,3606.mp3
+3607,Wie geht es Ihnen ?,3607.mp3
+3608,Wie komme ich zu …?,3608.mp3
+3609,zu + dem = zum,3609.mp3
+3610,zu + der = zur,3610.mp3
+3611,ÖSD Zertifikat A1 / Österreich,3611.mp3
+3612,über + Nacht + en,3612.mp3
+3613,22:28 Es ist zweiundzwanzig Uhr achtundzwanzig,3613.mp3
+3614,8) Sie spricht Englisch und Urdu,3614.mp3
+3615,Achtung: Ein Bild ist zu viel,3615.mp3
+3616,Auf dem Bild sehe ich ______,3616.mp3
+3617,"Bilal, fragen Sie Lena — formell",3617.mp3
+3618,der Student den / dem Studenten,3618.mp3
+3619,Der Zug fährt um 7:12 ab,3619.mp3
+3620,Der Zug kommt um 9:30 an,3620.mp3
+3621,Dialog 2 — Auf der Straße,3621.mp3
+3622,"E = ""ee"" I = ""eye""",3622.mp3
+3623,"empfangen — du empfängst, er empfängt",3623.mp3
+3624,"empfehlen — du empfiehlst, er empfiehlt",3624.mp3
+3625,er/sie kommt — verb + t,3625.mp3
+3626,Essen und Trinken sind … verboten,3626.mp3
+3627,"gefallen — du gefällst, es gefällt",3627.mp3
+3628,Genau — die Antwort bleibt gleich!,3628.mp3
+3629,Guten Morgen / Tag / Abend,3629.mp3
+3630,Ich habe Übergewicht! — Mach eine,3630.mp3
+3631,In meiner Stadt gibt es …,3631.mp3
+3632,"J = ""jay"" W = ""double-u""",3632.mp3
+3633,Klar A2 — gar nicht anfangen,3633.mp3
+3634,Kreuzen Sie an: JA oder NEIN,3634.mp3
+3635,Lektion 56 — Aushänge & Schilder,3635.mp3
+3636,Meine Hobbys sind Lesen und Musikhören,3636.mp3
+3637,Mit W — W wie Wolke,3637.mp3
+3638,"Natürlich, nimm dir bitte ein Stück!",3638.mp3
+3639,Nein — neunundneunzig. Neun – neun,3639.mp3
+3640,Nein — Wörterbücher sind nicht erlaubt,3640.mp3
+3641,Nein — zwölf. Eins – zwei,3641.mp3
+3642,Schon über A1 — nicht wiederholen,3642.mp3
+3643,"Um 14:20 Uhr, von Gleis 7",3643.mp3
+3644,"V = ""vee"" Z = ""zed""",3644.mp3
+3645,Was isst du? — Einen Apfel,3645.mp3
+3646,zum / im / vom Supermarkt,3646.mp3
+3647,Zweite Klasse. Reservierung: 3 Euro Zuschlag,3647.mp3
+3648,"„Die Lösung muss orthografisch richtig sein""",3648.mp3
+3649,„Wo gefällt es Ihnen am besten?“,3649.mp3
+3650,9) Ihre Hobbys sind Lesen und Musikhören,3650.mp3
+3651,Auf dem Bild sehe ich ein Café,3651.mp3
+3652,Aufgabe 1 und Aufgabe 3 — einmal,3652.mp3
+3653,Bist du verheiratet? / Sind Sie verheiratet?,3653.mp3
+3654,"Das Kind — er, sie oder es?",3654.mp3
+3655,dem / der / dem / den,3655.mp3
+3656,"Der Tisch — er, sie oder es?",3656.mp3
+3657,Der Zug kommt um 14:20 auf Gleis,3657.mp3
+3658,Dialog 5 — Abendessen bei Familie Roth,3658.mp3
+3659,F – L – U – Doppel-S,3659.mp3
+3660,ge- + reis + -t = gereist,3660.mp3
+3661,"Gut, danke. Und dir? / Und Ihnen?",3661.mp3
+3662,Guten Tag! … Vielen Dank! Auf Wiedersehen,3662.mp3
+3663,"Hallo, [Name]! / addressing them as du",3663.mp3
+3664,Ich bin so müde! — Geh schlafen!,3664.mp3
+3665,Ich habe ein Auto / ein Haus,3665.mp3
+3666,Ich habe Zahnschmerzen! — Geh zum Zahnarzt!,3666.mp3
+3667,Ich spiele im Park in der Nähe,3667.mp3
+3668,"liegen = to lie, to be lying",3668.mp3
+3669,Mo–Fr von 9 bis 18 Uhr geöffnet,3669.mp3
+3670,Musteraufgabe — die E-Mail von der Freundin,3670.mp3
+3671,Sie hören den Text einmal / zweimal,3671.mp3
+3672,Was habe ich gegessen? — Einen Salat,3672.mp3
+3673,Wir sind nach Berlin gefahren / geflogen,3673.mp3
+3674,0 Punkte — genau ein Kreuz pro Zeile,3674.mp3
+3675,6/30 Lesen 6/30 Hören 4/10 Schreiben Aufgabe 2,3675.mp3
+3676,"a, be, ce, de … iks, ypsilon, zett",3676.mp3
+3677,Der Wievielte ist heute? — Der zwölfte September,3677.mp3
+3678,Dialog 4 — In der Bäckerei in Bayern,3678.mp3
+3679,die Studentin / die Schülerin / die Lehrerin,3679.mp3
+3680,"Für Kinder bis 14 Jahre: ermäßigt, 19 Euro",3680.mp3
+3681,Ich habe Halsschmerzen! — Trink Tee mit Honig!,3681.mp3
+3682,in Wien / in Österreich / in Pakistan,3682.mp3
+3683,Kann ich …? / Können Sie bitte …?,3683.mp3
+3684,Meine Name ist … Mein Hobbys sind …,3684.mp3
+3685,Perfekt = haben / sein + Partizip II,3685.mp3
+3686,schön es / schlecht es / schrecklich es,3686.mp3
+3687,"Sind das Sterne? — Nein, das sind keine",3687.mp3
+3688,Wie alt ist er? — Ich weiß nicht,3688.mp3
+3689,Woher kommst du? — Ich komme aus Pakistan,3689.mp3
+3690,"Erst Kandidat, dann Interlokutor — beide Rollen laut sprechen",3690.mp3
+3691,Ich sehe zwei Personen: einen Mann und eine Frau,3691.mp3
+3692,"Ist das ein Buch? — Nein, das ist kein",3692.mp3
+3693,"Ist das ein Kuli? — Nein, das ist kein",3693.mp3
+3694,"Ist das eine Blume? — Nein, das ist keine",3694.mp3
+3695,Ist das null – drei – drei – acht?,3695.mp3
+3696,Kann man …? Darf man …? Muss man …?,3696.mp3
+3697,Man kann … Man darf … Man muss …,3697.mp3
+3698,"Muss ich umsteigen? — Nein, der Zug fährt direkt",3698.mp3
+3699,Partizip II = Präfix + Partizip II vom Verb,3699.mp3
+3700,Wo kochst du? — Ich koche in der Küche,3700.mp3
+3701,aber trotzdem nur eigentlich am besten am schönsten am liebsten,3701.mp3
+3702,Ah! W – E – B – E – R,3702.mp3
+3703,Bis wann schläfst du? — Ich schlafe bis 12 Uhr,3703.mp3
+3704,"Gibt es noch Suppe? — Ja, es gibt sie noch",3704.mp3
+3705,Nein. Hier ist null – drei – drei – neun,3705.mp3
+3706,Wem kocht Petra eine Suppe? — Petra kocht dem Mann,3706.mp3
+3707,Wie alt bist du? — Ich bin 25 Jahre alt,3707.mp3
+3708,Wie findest du den Hut? — Ich habe keinen Hut,3708.mp3
+3709,„Schreiben Sie die Nummer der passenden Anzeige neben die Sätze.“,3709.mp3
+3710,einen Wein / einen Saft / einen Kaffee / einen Salat,3710.mp3
+3711,Gestern war das Wetter schlecht. — Heute ist das Wetter schön,3711.mp3
+3712,Guten Tag! Ist das null – drei – drei – acht?,3712.mp3
+3713,"Ich finde ihn/sie/es gut, schön, cool, elegant, teuer, billig, hässlich, langweilig",3713.mp3
+3714,Ich habe Fieber / Husten / Grippe / Durchfall / Zahnschmerzen,3714.mp3
+3715,Ich weiß das Wort nicht. Das ist … für den Kaffee,3715.mp3
+3716,Samstag und Sonnabend sind derselbe Tag — nur zwei verschiedene Namen,3716.mp3
+3717,"Vier Karten aus den acht — in 60 Sekunden, ohne Pause",3717.mp3
+3718,Ab wann machst du Urlaub? — Ab nächster Woche mache ich Urlaub,3718.mp3
+3719,"Fitness-Center Graz — Mo–Fr 7–22 Uhr. Studenten zahlen € 19,– im Monat",3719.mp3
+3720,Großes Ö – Z – T – Ü – R – K,3720.mp3
+3721,"ich -e, du -st, er/sie/es -t, wir -en, ihr -t, sie/Sie -en",3721.mp3
+3722,"ich bin, du bist, er/sie/es ist, wir sind, ihr seid, sie/Sie sind",3722.mp3
+3723,"ich habe, du hast, er/sie/es hat, wir haben, ihr habt, sie/Sie haben",3723.mp3
+3724,"ich möchte, du möchtest, er/sie/es möchte, wir möchten, ihr möchtet, sie/Sie möchten",3724.mp3
+3725,"ich spiele, du spielst, er/sie/es spielt, wir spielen, ihr spielt, sie/Sie spielen",3725.mp3
+3726,Kann man … ? Darf man … ? Muss man … ?,3726.mp3
+3727,Seit wann lernst du Deutsch? — Ich lerne Deutsch seit 2 Jahren,3727.mp3
+3728,Vielleicht means 'maybe' — a genuine middle option between Ja and Nein,3728.mp3
+3729,"Warum kommst du nicht? — Ich komme nicht, denn ich muss arbeiten",3729.mp3
+3730,Was gibt es …? Wo gibt es …? Wann gibt es …?,3730.mp3
+3731,"„einige wenige einfache grammatische Strukturen und Satzmuster, die sie/er auswendig gelernt hat""",3731.mp3
+3732,"„einige wenige einfache grammatische Strukturen und Satzmuster, die sie/er auswendig gelernt hat“",3732.mp3
+3733,"Welche Sprachen sprichst du? — Ich spreche Urdu, Englisch und ein bisschen Deutsch",3733.mp3
+3734,"Zimmer frei! 18 m², € 350,– warm, ab 1. Jänner. Nur für Studenten",3734.mp3
+3735,Avoid doof with Sie or in formal situations; save it for casual talk with friends,3735.mp3
+3736,"Ein Satz mit Imperativ gibt einen Rat, eine Anweisung oder einen Befehl / eine Bitte",3736.mp3
+3737,ich kann / er kann ich will / er will ich möchte / er möchte,3737.mp3
+3738,"Liebe/r …, am Samstag mache ich eine kleine Party bei mir zu Hause. Kommst du?",3738.mp3
+3739,Mein/Meine Lieblings… ist … Ich … gern … Am liebsten … … mag ich nicht,3739.mp3
+3740,Auf dem Bild sehe ich einen Supermarkt. Ich sehe zwei Personen: einen Kunden und eine Kassiererin,3740.mp3
+3741,Das ist ein Café. Man sieht zwei Personen. Sie trinken Kaffee. Ich finde das Bild schön,3741.mp3
+3742,A wie Apfel – H wie Haus – M wie Mann – A – D wie Deutschland,3742.mp3
+3743,Ich möchte … Können Sie bitte …? Darf ich …? — plus: Was kostet …? Wann …?,3743.mp3
+3744,"Stadtbibliothek Chemnitz. Mo–Fr 10–18 Uhr, Sa 10–13 Uhr. Sonntag geschlossen. Essen und Trinken sind im Lesesaal verboten",3744.mp3
+3745,Auf dem Bild sehe ich ein Café. Zwei Personen sitzen an einem Tisch. Der Tisch ist rund und braun,3745.mp3
+3746,Auf dem Bild sehe ich einen Park. Die Sonne scheint. Ich sehe drei Personen: zwei Männer und ein Kind,3746.mp3
+3747,„… ÖSD Zertifikat A1 … an Prüfungszentren weltweit bzw. ÖSD Zertifikat A1 / Österreich an Prüfungszentren in Österreich …“,3747.mp3
+3748,ich kann / er kann ich muss / er muss ich darf / er darf ich soll / er soll,3748.mp3
+3749,Null – eins – sieben – sechs … vier – fünf – zwo – drei … acht – neun – eins,3749.mp3
+3750,Meine Handynummer ist null – eins – sieben – sechs – vier – fünf – zwei – drei – acht – neun – eins,3750.mp3
+3751,"„… ich war schon einige Male in Asien und bin begeistert. Die Menschen sind zwar ganz anders als hier bei uns in Europa, aber Asien …“",3751.mp3
+3752,Wann hast du Zeit? Um wie viel Uhr treffen wir uns? Geht es um halb sechs? Der Kurs ist von … bis … Das Geschäft ist von neun bis achtzehn Uhr geöffnet,3752.mp3
+3753,"Guten Tag, hier ist Frau Bauer — B–A–U–E–R — von der Sprachschule Graz. Ihr Kurs beginnt am Montag um neun Uhr. Bitte rufen Sie mich an: null sechs sechs vier / fünfundfünfzig / zwölf",3753.mp3
+3754,"Liebe Anna, ich komme heute leider nicht, denn ich bin krank und habe Fieber. Am Samstag habe ich Zeit, dann gehen wir ins Kino oder ins Café. Bring bitte einen Kuchen mit! Liebe Grüße, Bilal",3754.mp3
+3755,"Liebe Sofia, danke für die Einladung! Ich komme gern. Ich komme um sieben Uhr am Abend. Ich bringe einen Salat und Getränke mit. Ich fahre mit dem Bus, denn mein Auto ist kaputt. Liebe Grüße Bilal",3755.mp3
+3756,April,3756.mp3
+3757,arm,3757.mp3
+3758,August,3758.mp3
+3759,Ausgezeichnet!,3759.mp3
+3760,Australien,3760.mp3
+3761,Autorennen,3761.mp3
+3762,A–E,3762.mp3
+3763,Basketball,3763.mp3
+3764,blau,3764.mp3
+3765,Bogenschießen,3765.mp3
+3766,Boxen,3766.mp3
+3767,braun,3767.mp3
+3768,bügeln,3768.mp3
+3769,Dezember,3769.mp3
+3770,direkt,3770.mp3
+3771,dreizehntausendzweihundertsechsunddreißig,3771.mp3
+3772,dreizig,3772.mp3
+3773,dunkel,3773.mp3
+3774,einfach,3774.mp3
+3775,Eiskunstlauf,3775.mp3
+3776,elf,3776.mp3
+3777,essen,3777.mp3
+3778,Fantastisch!,3778.mp3
+3779,Februar,3779.mp3
+3780,Fluß,3780.mp3
+3781,frisch,3781.mp3
+3782,Furchtbar!,3782.mp3
+3783,gesucht,3783.mp3
+3784,Golf,3784.mp3
+3785,grau,3785.mp3
+3786,grün,3786.mp3
+3787,Gymnastik,3787.mp3
+3788,hell,3788.mp3
+3789,hundert,3789.mp3
+3790,intelligent,3790.mp3
+3791,Juli,3791.mp3
+3792,Juni,3792.mp3
+3793,klein,3793.mp3
+3794,kurz,3794.mp3
+3795,lecker,3795.mp3
+3796,leicht,3796.mp3
+3797,liefern,3797.mp3
+3798,Mahlzeit!,3798.mp3
+3799,Mai,3799.mp3
+3800,Miserabel!,3800.mp3
+3801,monatlich,3801.mp3
+3802,März,3802.mp3
+3803,nehmen,3803.mp3
+3804,nett,3804.mp3
+3805,November,3805.mp3
+3806,Oktober,3806.mp3
+3807,Plural,3807.mp3
+3808,Pronomen,3808.mp3
+3809,putzen,3809.mp3
+3810,Radfahren,3810.mp3
+3811,reich,3811.mp3
+3812,reservieren,3812.mp3
+3813,rot,3813.mp3
+3814,sagen,3814.mp3
+3815,scharf,3815.mp3
+3816,schwarz,3816.mp3
+3817,schwer,3817.mp3
+3818,Schwimmen,3818.mp3
+3819,sechshundertvierunddreißig,3819.mp3
+3820,sechsundzwanzig,3820.mp3
+3821,sechzig,3821.mp3
+3822,sehr,3822.mp3
+3823,September,3823.mp3
+3824,Servus!,3824.mp3
+3825,siebenundzwanzig,3825.mp3
+3826,Singular,3826.mp3
+3827,Skifahren,3827.mp3
+3828,Super!,3828.mp3
+3829,Supermakt,3829.mp3
+3830,Surfen,3830.mp3
+3831,tanzen,3831.mp3
+3832,tausend,3832.mp3
+3833,Teilzeit,3833.mp3
+3834,Tennis,3834.mp3
+3835,Tischtennis,3835.mp3
+3836,Toll!,3836.mp3
+3837,treffen,3837.mp3
+3838,täglich,3838.mp3
+3839,umsteigen,3839.mp3
+3840,vierzehn,3840.mp3
+3841,vierzig,3841.mp3
+3842,Vollzeit,3842.mp3
+3843,vorgestern,3843.mp3
+3844,waschen,3844.mp3
+3845,Wunderbar!,3845.mp3
+3846,Yoga,3846.mp3
+3847,zwölf,3847.mp3
+3848,A a,3848.mp3
+3849,am Fenster,3849.mp3
+3850,amerikanischer Fußball,3850.mp3
+3851,B b,3851.mp3
+3852,Bar mochhte,3852.mp3
+3853,Betreten verboten!,3853.mp3
+3854,Bis bald!,3854.mp3
+3855,Bis morgen!,3855.mp3
+3856,Bis später!,3856.mp3
+3857,Bitte schön!,3857.mp3
+3858,C c,3858.mp3
+3859,D d,3859.mp3
+3860,das Café,3860.mp3
+3861,das Ei,3861.mp3
+3862,das Geburtsdatum,3862.mp3
+3863,das Handtuch,3863.mp3
+3864,das Hemd,3864.mp3
+3865,das Internet,3865.mp3
+3866,das Licht,3866.mp3
+3867,das Messer,3867.mp3
+3868,das Papier,3868.mp3
+3869,das Parterre,3869.mp3
+3870,das Tablett,3870.mp3
+3871,der Bankomat,3871.mp3
+3872,der Bon,3872.mp3
+3873,der Geburtsort,3873.mp3
+3874,der Korb,3874.mp3
+3875,der Kuchen,3875.mp3
+3876,der Kugelschreiber,3876.mp3
+3877,der Löffel,3877.mp3
+3878,der Patient,3878.mp3
+3879,der Plan,3879.mp3
+3880,Der Prüfungsort,3880.mp3
+3881,der Regenschirm,3881.mp3
+3882,der Schlüssel,3882.mp3
+3883,der Teller,3883.mp3
+3884,der Topf,3884.mp3
+3885,der Vorname,3885.mp3
+3886,der Wagen,3886.mp3
+3887,der Wasserkocher,3887.mp3
+3888,der Weg,3888.mp3
+3889,die Anreise,3889.mp3
+3890,die Anzeigetafel,3890.mp3
+3891,die Arztpraxis,3891.mp3
+3892,die E-Mail,3892.mp3
+3893,die Gabel,3893.mp3
+3894,Die ich-Form,3894.mp3
+3895,die Jacke,3895.mp3
+3896,die Kaffeemaschine,3896.mp3
+3897,die Kaltmiete,3897.mp3
+3898,die Kassa,3898.mp3
+3899,die Lieblingsmusik,3899.mp3
+3900,die Liege,3900.mp3
+3901,die Liste,3901.mp3
+3902,die Pfanne,3902.mp3
+3903,die Pflanze,3903.mp3
+3904,die PLZ,3904.mp3
+3905,die Ratschläge,3905.mp3
+3906,die Schüssel,3906.mp3
+3907,die Seife,3907.mp3
+3908,die Station,3908.mp3
+3909,die Tasse,3909.mp3
+3910,die Telefonnummer,3910.mp3
+3911,die Unterschrift,3911.mp3
+3912,die Warmmiete,3912.mp3
+3913,die Zeitung,3913.mp3
+3914,dritte Person,3914.mp3
+3915,du fährst,3915.mp3
+3916,du gehst,3916.mp3
+3917,du hörst,3917.mp3
+3918,du kommst,3918.mp3
+3919,du lernst,3919.mp3
+3920,du machst,3920.mp3
+3921,du nimmst,3921.mp3
+3922,du sagst,3922.mp3
+3923,du siehst,3923.mp3
+3924,du spielst,3924.mp3
+3925,Du sprechst,3925.mp3
+3926,du studierst,3926.mp3
+3927,du triffst,3927.mp3
+3928,du wohnst,3928.mp3
+3929,E e,3929.mp3
+3930,ein Deutscher,3930.mp3
+3931,ein Wunsch,3931.mp3
+3932,eine Schwester,3932.mp3
+3933,Einheit zuerst,3933.mp3
+3934,er/sie/es geht,3934.mp3
+3935,er/sie/es hört,3935.mp3
+3936,er/sie/es ist,3936.mp3
+3937,er/sie/es kommt,3937.mp3
+3938,er/sie/es lernt,3938.mp3
+3939,er/sie/es macht,3939.mp3
+3940,er/sie/es sagt,3940.mp3
+3941,er/sie/es spielt,3941.mp3
+3942,er/sie/es studiert,3942.mp3
+3943,er/sie/es wohnt,3943.mp3
+3944,erste Person,3944.mp3
+3945,Es geht,3945.mp3
+3946,etwas bestellen,3946.mp3
+3947,F f,3947.mp3
+3948,Fotografieren verboten!,3948.mp3
+3949,frei ab,3949.mp3
+3950,G g,3950.mp3
+3951,Grüß Sie!,3951.mp3
+3952,"Gut, danke!",3952.mp3
+3953,H h,3953.mp3
+3954,Hallo zusammen!,3954.mp3
+3955,I i,3955.mp3
+3956,ich gehe,3956.mp3
+3957,ich komme,3957.mp3
+3958,ich lerne,3958.mp3
+3959,ich mache,3959.mp3
+3960,ich spiele,3960.mp3
+3961,ich studiere,3961.mp3
+3962,ihr geht,3962.mp3
+3963,ihr hört,3963.mp3
+3964,ihr kommt,3964.mp3
+3965,ihr lernt,3965.mp3
+3966,ihr macht,3966.mp3
+3967,ihr sagt,3967.mp3
+3968,ihr spielt,3968.mp3
+3969,ihr studiert,3969.mp3
+3970,ihr wohnt,3970.mp3
+3971,im Büro,3971.mp3
+3972,im Kino,3972.mp3
+3973,im Supermarkt,3973.mp3
+3974,J j,3974.mp3
+3975,K k,3975.mp3
+3976,Kein Problem,3976.mp3
+3977,kein Trinkwasser,3977.mp3
+3978,Kein Wörterbuch,3978.mp3
+3979,keine Einfahrt,3979.mp3
+3980,keine Hunde,3980.mp3
+3981,L l,3981.mp3
+3982,"Langsam, bitte!",3982.mp3
+3983,Liebe GrüßeBilal,3983.mp3
+3984,M m,3984.mp3
+3985,mieten vermieten,3985.mp3
+3986,N n,3986.mp3
+3987,Nur Barzahlung,3987.mp3
+3988,O o,3988.mp3
+3989,P p,3989.mp3
+3990,Parken verboten!,3990.mp3
+3991,pro Minute,3991.mp3
+3992,pro Stunde,3992.mp3
+3993,Q q,3993.mp3
+3994,R r,3994.mp3
+3995,Regelmäßige Verben,3995.mp3
+3996,S s,3996.mp3
+3997,sie/Sie gehen,3997.mp3
+3998,sie/Sie hören,3998.mp3
+3999,sie/Sie kommen,3999.mp3
+4000,sie/Sie lernen,4000.mp3
+4001,sie/Sie machen,4001.mp3
+4002,sie/Sie sagen,4002.mp3
+4003,sie/Sie sind,4003.mp3
+4004,sie/Sie spielen,4004.mp3
+4005,sie/Sie studieren,4005.mp3
+4006,sie/Sie wohnen,4006.mp3
+4007,T t,4007.mp3
+4008,Themenkarten wählen,4008.mp3
+4009,to loose,4009.mp3
+4010,U u,4010.mp3
+4011,Untrennbare Verben,4011.mp3
+4012,V v,4012.mp3
+4013,W w,4013.mp3
+4014,wir gehen,4014.mp3
+4015,wir haben,4015.mp3
+4016,wir hören,4016.mp3
+4017,wir kommen,4017.mp3
+4018,wir lernen,4018.mp3
+4019,wir machen,4019.mp3
+4020,wir sagen,4020.mp3
+4021,wir sind,4021.mp3
+4022,wir spielen,4022.mp3
+4023,wir studieren,4023.mp3
+4024,WOCHENEND-TICKET ÖSTERREICH,4024.mp3
+4025,Wörter sammeln,4025.mp3
+4026,X x,4026.mp3
+4027,Y y,4027.mp3
+4028,Z z,4028.mp3
+4029,Zutritt verboten,4029.mp3
+4030,zweite Person,4030.mp3
+4031,Ä ä,4031.mp3
+4032,Ö ö,4032.mp3
+4033,Ü ü,4033.mp3
+4034,übrig bleiben,4034.mp3
+4035,10 Minuten Vorbereitungszeit,4035.mp3
+4036,30 Sekunden Vorbereitung,4036.mp3
+4037,abfahren die Abfahrt,4037.mp3
+4038,am Abend abends,4038.mp3
+4039,am Mittag mittags,4039.mp3
+4040,am Morgen morgens,4040.mp3
+4041,am Nachmittag nachmittags,4041.mp3
+4042,am Vormittag vormittags,4042.mp3
+4043,an der Ampel,4043.mp3
+4044,an der Haltestelle,4044.mp3
+4045,ankommen die Ankunft,4045.mp3
+4046,auf dem Bahnhof,4046.mp3
+4047,auf dem Markt,4047.mp3
+4048,bei ihrer Tante,4048.mp3
+4049,besichtigen hat besichtigt,4049.mp3
+4050,Das Bild wählen,4050.mp3
+4051,das Deutsch Plural,4051.mp3
+4052,das Englisch Plural,4052.mp3
+4053,Dativ — Wem?,4053.mp3
+4054,der Dank Plural,4054.mp3
+4055,Die drei Rebellen,4055.mp3
+4056,Die vier Fallen,4056.mp3
+4057,Diät vor z,4057.mp3
+4058,ein Glas Honig,4058.mp3
+4059,eine Dose Cola,4059.mp3
+4060,eine Flasche Öl,4060.mp3
+4061,Eine Katze schläft,4061.mp3
+4062,eine Packung Milch,4062.mp3
+4063,eine Packung Waschmittel,4063.mp3
+4064,einen Becher Joghurt,4064.mp3
+4065,einen Beutel Reis,4065.mp3
+4066,Einmal leise durchgehen,4066.mp3
+4067,eins oder ein?,4067.mp3
+4068,"Entschuldigen Sie, bitte!",4068.mp3
+4069,Es ist schön,4069.mp3
+4070,fahren die Fahrt,4070.mp3
+4071,geöffnet / geschlossen,4071.mp3
+4072,gratis / kostenlos,4072.mp3
+4073,Hast du Kinder?,4073.mp3
+4074,Heute regnet es,4074.mp3
+4075,hin und zurück,4075.mp3
+4076,Hören Sie mich?,4076.mp3
+4077,Ich bin ledig,4077.mp3
+4078,Ich bin verheiratet,4078.mp3
+4079,in der Bank,4079.mp3
+4080,in der Stadt,4080.mp3
+4081,in einem Haus,4081.mp3
+4082,in einer Wohnung,4082.mp3
+4083,kein oder nicht?,4083.mp3
+4084,"Kugelschreiber, nicht Bleistift",4084.mp3
+4085,mit dem Auto,4085.mp3
+4086,mit dem Fahrrad,4086.mp3
+4087,mit dem Flugzeug,4087.mp3
+4088,mit dem Taxi,4088.mp3
+4089,mit meinem Lehrer,4089.mp3
+4090,Module einzeln ablegbar,4090.mp3
+4091,Noch einen Wunsch?,4091.mp3
+4092,"Noch einmal, bitte!",4092.mp3
+4093,Nummer oder Zahl?,4093.mp3
+4094,reisen die Reise,4094.mp3
+4095,reisen ist gereist,4095.mp3
+4096,Sie oder du?,4096.mp3
+4097,Sprechen Sie Englisch?,4097.mp3
+4098,Tschüs! / Tschüss!,4098.mp3
+4099,verboten / erlaubt,4099.mp3
+4100,vor einem Monat,4100.mp3
+4101,vor einer Woche,4101.mp3
+4102,Warum keine Ahnung?,4102.mp3
+4103,Was lernt er/sie?,4103.mp3
+4104,Was sehen Sie?,4104.mp3
+4105,Wo arbeitet er?,4105.mp3
+4106,Wo kochst du?,4106.mp3
+4107,Wo schläfst du?,4107.mp3
+4108,wo woher wohin,4108.mp3
+4109,Wo wohnt er/sie?,4109.mp3
+4110,Woher kommt er/sie?,4110.mp3
+4111,z = ts,4111.mp3
+4112,zehn = -teen,4112.mp3
+4113,zu dem Mann,4113.mp3
+4114,zu der Frau,4114.mp3
+4115,Zwei Fragen notieren,4115.mp3
+4116,ß oder ss?,4116.mp3
+4117,übernachten hat übernachtet,4117.mp3
+4118,"15 Wörter, nicht 101",4118.mp3
+4119,5 Situationen 6 Anzeigen,4119.mp3
+4120,abfahren — ist abgefahren,4120.mp3
+4121,ankommen — ist angekommen,4121.mp3
+4122,auf + stehen aufstehen,4122.mp3
+4123,aufstehen — ist aufgestanden,4123.mp3
+4124,aufwachen — ist aufgewacht,4124.mp3
+4125,aussteigen — ist ausgestiegen,4125.mp3
+4126,bleiben — ist geblieben,4126.mp3
+4127,Darf man hier fotografieren?,4127.mp3
+4128,Das Auto ist billig,4128.mp3
+4129,Das Auto ist neu,4129.mp3
+4130,Das Baby ist süß,4130.mp3
+4131,Das Haus ist groß,4131.mp3
+4132,Das ist ein Apfel,4132.mp3
+4133,Das ist ein Auto,4133.mp3
+4134,Das ist ein Mädchen,4134.mp3
+4135,Das ist eine Frau,4135.mp3
+4136,Das ist eine Königin,4136.mp3
+4137,Das ist eine Wolke,4137.mp3
+4138,Das ist eure Katze,4138.mp3
+4139,Das ist ihr Bleistift,4139.mp3
+4140,Das ist ihre Tasche,4140.mp3
+4141,Das ist mein Buch,4141.mp3
+4142,Das ist sein Auto,4142.mp3
+4143,Das ist sein Löwe,4143.mp3
+4144,Das ist unser Kuli,4144.mp3
+4145,Das Kind ist krank,4145.mp3
+4146,Das Kind trinkt Wasser,4146.mp3
+4147,das Problem die Probleme,4147.mp3
+4148,das Rad das Fahrrad,4148.mp3
+4149,Der Apfel ist rot,4149.mp3
+4150,Der Hund bellt laut,4150.mp3
+4151,Der Hund ist klein,4151.mp3
+4152,Der Interlokutor fragt nach,4152.mp3
+4153,Der Mann ist müde,4153.mp3
+4154,der Moment die Momente,4154.mp3
+4155,der Plan der Fahrplan,4155.mp3
+4156,der Quadratmeter / m²,4156.mp3
+4157,Der Sie-Imperativ kommt zurück,4157.mp3
+4158,die Ahnung die Ahnungen,4158.mp3
+4159,Die Autos sind teuer,4159.mp3
+4160,Die Banane ist gesund,4160.mp3
+4161,Die Blumen sind bunt,4161.mp3
+4162,Die Bücher sind bunt,4162.mp3
+4163,die Entschuldigung die Entschuldigungen,4163.mp3
+4164,die Karte die Fahrkarte,4164.mp3
+4165,Die Katze ist freundlich,4165.mp3
+4166,Die Wolke ist alt,4166.mp3
+4167,Du darfst nicht kommen,4167.mp3
+4168,du dein / deine,4168.mp3
+4169,Du musst nicht kommen,4169.mp3
+4170,Eine Frau kommt spät,4170.mp3
+4171,eine Zeitform der Vergangenheit,4171.mp3
+4172,einschlafen — ist eingeschlafen,4172.mp3
+4173,einsteigen — ist eingestiegen,4173.mp3
+4174,"er arbeitet, sie spielt",4174.mp3
+4175,Er hat keine Zeit,4175.mp3
+4176,Er kauft das Brot,4176.mp3
+4177,Er möchte eine Pizza,4177.mp3
+4178,er sein / seine,4178.mp3
+4179,Er verkauft das Auto,4179.mp3
+4180,Es gibt eine Apotheke,4180.mp3
+4181,es gibt einen Balkon,4181.mp3
+4182,Es gibt einen Supermarkt,4182.mp3
+4183,Es gibt kein Kino,4183.mp3
+4184,Es gibt kein Schwimmbad,4184.mp3
+4185,Es gibt keine Apotheke,4185.mp3
+4186,Es gibt keine Museen,4186.mp3
+4187,Es gibt keine Parks,4187.mp3
+4188,Es gibt keinen Park,4188.mp3
+4189,Es gibt keinen Supermarkt,4189.mp3
+4190,Es ist halb vier,4190.mp3
+4191,Es ist Punkt vier,4191.mp3
+4192,es sein / seine,4192.mp3
+4193,Es tut mir leid!,4193.mp3
+4194,fahren — ist gefahren,4194.mp3
+4195,Fisch mag ich nicht,4195.mp3
+4196,gehen — ist gegangen,4196.mp3
+4197,Gesamtzertifikat — die Bedingung,4197.mp3
+4198,Gibt es eine Frage?,4198.mp3
+4199,"Guten Tag, Herr Weber!",4199.mp3
+4200,Hast du deinen Kuli?,4200.mp3
+4201,Hunde darf man mitbringen,4201.mp3
+4202,Hunde müssen draußen bleiben,4202.mp3
+4203,Ich besuche meine Eltern,4203.mp3
+4204,Ich empfehle den Salat,4204.mp3
+4205,Ich esse gern Brot,4205.mp3
+4206,Ich habe ein Haus,4206.mp3
+4207,Ich habe ein Kind,4207.mp3
+4208,Ich habe hohen Blutdruck,4208.mp3
+4209,Ich habe mein Buch,4209.mp3
+4210,Ich komme aus Österreich,4210.mp3
+4211,Ich liebe meine Schwester,4211.mp3
+4212,Ich mag keinen Kaffee,4212.mp3
+4213,ich mein / meine,4213.mp3
+4214,Ich möchte einen Fisch,4214.mp3
+4215,Ich sehe den Mann,4215.mp3
+4216,Ich spreche gut Englisch,4216.mp3
+4217,Ich spreche kein Französisch,4217.mp3
+4218,Ich trinke den Kaffee,4218.mp3
+4219,Ich wohne in Indien,4219.mp3
+4220,Ich wohnst Ich wohnt,4220.mp3
+4221,ihr euer / eure,4221.mp3
+4222,in der Nacht nachts,4222.mp3
+4223,Ist die Wohnung möbliert?,4223.mp3
+4224,Kein Artikel beim Beruf,4224.mp3
+4225,Kommen Sie aus Deutschland?,4225.mp3
+4226,kommen — ist gekommen,4226.mp3
+4227,Lassen Sie keine Lücke,4227.mp3
+4228,laufen — ist gelaufen,4228.mp3
+4229,Maria hat eine Tochter,4229.mp3
+4230,Mein Familienname ist …,4230.mp3
+4231,Mein Lieblingssport ist Fußball,4231.mp3
+4232,Meine Handynummer ist …,4232.mp3
+4233,Meine Lieblingsfarbe ist blau,4233.mp3
+4234,Mir geht es gut!,4234.mp3
+4235,Mir geht es schlecht,4235.mp3
+4236,mitkommen — ist mitgekommen,4236.mp3
+4237,Nur 10 Sekunden Vorbereitung,4237.mp3
+4238,passieren — ist passiert,4238.mp3
+4239,reisen — ist gereist,4239.mp3
+4240,Sehr geehrter Herr Weber,4240.mp3
+4241,sein — ist gewesen,4241.mp3
+4242,Sie hat mir geholfen,4242.mp3
+4243,sie ihr / ihre,4243.mp3
+4244,Sie liest ein Buch,4244.mp3
+4245,Sie möchte den Kuchen,4245.mp3
+4246,Sie müssen auch fragen,4246.mp3
+4247,Sie müssen nichts bezahlen,4247.mp3
+4248,Sie schreiben die Bildnummer,4248.mp3
+4249,Sie schreiben eine Zahl,4249.mp3
+4250,Sie wählen vier Karten,4250.mp3
+4251,Soll ich Ihnen helfen?,4251.mp3
+4252,steigen — ist gestiegen,4252.mp3
+4253,sterben — ist gestorben,4253.mp3
+4254,Typische Themen im Modellsatz,4254.mp3
+4255,Um sechs Uhr abends,4255.mp3
+4256,Um Viertel nach neun,4256.mp3
+4257,umsteigen — ist umgestiegen,4257.mp3
+4258,ver + stehen verstehen,4258.mp3
+4259,Verb auf Platz 2,4259.mp3
+4260,Von neun bis fünf,4260.mp3
+4261,wachsen — ist gewachsen,4261.mp3
+4262,Wann ist die Besichtigung?,4262.mp3
+4263,Wann kommt das Zertifikat?,4263.mp3
+4264,Wann treffen wir uns?,4264.mp3
+4265,Wann? Wann heiratet ihr?,4265.mp3
+4266,Was gibt es Neues?,4266.mp3
+4267,Was kostet der Apfelkuchen?,4267.mp3
+4268,Was machen diese Personen?,4268.mp3
+4269,Was machst du beruflich?,4269.mp3
+4270,Was sind deine Hobbys?,4270.mp3
+4271,Was sind seine Hobbys?,4271.mp3
+4272,Welche Sprachen spricht er?,4272.mp3
+4273,Wen? Wen liebst du?,4273.mp3
+4274,Wer ist der Mann?,4274.mp3
+4275,werden — ist geworden,4275.mp3
+4276,Wie alt ist er/sie?,4276.mp3
+4277,Wir haben ein Kind,4277.mp3
+4278,wir unser / unsere,4278.mp3
+4279,Wo ist der Mann?,4279.mp3
+4280,Wo? Wo wohnst du?,4280.mp3
+4281,Woher? Woher kommst du?,4281.mp3
+4282,Wohnst du in Hyderabad?,4282.mp3
+4283,Wörterbücher sind nicht erlaubt,4283.mp3
+4284,"Zwei Prüfer, zwei Rollen",4284.mp3
+4285,Akkusativ — Wen? / Was?,4285.mp3
+4286,Am Himmel ist ein Regenbogen,4286.mp3
+4287,Am Himmel sind dunkle Wolken,4287.mp3
+4288,Aufgabe 1 — sich vorstellen,4288.mp3
+4289,Aufgabe 2 — eine Bildbeschreibung,4289.mp3
+4290,Aufgabe 3 — ein Rollenspiel,4290.mp3
+4291,Beide Module am selben Tag,4291.mp3
+4292,Bringen Sie einen Lichtbildausweis mit,4292.mp3
+4293,Darf ich das Fenster öffnen?,4293.mp3
+4294,das Angebot / die Angebote,4294.mp3
+4295,das Bad / die Bäder,4295.mp3
+4296,das Beispiel / die Beispiele,4296.mp3
+4297,das Bett / die Betten,4297.mp3
+4298,das Bier / die Biere,4298.mp3
+4299,das Brot / die Brote,4299.mp3
+4300,das Fitnessstudio / die Fitnessstudios,4300.mp3
+4301,das Gehalt / die Gehälter,4301.mp3
+4302,das Gewitter / die Gewitter,4302.mp3
+4303,das Gleis / die Gleise,4303.mp3
+4304,das Handy / die Handys,4304.mp3
+4305,das Haus / die Häuser,4305.mp3
+4306,das Hilfsverb / die Hilfsverben,4306.mp3
+4307,das Hobby / die Hobbys,4307.mp3
+4308,das Hähnchen / die Hähnchen,4308.mp3
+4309,Das ist ein deutsches Buch,4309.mp3
+4310,Das ist eine gute Idee,4310.mp3
+4311,das Jahr / die Jahre,4311.mp3
+4312,das Kind / die Kinder,4312.mp3
+4313,das Kinderzimmer / die Kinderzimmer,4313.mp3
+4314,das Kino / die Kinos,4314.mp3
+4315,das Krankenhaus / die Krankenhäuser,4315.mp3
+4316,das Leben / die Leben,4316.mp3
+4317,das Lieblingsbuch / die Lieblingsbücher,4317.mp3
+4318,das Lieblingsessen / die Lieblingsessen,4318.mp3
+4319,das Lieblingsgetränk / die Lieblingsgetränke,4319.mp3
+4320,das Menü / die Menüs,4320.mp3
+4321,das Messer / die Gabel,4321.mp3
+4322,das Modalverb / die Modalverben,4322.mp3
+4323,das Museum / die Museen,4323.mp3
+4324,das Partizip / die Partizipien,4324.mp3
+4325,das Problem / die Probleme,4325.mp3
+4326,das Pronomen / die Pronomen,4326.mp3
+4327,das Regal / die Regale,4327.mp3
+4328,das Reisezentrum / die Reisezentren,4328.mp3
+4329,das Restaurant / die Restaurants,4329.mp3
+4330,das Schild / die Schilder,4330.mp3
+4331,das Schlafzimmer / die Schlafzimmer,4331.mp3
+4332,das Schwimmbad / die Schwimmbäder,4332.mp3
+4333,das Sofa / die Sofas,4333.mp3
+4334,das Sonderangebot / die Sonderangebote,4334.mp3
+4335,das Ticket / die Tickets,4335.mp3
+4336,das Verb / die Verben,4336.mp3
+4337,das Wetter / die Wetter,4337.mp3
+4338,Das Wetter ist heute schön,4338.mp3
+4339,das Wohnzimmer / die Wohnzimmer,4339.mp3
+4340,das Wort / die Wörter,4340.mp3
+4341,das Zimmer / die Zimmer,4341.mp3
+4342,der Abend / die Abende,4342.mp3
+4343,der Anfänger / die Anfänger,4343.mp3
+4344,der Arzt / die Ärztin,4344.mp3
+4345,der Aufzug / die Aufzüge,4345.mp3
+4346,der Ausgang / die Ausgänge,4346.mp3
+4347,der Aushang / die Aushänge,4347.mp3
+4348,der Ausweis / die Ausweise,4348.mp3
+4349,der Automat / die Automaten,4349.mp3
+4350,der Bahnhof / die Bahnhöfe,4350.mp3
+4351,der Bahnsteig / die Bahnsteige,4351.mp3
+4352,der Balkon / die Balkone,4352.mp3
+4353,der Blitz / die Blitze,4353.mp3
+4354,der Bruder / die Brüder,4354.mp3
+4355,der Buchstabe / die Buchstaben,4355.mp3
+4356,der Bus / die Busse,4356.mp3
+4357,der Cousin / die Cousins,4357.mp3
+4358,der Eingang / die Eingänge,4358.mp3
+4359,der Einkaufskorb / die Einkaufskörbe,4359.mp3
+4360,der Einkaufswagen / die Einkaufswagen,4360.mp3
+4361,der Euro / die Euro,4361.mp3
+4362,der Fahrplan / die Fahrpläne,4362.mp3
+4363,der Familienname / die Familiennamen,4363.mp3
+4364,der Feiertag / die Feiertage,4364.mp3
+4365,der Fisch / die Fische,4365.mp3
+4366,der Flughafen / die Flughäfen,4366.mp3
+4367,der Flur / die Flure,4367.mp3
+4368,der Freund / die Freunde,4368.mp3
+4369,der Fußball / die Fußbälle,4369.mp3
+4370,der Garten / die Gärten,4370.mp3
+4371,der Gast / die Gäste,4371.mp3
+4372,der Geburtstag / die Geburtstage,4372.mp3
+4373,der Herd / die Herde,4373.mp3
+4374,der Himmel / die Himmel,4374.mp3
+4375,der Kaffee / die Kaffees,4375.mp3
+4376,der Kassenbon / die Kassenbons,4376.mp3
+4377,der Kassierer / die Kassierer,4377.mp3
+4378,der Keller / die Keller,4378.mp3
+4379,der Kellner / die Kellner,4379.mp3
+4380,der Kontinent / die Kontinente,4380.mp3
+4381,der Kreisverkehr / die Kreisverkehre,4381.mp3
+4382,der Kunde / die Kunden,4382.mp3
+4383,der Kurs / die Kurse,4383.mp3
+4384,der Körper / die Körper,4384.mp3
+4385,der Kühlschrank / die Kühlschränke,4385.mp3
+4386,der Lebenslauf / die Lebensläufe,4386.mp3
+4387,der Lehrer / die Lehrer,4387.mp3
+4388,der Lieblingstag / die Lieblingstage,4388.mp3
+4389,der Lieferservice / die Lieferservices,4389.mp3
+4390,der Mann / die Männer,4390.mp3
+4391,der Moment / die Momente,4391.mp3
+4392,der Monatsbeitrag / die Monatsbeiträge,4392.mp3
+4393,der Nachbar / die Nachbarn,4393.mp3
+4394,der Nachmittag / die Nachmittage,4394.mp3
+4395,der Name / die Namen,4395.mp3
+4396,der Nebel / die Nebel,4396.mp3
+4397,der Notausgang / die Notausgänge,4397.mp3
+4398,der Onkel / die Onkel,4398.mp3
+4399,der Ort / die Stadt,4399.mp3
+4400,der Park / die Parks,4400.mp3
+4401,der Parkplatz / die Parkplätze,4401.mp3
+4402,der Platz / die Plätze,4402.mp3
+4403,der Plural / die Plurale,4403.mp3
+4404,der Ratschlag / die Ratschläge,4404.mp3
+4405,der Ruhetag / die Ruhetage,4405.mp3
+4406,der Saft / die Säfte,4406.mp3
+4407,der Salat / die Salate,4407.mp3
+4408,der Schrank / die Schränke,4408.mp3
+4409,der Schüler / die Schüler,4409.mp3
+4410,der Singular / die Singulare,4410.mp3
+4411,der Sommer / die Sommer,4411.mp3
+4412,der Sonderfall / die Sonderfälle,4412.mp3
+4413,der Sport / die Sportarten,4413.mp3
+4414,der Stock / die Stockwerke,4414.mp3
+4415,der Student / die Studenten,4415.mp3
+4416,der Stuhl / die Stühle,4416.mp3
+4417,der Sturm / die Stürme,4417.mp3
+4418,der Supermarkt / die Supermärkte,4418.mp3
+4419,der Tag / die Tage,4419.mp3
+4420,der Tarif / die Tarife,4420.mp3
+4421,der Tee / die Tees,4421.mp3
+4422,der Teppich / die Teppiche,4422.mp3
+4423,der Tisch / die Tische,4423.mp3
+4424,der Vater / die Väter,4424.mp3
+4425,der Verbstamm / die Verbstämme,4425.mp3
+4426,der Verein / die Vereine,4426.mp3
+4427,der Vermieter / die Vermieterin,4427.mp3
+4428,der Vertrag / die Verträge,4428.mp3
+4429,der Vormittag / die Vormittage,4429.mp3
+4430,der Wein / die Weine,4430.mp3
+4431,der Wind / die Winde,4431.mp3
+4432,der Winter / die Winter,4432.mp3
+4433,der Wunsch / die Wünsche,4433.mp3
+4434,der Zug / die Züge,4434.mp3
+4435,der Zuschlag / die Zuschläge,4435.mp3
+4436,die Abfahrt / die Abfahrten,4436.mp3
+4437,die Abteilung / die Abteilungen,4437.mp3
+4438,die Ahnung / die Ahnungen,4438.mp3
+4439,die Ampel / die Ampeln,4439.mp3
+4440,die Ankunft / die Ankünfte,4440.mp3
+4441,die Anmeldung / die Anmeldungen,4441.mp3
+4442,die Anzeige / die Anzeigen,4442.mp3
+4443,die Arbeitszeit / die Arbeitszeiten,4443.mp3
+4444,die Bank / die Banken,4444.mp3
+4445,die Baustelle / die Baustellen,4445.mp3
+4446,die Besichtigung / die Besichtigungen,4446.mp3
+4447,die Besserung / die Besserungen,4447.mp3
+4448,die Bestellung / die Bestellungen,4448.mp3
+4449,die Bewerbung / die Bewerbungen,4449.mp3
+4450,die Bibliothek / die Bibliotheken,4450.mp3
+4451,die Bäckerei / die Bäckereien,4451.mp3
+4452,die Cola / die Colas,4452.mp3
+4453,die Cousine / die Cousinen,4453.mp3
+4454,die Dusche / die Duschen,4454.mp3
+4455,die Ecke / die Ecken,4455.mp3
+4456,die Einkaufsliste / die Einkaufslisten,4456.mp3
+4457,die Endung / die Endungen,4457.mp3
+4458,die Erkältung / die Erkältungen,4458.mp3
+4459,die Ermäßigung / die Ermäßigungen,4459.mp3
+4460,die Fahrkarte / die Fahrkarten,4460.mp3
+4461,die Fahrt / die Fahrten,4461.mp3
+4462,die Flatrate / die Flatrates,4462.mp3
+4463,die Frage / die Fragen,4463.mp3
+4464,die Haltestelle / die Haltestellen,4464.mp3
+4465,die Handynummer / die Handynummern,4465.mp3
+4466,die Haushaltshilfe / die Haushaltshilfen,4466.mp3
+4467,die Kartoffel / die Kartoffeln,4467.mp3
+4468,die Kasse / die Kassen,4468.mp3
+4469,die Kassiererin / die Kassiererinnen,4469.mp3
+4470,die Kellnerin / die Kellnerinnen,4470.mp3
+4471,Die Kinder müssen Papier mitbringen,4471.mp3
+4472,die Krankheit / die Krankheiten,4472.mp3
+4473,die Kundin / die Kundinnen,4473.mp3
+4474,die Küche / die Küchen,4474.mp3
+4475,die Lampe / die Lampen,4475.mp3
+4476,die Lehrerin / die Lehrerinnen,4476.mp3
+4477,die Lieblingsfarbe / die Lieblingsfarben,4477.mp3
+4478,die Lieblingsstadt / die Lieblingsstädte,4478.mp3
+4479,die Lösung / die Lösungen,4479.mp3
+4480,die Miete / die Mieten,4480.mp3
+4481,die Minute / die Minuten,4481.mp3
+4482,die Mitgliedschaft / die Mitgliedschaften,4482.mp3
+4483,die Mittagspause / die Mittagspausen,4483.mp3
+4484,die Mutter / die Mütter,4484.mp3
+4485,die Nacht / die Nächte,4485.mp3
+4486,die Nudel / die Nudeln,4486.mp3
+4487,die Nummer / die Nummern,4487.mp3
+4488,die Person / die Personen,4488.mp3
+4489,die Pizza / die Pizzen,4489.mp3
+4490,die Satzklammer / die Satzklammern,4490.mp3
+4491,die Schule / die Schulen,4491.mp3
+4492,die Schwester / die Schwestern,4492.mp3
+4493,die Schülerin / die Schülerinnen,4493.mp3
+4494,die Sekunde / die Sekunden,4494.mp3
+4495,die Situation / die Situationen,4495.mp3
+4496,die SMS / die SMS,4496.mp3
+4497,die Sonne / die Sonnen,4497.mp3
+4498,die Speisekarte / die Speisekarten,4498.mp3
+4499,die Stadt / die Städte,4499.mp3
+4500,die Stelle / die Stellen,4500.mp3
+4501,die Straße / die Hausnummer,4501.mp3
+4502,die Straße / die Straßen,4502.mp3
+4503,die Studentin / die Studentinnen,4503.mp3
+4504,die Tante / die Tanten,4504.mp3
+4505,die Toilette / die Toiletten,4505.mp3
+4506,die Treppe / die Treppen,4506.mp3
+4507,die Tür / die Türen,4507.mp3
+4508,die Uhr / die Uhren,4508.mp3
+4509,die Verspätung / die Verspätungen,4509.mp3
+4510,die Woche / die Wochen,4510.mp3
+4511,die Wohnung / die Wohnungen,4511.mp3
+4512,die Wolke / die Wolken,4512.mp3
+4513,die Zahl / die Zahlen,4513.mp3
+4514,die Zeit / die Zeiten,4514.mp3
+4515,die Zeitform / die Zeitformen,4515.mp3
+4516,die Ziffer / die Ziffern,4516.mp3
+4517,Ein Foto ist zu viel,4517.mp3
+4518,Eine Anzeige ist zu viel,4518.mp3
+4519,eine Milliarde / die Milliarden,4519.mp3
+4520,eine Million / die Millionen,4520.mp3
+4521,"Entschuldigung, haben Sie die Uhrzeit?",4521.mp3
+4522,erste Klasse / zweite Klasse,4522.mp3
+4523,Es gibt keine Zeit mehr,4523.mp3
+4524,Es ist fünf nach drei,4524.mp3
+4525,Es ist Viertel vor vier,4525.mp3
+4526,Es ist zehn nach drei,4526.mp3
+4527,Es ist zehn vor vier,4527.mp3
+4528,Genau ein Kreuz pro Zeile,4528.mp3
+4529,Gestern gab es keine Suppe,4529.mp3
+4530,Gibt es hier eine Bank?,4530.mp3
+4531,Gibt es hier einen Supermarkt?,4531.mp3
+4532,großes A / kleines a,4532.mp3
+4533,Heute gibt es keine Suppe,4533.mp3
+4534,Hier darf man nicht fotografieren,4534.mp3
+4535,Ich bin ein Jahr alt,4535.mp3
+4536,Ich bin Lehrer / Lehrerin,4536.mp3
+4537,Ich bin Schüler / Schülerin,4537.mp3
+4538,Ich bin Student / Studentin,4538.mp3
+4539,Ich esse sehr gern scharf,4539.mp3
+4540,Ich finde Michael ihn nett,4540.mp3
+4541,Ich habe das Buch gelesen,4541.mp3
+4542,Ich kaufe ein Glas Honig,4542.mp3
+4543,Ich kaufe ein Kilo Tomaten,4543.mp3
+4544,Ich kaufe einen Beutel Reis,4544.mp3
+4545,Ich komme aus den USA,4545.mp3
+4546,Ich komme aus der Schweiz,4546.mp3
+4547,Ich mag den Tee hier,4547.mp3
+4548,Ich muss keine Fahrkarte kaufen,4548.mp3
+4549,Ich möchte das Fahrrad verkaufen,4549.mp3
+4550,Ich möchte nach Österreich fahren,4550.mp3
+4551,Ich wohne in der Schweiz,4551.mp3
+4552,im Bus in der Straßenbahn,4552.mp3
+4553,In Österreich spricht man Deutsch,4553.mp3
+4554,Ja / Nein / Vielleicht,4554.mp3
+4555,Kann man am Sonntag einkaufen?,4555.mp3
+4556,Können Sie bitte langsam sprechen?,4556.mp3
+4557,Man bezahlt an der Kasse,4557.mp3
+4558,Man kann mit Karte bezahlen,4558.mp3
+4559,Man muss eine Fahrkarte kaufen,4559.mp3
+4560,Man muss einen Ausweis mitnehmen,4560.mp3
+4561,Mir geht es nicht gut,4561.mp3
+4562,Mir geht es sehr gut!,4562.mp3
+4563,Mir tut der Rücken weh,4563.mp3
+4564,Modellsatz: fünf Befragte nach Kontinent,4564.mp3
+4565,Modul Mündliche Prüfung — Einzelprüfung,4565.mp3
+4566,Modul Schriftliche Prüfung — Gruppenprüfung,4566.mp3
+4567,Nominativ — Wer? / Was?,4567.mp3
+4568,schönes / schlechtes / schreckliches,4568.mp3
+4569,"sechzehn, siebzehn, achtzehn, neunzehn, zwanzig",4569.mp3
+4570,Sie fährt mit der Straßenbahn,4570.mp3
+4571,Sie hören den Text zweimal,4571.mp3
+4572,Sie kommt aus den USA,4572.mp3
+4573,Sie müssen eine Fahrkarte kaufen,4573.mp3
+4574,Sie müssen einen Ausweis mitbringen,4574.mp3
+4575,Sie sprechen über jedes Thema,4575.mp3
+4576,Und Ihnen? oder Und Sie?,4576.mp3
+4577,Urlaub machen hat Urlaub gemacht,4577.mp3
+4578,Verb nach vorn = Ja/Nein,4578.mp3
+4579,Wann fährt der nächste Zug?,4579.mp3
+4580,Wann muss man da sein?,4580.mp3
+4581,Warum mir und nicht ich?,4581.mp3
+4582,Warum? Warum bist du traurig?,4582.mp3
+4583,Was ist er/sie von Beruf?,4583.mp3
+4584,Welche? Welche Sprachen sprichst du?,4584.mp3
+4585,Wer? Wer spricht gut Deutsch?,4585.mp3
+4586,Wie ist das Wetter heute?,4586.mp3
+4587,Wie viele Personen sehen Sie?,4587.mp3
+4588,Wie? Wie alt bist du?,4588.mp3
+4589,Wir besuchen euch am Sonntag,4589.mp3
+4590,Wir wohnen in der Schweiz,4590.mp3
+4591,Wo gibt es eine Bäckerei?,4591.mp3
+4592,Wo kann man Fahrkarten kaufen?,4592.mp3
+4593,Zwei Prüfende: Assessor + Interlokutor,4593.mp3
+4594,Übertragen Sie Zeile für Zeile,4594.mp3
+4595,Ab wann ist die Wohnung frei?,4595.mp3
+4596,Am Ende gibt es keine Extrazeit,4596.mp3
+4597,Aufgabe 1 — ein Formular ausfüllen,4597.mp3
+4598,Aufgabe 2 — eine persönliche E-Mail,4598.mp3
+4599,bar bezahlen / mit Karte bezahlen,4599.mp3
+4600,Danke. Wo ist hier eine Bushaltestelle?,4600.mp3
+4601,das Baby Wir haben ein Baby,4601.mp3
+4602,Das Bild hängt über dem Sofa,4602.mp3
+4603,das Kino Es gibt ein Kino,4603.mp3
+4604,der Apfel Ich esse einen Apfel,4604.mp3
+4605,Der Mann bezahlt an der Kasse,4605.mp3
+4606,Der Stuhl steht neben der Tür,4606.mp3
+4607,der Supermarkt Es gibt einen Supermarkt,4607.mp3
+4608,die Apotheke Es gibt eine Apotheke,4608.mp3
+4609,die Brüder Ich habe zwei Brüder,4609.mp3
+4610,Die Frage schenkt dir das Verb,4610.mp3
+4611,die Katze Ich habe eine Katze,4611.mp3
+4612,Die Kinder spielen vor dem Haus,4612.mp3
+4613,Die Kundin ist an der Kasse,4613.mp3
+4614,die Parks Es gibt zwei Parks,4614.mp3
+4615,Die Personen sind in den Geschäften,4615.mp3
+4616,Entschuldigung oder Es tut mir leid?,4616.mp3
+4617,Er ist Franzose. Sie ist Französin,4617.mp3
+4618,"Es geht um Zeiten, Preise, Gültigkeit",4618.mp3
+4619,"Frau Schmidt, sind Sie zu Hause?",4619.mp3
+4620,Früher gab es hier ein Kino,4620.mp3
+4621,Früher gab es hier einen Supermarkt,4621.mp3
+4622,Guten Appetit! Möchtest du eine Suppe?,4622.mp3
+4623,Ich bin gut ≠ I'm fine,4623.mp3
+4624,"Ich bin müde, aber ich komme",4624.mp3
+4625,Ich gebe meinem Baby einen Kuss,4625.mp3
+4626,Ich gebe meinen Kindern einen Kuss,4626.mp3
+4627,Ich gebe meiner Tochter einen Kuss,4627.mp3
+4628,Ich kaufe ein halbes Kilo Käse,4628.mp3
+4629,Im Urlaub gab es ein Schwimmbad,4629.mp3
+4630,"Ja, natürlich. Brauchen Sie eine Tüte?",4630.mp3
+4631,Kein Zutritt! Kein Ausgang! Kein Trinkwasser!,4631.mp3
+4632,mein kein ein bewegen sich zusammen,4632.mp3
+4633,Meine Hobbys sind Elektronik und Bücherlesen,4633.mp3
+4634,Rauchen verboten! Parken verboten! Betreten verboten!,4634.mp3
+4635,Sechs Karten liegen auf dem Tisch,4635.mp3
+4636,"Sie = -en, du = -st",4636.mp3
+4637,Sie hören die Personen nur einmal,4637.mp3
+4638,Sie hören jeden Text nur einmal,4638.mp3
+4639,Und du? Was ist dein Lieblingsessen?,4639.mp3
+4640,"W-Wort auf 1, Verb auf 2",4640.mp3
+4641,Was? Was sind Sie von Beruf?,4641.mp3
+4642,Wie viel Grad sind es heute?,4642.mp3
+4643,Wie viele Zimmer hat deine Wohnung?,4643.mp3
+4644,Wir möchten einen Tisch im Restaurant,4644.mp3
+4645,Wo gibt es hier eine Apotheke?,4645.mp3
+4646,Wohin? Wohin fahrt ihr in Urlaub?,4646.mp3
+4647,zwischen der Frau und dem Kind,4647.mp3
+4648,30 Sekunden vorher — nur die Bilder,4648.mp3
+4649,5 kurze Texte / Aushänge 6 Bilder,4649.mp3
+4650,Am liebsten esse ich Hähnchen mit Reis,4650.mp3
+4651,Am liebsten sehe ich Fußball im Fernsehen,4651.mp3
+4652,Auf dem Bild gibt es drei Personen,4652.mp3
+4653,Auf dem Bild gibt es eine Frau,4653.mp3
+4654,Darf ich noch ein Stück Kuchen nehmen?,4654.mp3
+4655,das Kleid Das Kleid finde ich elegant,4655.mp3
+4656,"das Lineal Nein, ich habe kein Lineal",4656.mp3
+4657,der Bahnhof Gibt es hier einen Bahnhof?,4657.mp3
+4658,der Hut Wie findest du den Hut?,4658.mp3
+4659,"der Kuli Nein, ich habe keinen Kuli",4659.mp3
+4660,die Hose Die Hose finde ich cool,4660.mp3
+4661,"die Kinder Nein, ich habe keine Kinder",4661.mp3
+4662,die Schuhe Die Schuhe finde ich teuer,4662.mp3
+4663,"die Uhr Nein, ich habe keine Uhr",4663.mp3
+4664,Ein Kreuz pro Zeile — genau eins,4664.mp3
+4665,Es gibt eine Suppe und einen Salat,4665.mp3
+4666,Es gibt einen Bahnhof und eine Haltestelle,4666.mp3
+4667,"Guten Tag! Ich möchte einen Kaffee, bitte",4667.mp3
+4668,"Hier, bitte. Möchtest du auch den Salat?",4668.mp3
+4669,Höflich bitten: können / dürfen / möchten,4669.mp3
+4670,"Ich bin … alt, nicht ich habe",4670.mp3
+4671,Ich habe Übergewicht! — Mach eine Diät!,4671.mp3
+4672,Ich lerne Deutsch und ich höre Musik,4672.mp3
+4673,"Ich möchte ein Hähnchen mit Reis, bitte",4673.mp3
+4674,"Ich möchte eine Fahrkarte nach Salzburg, bitte",4674.mp3
+4675,Ich trinke am liebsten Tee mit Milch,4675.mp3
+4676,Kann ich einen Termin für Freitag haben?,4676.mp3
+4677,Kannst du mir bitte das Brot geben?,4677.mp3
+4678,"Körper ich bin, Leben mir geht es",4678.mp3
+4679,Nicht rauchen! Nicht öffnen! Bitte nicht stören!,4679.mp3
+4680,Trinkst du Tee oder trinkst du Kaffee?,4680.mp3
+4681,"Tut mir leid, ich habe keine Uhr",4681.mp3
+4682,Um wie viel Uhr beginnt der Kurs?,4682.mp3
+4683,Wie oft? Wie oft spielst du Fußball?,4683.mp3
+4684,Wie viel? Wie viel kostet ein Fahrrad?,4684.mp3
+4685,Wie viele? Wie viele Kinder hast du?,4685.mp3
+4686,Wir fliegen mit dem Flugzeug nach Wien,4686.mp3
+4687,Zwei Aussagen pro Anzeige ja oder nein,4687.mp3
+4688,Ä Ö Ü sind keine neuen Buchstaben,4688.mp3
+4689,"Die Wohnung ist klein, aber sie ist billig",4689.mp3
+4690,"Guten Tag! Entschuldigung, wo finde ich die Milch?",4690.mp3
+4691,"Ich bin müde, denn ich habe viel gearbeitet",4691.mp3
+4692,Ich hätte gern eine Pizza und einen Salat,4692.mp3
+4693,"Ich spreche Urdu, Englisch und ein bisschen Deutsch",4693.mp3
+4694,Man darf die Bücher nur im Park lesen,4694.mp3
+4695,Man kann von 8 bis 18 Uhr anrufen,4695.mp3
+4696,"Nein, das sind keine Blumen. Das sind Sterne",4696.mp3
+4697,A – H – M – A – D,4697.mp3
+4698,Bitte schließen Sie die Tür! Drücken Sie den Knopf!,4698.mp3
+4699,Der Mann sitzt zwischen der Frau und dem Kind,4699.mp3
+4700,Der Zug kommt um 14:20 auf Gleis 3 an,4700.mp3
+4701,"Guten Tag! Ich möchte eine Fahrkarte nach Wien, bitte",4701.mp3
+4702,"Ich mag auch Grün, aber Rot mag ich nicht",4702.mp3
+4703,Ich spiele gern Kricket und ich schwimme auch gern,4703.mp3
+4704,"in der gesprochenen Sprache, in privaten und halbformellen Briefen",4704.mp3
+4705,"Kennst du sie? — Ja, ich kenne sie gut",4705.mp3
+4706,Mein Auto ist blau und mein Handy ist schwarz,4706.mp3
+4707,"Nein, das ist kein Bleistift. Das ist ein Apfel",4707.mp3
+4708,"Nein, das ist kein Vogel. Das ist ein Löwe",4708.mp3
+4709,"Nein, das ist keine Brücke. Das ist eine Katze",4709.mp3
+4710,Wir gehen ins Kino oder wir bleiben zu Hause,4710.mp3
+4711,Nehmen Sie den Bus. Dann steigen Sie am Hauptbahnhof aus,4711.mp3
+4712,Sie kaufen das Ticket im Internet. Sie zahlen 41 Euro,4712.mp3
+4713,Wie spät ist es? / Wie viel Uhr ist es?,4713.mp3
+4714,ABER: ein buchstabierter Name und die Telefonnummer müssen ganz richtig sein,4714.mp3
+4715,Das Kind ist in dem Büro. Das Kind ist im Büro,4715.mp3
+4716,Der Mann ist in dem Park. Der Mann ist im Park,4716.mp3
+4717,Ich koche gern zu Hause und ich kaufe Gemüse im Supermarkt,4717.mp3
+4718,"Ja, es gibt einen Supermarkt. / Nein, es gibt keinen Supermarkt",4718.mp3
+4719,L – O – H – A – N – A,4719.mp3
+4720,"null, eins, zwei, drei, vier, fünf, sechs, sieben, acht, neun, zehn",4720.mp3
+4721,Sie fahren am Freitag um 22 Uhr. Das Ticket ist gültig,4721.mp3
+4722,"Sind das Sterne? — Nein, das sind keine Sterne. Das sind Ballons",4722.mp3
+4723,Wem kocht Petra eine Suppe? — Petra kocht dem Mann eine Suppe,4723.mp3
+4724,"C Buchhandlung Lesezeit. Bücher, Wörterbücher und Zeitungen. Mo–Sa 9–18 Uhr geöffnet, Sonntag geschlossen",4724.mp3
+4725,B Buchladen Eck kauft und verkauft alte Bücher. Geöffnet Di–Sa 10–18 Uhr. Montag geschlossen,4725.mp3
+4726,"B Fitnessstudio AKTIV. Täglich geöffnet, 6–23 Uhr. Kein Ruhetag. Monatsbeitrag 25 €. Anmeldung online",4726.mp3
+4727,Ich hätte gern einen Wein / einen Saft / einen Kaffee / ein Bier,4727.mp3
+4728,"Ist das ein Buch? — Nein, das ist kein Buch. Das ist ein Handy",4728.mp3
+4729,"Ist das ein Kuli? — Nein, das ist kein Kuli. Das ist ein Bleistift",4729.mp3
+4730,"Ist das eine Blume? — Nein, das ist keine Blume. Das ist eine Schokolade",4730.mp3
+4731,"A Café Mozart sucht Kellnerin. Teilzeit, ab sofort. Arbeitszeit: Mo–Fr, 17–22 Uhr. Bewerbung an: arbeit@cafemozart.at",4731.mp3
+4732,"E Tarif MINI: 5 € monatlich, 100 Minuten telefonieren, SMS kostenlos. Angebot gültig bis 31. Dezember",4732.mp3
+4733,"Gut, dann nehme ich ein Stück Apfelkuchen. Können Sie mir bitte auch ein Glas Wasser bringen?",4733.mp3
+4734,"D Handytarif SMART: 9 € monatlich. Flatrate für Telefonate in Österreich, 10 GB Internet. Vertrag nur 1 Monat",4734.mp3
+4735,"C Supermarkt Frisch sucht Kassiererin, Vollzeit, ab 1. Oktober. Berufserfahrung nicht nötig. Gehalt: 1.800 € im Monat. Lebenslauf an: job@frisch.at",4735.mp3
+4736,E Ich putze und bügle für Sie. Auch Kinderbetreuung am Wochenende. 15 € pro Stunde. Tel. 0664 12 34 567,4736.mp3
+4737,"A Sportverein Donau: Yogakurs für Anfänger, Mo und Do um 19 Uhr. Monatsbeitrag 18 €. Anmeldung im Büro, Mo–Fr 9–17 Uhr",4737.mp3
+4738,"F Feinkost Anatolia: frisches Brot, Käse und Obst. Wir liefern täglich ab 10 Uhr. Ab 25 € ist die Lieferung kostenlos",4738.mp3
+4739,"D Haushaltshilfe gesucht! Zum Putzen und Waschen, 4 Stunden pro Woche, 16 € pro Stunde. Familie Weber, Tel. 0699 98 76 543",4739.mp3
+4740,F Pizzeria Bella — Lieferservice täglich 11–23 Uhr. Bestellung ab 15 € frei Haus. Sonderangebot am Dienstag: 2 Pizzen zum Preis von 1,4740.mp3
+4741,"Liebe Anna,ich komme heute nicht. Ich bin krank. Ich habe Fieber. Ich komme am Samstag. Wir gehen ins Kino. Wir gehen ins Café. Bitte bring einen Kuchen mit.Liebe Grüße, Bilal",4741.mp3
+4742,"Liebe Anna,ich komme heute leider nicht, denn ich bin krank und habe Fieber. Am Samstag habe ich Zeit, dann gehen wir ins Kino oder ins Café. Bring bitte einen Kuchen mit!Liebe Grüße, Bilal",4742.mp3
+4743,"Liebe Sofia,danke für die Einladung! Ich komme gern. Ich komme um sieben Uhr am Abend. Ich bringe einen Salat und Getränke mit. Ich fahre mit dem Bus, denn mein Auto ist kaputt.Liebe GrüßeBilal",4743.mp3

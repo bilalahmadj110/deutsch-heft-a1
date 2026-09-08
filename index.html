@@ -16207,7 +16207,7 @@ var PARTS=["A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","Q","
   /* ---------- Hören: Audio + Diktat ----------
      Every German line in this Heft was rendered to a WAV with Piper (de_DE-thorsten-high)
      and lives in german-audio/ next to this file. MANIFEST is that list in render order,
-     so entry n is german-audio/000n.wav. PARTS are the building blocks — letters, numbers,
+     so entry n is german-audio/000n.mp3. PARTS are the building blocks — letters, numbers,
      months, ordinals — that the Diktat stitches together. If the folder is missing (as in
      the published artifact) every control simply reports itself unavailable. */
   (function () {
@@ -16257,10 +16257,10 @@ var PARTS=["A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","Q","
     }
     function srcFor(text) {
       var n = MAP[key(text)];
-      if (n) return DIR + pad(n) + '.wav';
+      if (n) return DIR + pad(n) + '.mp3';
       /* single letters (the Lektion-5 alphabet) live only in the parts folder */
       var pn = PMAP[key(text)];
-      return pn ? PDIR + pad(pn) + '.wav' : null;
+      return pn ? PDIR + pad(pn) + '.mp3' : null;
     }
     function playSrc(src, el, done) {
       if (!st.on || !src) { if (done) done(); return; }
@@ -16404,7 +16404,7 @@ var PARTS=["A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","Q","
     var NAMES = ['Müller','Schmidt','Schneider','Fischer','Weber','Meyer','Wagner','Becker','Hoffmann','Schäfer'];
     var STREETS = ['Bahnhofstraße','Hauptstraße','Gartenweg','Lindenallee','Kirchgasse','Bergstraße','Amselweg','Schulstraße'];
 
-    function pf(word) { var n = PMAP[key(word)]; return n ? PDIR + pad(n) + '.wav' : null; }
+    function pf(word) { var n = PMAP[key(word)]; return n ? PDIR + pad(n) + '.mp3' : null; }
     function ri(n) { return Math.floor(Math.random() * n); }
     function pick(a) { return a[ri(a.length)]; }
 
