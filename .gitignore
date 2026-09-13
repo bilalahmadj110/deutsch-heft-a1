@@ -2,3 +2,8 @@
 .DS_Store
 german-audio/*.wav
 german-audio/parts/*.wav
+# the Polly endpoint for this copy of the Heft (see tools/tts-lambda/); not for the public repo
+tts.json
+
+# local preview server log
+.server.log

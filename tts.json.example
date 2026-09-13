@@ -1,0 +1,5 @@
+{
+  "endpoint": "https://<api-id>.execute-api.us-east-2.amazonaws.com/v1/tts",
+  "key": "<api key printed by tools/tts-lambda/deploy.sh>",
+  "cache": "https://deutsch-heft-a1-851725594636.s3.us-east-2.amazonaws.com/<secret-prefix>/"
+}
